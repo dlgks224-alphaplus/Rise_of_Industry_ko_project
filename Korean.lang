@@ -185,7 +185,7 @@ mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.titletext
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.demomode.titletext	11	DEMO	데모
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.demomode.descriptiontext	100	Try Rise of Industry with limited Buildings, Upgrades, and Recipes unlocked!	데모 모드를 통해 Rise of Industry의 제한된 건물, 업그레이드, 기술트리를 통해 즐겨보십시오!
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.titletext	11	TUTORIAL	튜토리얼
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.descriptiontext	100	Get a leg up on the competition and learn the basics of Rise of Industry.	Get a leg up on the competition and learn the basics of Rise of Industry.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.descriptiontext	100	Get a leg up on the competition and learn the basics of Rise of Industry.	Rise of Industry게임의 기초를 배우실 수 있습니다.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).titletext	11	Video Guides	비디오 가이드
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	그 외 도움이 필요하신가요?\n도움이 될만한 영상들을 참고하십시오.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).ytname	15	Gonumen	Gonumen
@@ -333,47 +333,47 @@ mainmenu.wrapper.popups.newsavegamedialog.wrapper.headline	10	NEW SAVE GAME	새 
 mainmenu.wrapper.popups.newsavegamedialog.wrapper.textbox.placeholder	30	Enter a name...	세이브 파일 이름(영어) 입력...
 mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btnsave.savetext	7	SAVE	저장
 mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btncancel.canceltext	7	CANCEL	취소
-mainmenu.wrapper.popups.tutorialpopup.wrapper.content.text	350	Welcome to the Rise of Industry! A game about managing production lines and the resources required to keep them going. \n\nBecause Rise of Industry has some complex concepts, we recommend going through a short tutorial that will cover the basics to help you avoid an early bankruptcy and boredom!	Welcome to the Rise of Industry! A game about managing production lines and the resources required to keep them going. \n\nBecause Rise of Industry has some complex concepts, we recommend going through a short tutorial that will cover the basics to help you avoid an early bankruptcy and boredom!
-mainmenu.wrapper.popups.tutorialpopup.wrapper.content.buttonbar.closebutton.text	5	OK	OK
-mainmenu.wrapper.popups.demopopup.wrapper.content.headline	20	Infinite thanks for playing!	Infinite thanks for playing!
+mainmenu.wrapper.popups.tutorialpopup.wrapper.content.text	350	Welcome to the Rise of Industry! A game about managing production lines and the resources required to keep them going. \n\nBecause Rise of Industry has some complex concepts, we recommend going through a short tutorial that will cover the basics to help you avoid an early bankruptcy and boredom!	Rise of Industry에 오신 걸 환영합니다! 이 게임은 제조라인과 자원을 계속 관리해야 하는 게임입니다. \n\n왜냐하면, Rise of Industry 약간의 복잡함을 가지고 있습니다. 따라서 우리는 튜토리얼을 참고하시는 것을 권장합니다. 여러분의 초기파산과 지루함을 방지하기 위해서 말이죠!
+mainmenu.wrapper.popups.tutorialpopup.wrapper.content.buttonbar.closebutton.text	5	OK	확인
+mainmenu.wrapper.popups.demopopup.wrapper.content.headline	20	Infinite thanks for playing!	플레이해주셔서 감사합니다!
 mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.steamtext	300	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on Steam. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on Steam. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.
-mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.steambuttonarea.steambutton.text	9	TO STEAM!	TO STEAM!
+mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.steambuttonarea.steambutton.text	9	TO STEAM!	스팀에서!
 mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.gogtext	300	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on GOG. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on GOG. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.
-mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.gogbuttonarea.gogbutton.text	9	TO GOG	TO GOG
+mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.gogbuttonarea.gogbutton.text	9	TO GOG	GOG에서
 mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph2area.text	300	Also, as you can imagine, the game is heavily in development. \nWe would like to know what you felt when playing the demo, so drop by our Discord!	Also, as you can imagine, the game is heavily in development. \nWe would like to know what you felt when playing the demo, so drop by our Discord!
-mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph2area.discordbuttonarea.discordbutton.text	9	TO DISCORD!	TO DISCORD!
+mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph2area.discordbuttonarea.discordbutton.text	9	TO DISCORD!	DISCORD에서!
 mainmenu.wrapper.popups.reviewpopup.wrapper.content.text	300	Dear Industrialists! Thank you for supporting our game! It means the world to us to have such a great community. We would greatly appreciate it if you could take a moment to share your thoughts about Rise of Industry on Steam. Your review means a lot! Best wishes and happy playing from Dapper Penguin Studios and Kasedo Games	Dear Industrialists! Thank you for supporting our game! It means the world to us to have such a great community. We would greatly appreciate it if you could take a moment to share your thoughts about Rise of Industry on Steam. Your review means a lot! Best wishes and happy playing from Dapper Penguin Studios and Kasedo Games
 mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.steambutton.text	11	TAKE ME THERE!	TAKE ME THERE!
 mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.gogbutton.text	11	TAKE ME THERE!	TAKE ME THERE!
 mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.remindbutton.text	11	REMIND ME LATER	REMIND ME LATER
 mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.nevenshowbutton.text	11	NOT INTERESTED	NOT INTERESTED
-mainmenudialogconfig.exittomainmenu.title	10	Are you sure?	Are you sure?
-mainmenudialogconfig.exittomainmenu.body	250	All unsaved progress will be lost	All unsaved progress will be lost
-mainmenudialogconfig.exittomainmenu.option1	7	Yes	Yes
-mainmenudialogconfig.exittomainmenu.option2	7	No	No
-mainmenudialogconfig.exittodesktop.title	10	Are you sure?	Are you sure?
-mainmenudialogconfig.exittodesktop.option1	7	Yes	Yes
-mainmenudialogconfig.exittodesktop.option2	7	No	No
-mainmenudialogconfig.exittodesktopingame.title	10	Are you sure?	Are you sure?
-mainmenudialogconfig.exittodesktopingame.body	250	All unsaved progress will be lost	All unsaved progress will be lost
-mainmenudialogconfig.exittodesktopingame.option1	7	Yes	Yes
-mainmenudialogconfig.exittodesktopingame.option2	7	No	No
-mainmenudialogconfig.loadsavegameingame.title	10	Load Game	Load Game
+mainmenudialogconfig.exittomainmenu.title	10	Are you sure?	확실한가요?
+mainmenudialogconfig.exittomainmenu.body	250	All unsaved progress will be lost	모든 저장되지 않은 진행사항을 잃게 됩니다
+mainmenudialogconfig.exittomainmenu.option1	7	Yes	예
+mainmenudialogconfig.exittomainmenu.option2	7	No	아니오
+mainmenudialogconfig.exittodesktop.title	10	Are you sure?	확실한가요?
+mainmenudialogconfig.exittodesktop.option1	7	Yes	예
+mainmenudialogconfig.exittodesktop.option2	7	No	아니오
+mainmenudialogconfig.exittodesktopingame.title	10	Are you sure?	확실한가요?
+mainmenudialogconfig.exittodesktopingame.body	250	All unsaved progress will be lost	모든 저장되지 않은 진행사항을 잃게 됩니다
+mainmenudialogconfig.exittodesktopingame.option1	7	Yes	예
+mainmenudialogconfig.exittodesktopingame.option2	7	No	아니오
+mainmenudialogconfig.loadsavegameingame.title	10	Load Game	게임 불러오기
 mainmenudialogconfig.loadsavegameingame.body	250	Loading this game will cause any unsaved changes to be lost.\nDo you want to continue?	Loading this game will cause any unsaved changes to be lost.\nDo you want to continue?
-mainmenudialogconfig.loadsavegameingame.option1	7	Confirm	Confirm
-mainmenudialogconfig.loadsavegameingame.option2	7	Cancel	Cancel
-mainmenudialogconfig.loadoutdatedsavegame.title	10	OUTDATED	OUTDATED
-mainmenudialogconfig.loadoutdatedsavegame.body	250	Savegame is outdated, loading will cause unwanted behaviour!	Savegame is outdated, loading will cause unwanted behaviour!
-mainmenudialogconfig.loadoutdatedsavegame.option1	7	Go On	Go On
-mainmenudialogconfig.loadoutdatedsavegame.option2	7	Cancel	Cancel
-mainmenudialogconfig.overwritesavegame.title	10	Save Game	Save Game
-mainmenudialogconfig.overwritesavegame.body	250	This will override your game.\nDo you want to continue?	This will override your game.\nDo you want to continue?
-mainmenudialogconfig.overwritesavegame.option1	7	Save	Save
-mainmenudialogconfig.overwritesavegame.option2	7	Cancel	Cancel
-mainmenudialogconfig.deleteallsavegames.title	10	Are you sure?	Are you sure?
+mainmenudialogconfig.loadsavegameingame.option1	7	Confirm	승인
+mainmenudialogconfig.loadsavegameingame.option2	7	Cancel	취소
+mainmenudialogconfig.loadoutdatedsavegame.title	10	OUTDATED	예전버전
+mainmenudialogconfig.loadoutdatedsavegame.body	250	Savegame is outdated, loading will cause unwanted behaviour!	이전 버전에 저장된 게임입니다, 로딩 중 문제가 발생할 수 있습니다!
+mainmenudialogconfig.loadoutdatedsavegame.option1	7	Go On	계속하기
+mainmenudialogconfig.loadoutdatedsavegame.option2	7	Cancel	취소하기
+mainmenudialogconfig.overwritesavegame.title	10	Save Game	게임 저장
+mainmenudialogconfig.overwritesavegame.body	250	This will override your game.\nDo you want to continue?	이전 세이브파일에 덮어씌웁니다.\nDo you want to continue?
+mainmenudialogconfig.overwritesavegame.option1	7	Save	저장
+mainmenudialogconfig.overwritesavegame.option2	7	Cancel	취소
+mainmenudialogconfig.deleteallsavegames.title	10	Are you sure?	확실한가요?
 mainmenudialogconfig.deleteallsavegames.body	250	Do you really want to delete all your savegames?	Do you really want to delete all your savegames?
-mainmenudialogconfig.deleteallsavegames.option1	7	Yes	Yes
-mainmenudialogconfig.deleteallsavegames.option2	7	No	No
+mainmenudialogconfig.deleteallsavegames.option1	7	Yes	에
+mainmenudialogconfig.deleteallsavegames.option2	7	No	아니오
 mainmenudialogconfig.resolutionfixer.title	10	UI Scaling Issue	UI Scaling Issue
 mainmenudialogconfig.resolutionfixer.body	250	It looks like your UI scaling is off. We can fix it for you or you can go to the Options Menu, Graphics tab, and lower it until everything is nicely aligned.	It looks like your UI scaling is off. We can fix it for you or you can go to the Options Menu, Graphics tab, and lower it until everything is nicely aligned.
 mainmenudialogconfig.resolutionfixer.option1	7	OK	OK

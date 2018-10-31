@@ -1,59 +1,59 @@
-mainmenu.wrapper.exitdesktop.tooltip	30	EXIT TO DESKTOP	EXIT TO DESKTOP
-mainmenu.wrapper.navigation.main.resumelink	15	RESUME	RESUME
-mainmenu.wrapper.navigation.main.continuelink	15	CONTINUE	CONTINUE
-mainmenu.wrapper.navigation.main.gamemodeslink	15	NEW GAME	NEW GAME
-mainmenu.wrapper.navigation.main.gamemodeslinkactive.text	15	NEW GAME	NEW GAME
-mainmenu.wrapper.navigation.main.loadgamelink	15	LOAD GAME	LOAD GAME
-mainmenu.wrapper.navigation.main.loadgameactive.text	15	LOAD GAME	LOAD GAME
-mainmenu.wrapper.navigation.main.savegamelink	15	SAVE GAME	SAVE GAME
-mainmenu.wrapper.navigation.main.savegameactive.text	15	SAVE GAME	SAVE GAME
-mainmenu.wrapper.navigation.main.settingslink	15	SETTINGS	SETTINGS
-mainmenu.wrapper.navigation.main.settingslinkactive.text	15	SETTINGS	SETTINGS
-mainmenu.wrapper.navigation.settings.interfacelink.gameplaylinkdisabled	15	INTERFACE	INTERFACE
-mainmenu.wrapper.navigation.settings.interfacelinkactive.gameplaylinkenabled	15	INTERFACE	INTERFACE
-mainmenu.wrapper.navigation.settings.gameplaylink.gameplaylinkdisabled	15	GAMEPLAY	GAMEPLAY
-mainmenu.wrapper.navigation.settings.gameplayactive.gameplaylinkenabled	15	GAMEPLAY	GAMEPLAY
-mainmenu.wrapper.navigation.settings.graphicslink.gameplaylinkdisabled	15	GRAPHICS	GRAPHICS
-mainmenu.wrapper.navigation.settings.graphicsactive.gameplaylinkenabled	15	GRAPHICS	GRAPHICS
-mainmenu.wrapper.navigation.settings.audiolink.gameplaylinkdisabled	15	AUDIO	AUDIO
-mainmenu.wrapper.navigation.settings.audioactive.gameplaylinkenabled	15	AUDIO	AUDIO
-mainmenu.wrapper.navigation.settings.controlslink.gameplaylinkdisabled	15	CONTROLS	CONTROLS
-mainmenu.wrapper.navigation.settings.controlsactive.gameplaylinkenabled	15	CONTROLS	CONTROLS
-mainmenu.wrapper.navigation.main.returntomainmenulink	15	EXIT TO MAIN MENU	EXIT TO MAIN MENU
-mainmenu.wrapper.webbuttonsleft.wikiicon.tooltip	30	PUBLIC WIKI	PUBLIC WIKI
-mainmenu.wrapper.webbuttonsleft.newslettericon.tooltip	30	NEWSLETTER	NEWSLETTER
-mainmenu.wrapper.webbuttonsleft.recipebooklink.tooltip	30	RECIPE BOOK	RECIPE BOOK
-mainmenu.wrapper.webbuttonsright.twittericon.tooltip	30	TWITTER	TWITTER
-mainmenu.wrapper.webbuttonsright.facebookicon.tooltip	30	FACEBOOK	FACEBOOK
+mainmenu.wrapper.exitdesktop.tooltip	30	EXIT TO DESKTOP	데스크탑으로 나가기
+mainmenu.wrapper.navigation.main.resumelink	15	RESUME	게임 재계
+mainmenu.wrapper.navigation.main.continuelink	15	CONTINUE	불러오기
+mainmenu.wrapper.navigation.main.gamemodeslink	15	NEW GAME	새로운 게임시작
+mainmenu.wrapper.navigation.main.gamemodeslinkactive.text	15	NEW GAME	새로운 게임시작
+mainmenu.wrapper.navigation.main.loadgamelink	15	LOAD GAME	게임 불러오기
+mainmenu.wrapper.navigation.main.loadgameactive.text	15	LOAD GAME	게임 불러오기
+mainmenu.wrapper.navigation.main.savegamelink	15	SAVE GAME	게임 저장하기
+mainmenu.wrapper.navigation.main.savegameactive.text	15	SAVE GAME	게임 저장하기
+mainmenu.wrapper.navigation.main.settingslink	15	SETTINGS	설정
+mainmenu.wrapper.navigation.main.settingslinkactive.text	15	SETTINGS	설정
+mainmenu.wrapper.navigation.settings.interfacelink.gameplaylinkdisabled	15	INTERFACE	인터페이스
+mainmenu.wrapper.navigation.settings.interfacelinkactive.gameplaylinkenabled	15	INTERFACE	인터페이스
+mainmenu.wrapper.navigation.settings.gameplaylink.gameplaylinkdisabled	15	GAMEPLAY	게임플레이
+mainmenu.wrapper.navigation.settings.gameplayactive.gameplaylinkenabled	15	GAMEPLAY	게임플레이
+mainmenu.wrapper.navigation.settings.graphicslink.gameplaylinkdisabled	15	GRAPHICS	그래픽
+mainmenu.wrapper.navigation.settings.graphicsactive.gameplaylinkenabled	15	GRAPHICS	그래픽
+mainmenu.wrapper.navigation.settings.audiolink.gameplaylinkdisabled	15	AUDIO	오디오
+mainmenu.wrapper.navigation.settings.audioactive.gameplaylinkenabled	15	AUDIO	오디오
+mainmenu.wrapper.navigation.settings.controlslink.gameplaylinkdisabled	15	CONTROLS	컨트롤
+mainmenu.wrapper.navigation.settings.controlsactive.gameplaylinkenabled	15	CONTROLS	컨트롤
+mainmenu.wrapper.navigation.main.returntomainmenulink	15	EXIT TO MAIN MENU	메인메뉴로 나가기
+mainmenu.wrapper.webbuttonsleft.wikiicon.tooltip	30	PUBLIC WIKI	공식 WIKI 열기
+mainmenu.wrapper.webbuttonsleft.newslettericon.tooltip	30	NEWSLETTER	뉴스레터
+mainmenu.wrapper.webbuttonsleft.recipebooklink.tooltip	30	RECIPE BOOK	영문 게임 가이드
+mainmenu.wrapper.webbuttonsright.twittericon.tooltip	30	TWITTER	트위터
+mainmenu.wrapper.webbuttonsright.facebookicon.tooltip	30	FACEBOOK	페이스북
 mainmenu.wrapper.webbuttonsright.redditicon.tooltip	30	REDDIT	REDDIT
-mainmenu.wrapper.discordarea.discordbutton.discordbuttontext	15	Join our Discord	Join our Discord
-gameoptionsuiconfig.onoffoption.name	20	On Off	On Off
-gameoptionsuiconfig.onoffoption.description	300	On Off	On Off
-gameoptionsuiconfig.onoffoption.value0	10	Off	Off
-gameoptionsuiconfig.onoffoption.value1	10	On	On
-gameoptionsuiconfig.aaoption.name	20	Anti-Aliasing	Anti-Aliasing
-gameoptionsuiconfig.aaoption.description	300	(FXAA) Smooths out the diagonal edges on game objects.	(FXAA) Smooths out the diagonal edges on game objects.
-gameoptionsuiconfig.aaoption.value0	10	Off	Off
+mainmenu.wrapper.discordarea.discordbutton.discordbuttontext	15	Join our Discord	개발진 디스코드
+gameoptionsuiconfig.onoffoption.name	20	On Off	켜기 끄기
+gameoptionsuiconfig.onoffoption.description	300	On Off	켜기 끄기
+gameoptionsuiconfig.onoffoption.value0	10	Off	끄기
+gameoptionsuiconfig.onoffoption.value1	10	On	켜기
+gameoptionsuiconfig.aaoption.name	20	Anti-Aliasing	안티 앨리어싱
+gameoptionsuiconfig.aaoption.description	300	(FXAA) Smooths out the diagonal edges on game objects.	(FXAA) 오브젝트 모서리를 부드럽게 만들어줍니다.
+gameoptionsuiconfig.aaoption.value0	10	Off	끄기
 gameoptionsuiconfig.aaoption.value1	10	FXAA	FXAA
-gameoptionsuiconfig.analyticsoption.name	20	Enable Analytics	Enable Analytics
-gameoptionsuiconfig.analyticsoption.description	300	Allows sending <b>anonymous</b> data to the developers to help improve the game.	Allows sending <b>anonymous</b> data to the developers to help improve the game.
-gameoptionsuiconfig.anisooption.name	20	Anisotropic Filtering	Anisotropic Filtering
-gameoptionsuiconfig.anisooption.description	300	Will make textures less fuzzy when zoomed out.	Will make textures less fuzzy when zoomed out.
-gameoptionsuiconfig.anisooption.value0	10	Disabled	Disabled
-gameoptionsuiconfig.anisooption.value1	10	Enabled	Enabled
-gameoptionsuiconfig.anisooption.value2	10	Everywhere	Everywhere
-gameoptionsuiconfig.aooption.name	20	Ambient Occlusion	Ambient Occlusion
-gameoptionsuiconfig.aooption.description	300	(HBAO) Changes how light affects game objects.	(HBAO) Changes how light affects game objects.
-gameoptionsuiconfig.autosaveintervaloption.name	20	Autosave Interval	Autosave Interval
-gameoptionsuiconfig.autosaveintervaloption.description	300	How often Rise of Industry will Autosave.	How often Rise of Industry will Autosave.
-gameoptionsuiconfig.autosaveintervaloption.value0	10	Never	Never
-gameoptionsuiconfig.autosaveintervaloption.value1	10	5 Minutes	5 Minutes
-gameoptionsuiconfig.autosaveintervaloption.value2	10	10 Minutes	10 Minutes
-gameoptionsuiconfig.autosaveintervaloption.value3	10	15 Minutes	15 Minutes
-gameoptionsuiconfig.autosaveintervaloption.value4	10	30 Minutes	30 Minutes
-gameoptionsuiconfig.autosaveintervaloption.value5	10	60 Minutes	60 Minutes
-gameoptionsuiconfig.autosaveslotsoption.name	20	Autosave Slots	Autosave Slots
-gameoptionsuiconfig.autosaveslotsoption.description	300	Determines the number of Autosave files.	Determines the number of Autosave files.
+gameoptionsuiconfig.analyticsoption.name	20	Enable Analytics	애널리틱스 활성화
+gameoptionsuiconfig.analyticsoption.description	300	Allows sending <b>anonymous</b> data to the developers to help improve the game.	항상 구글 애널리틱스를 활용해 <b>익명</b>의 데이터를 개발진에게 보내 게임개발에 도움을 줍니다.
+gameoptionsuiconfig.anisooption.name	20	Anisotropic Filtering	이방성 필터링
+gameoptionsuiconfig.anisooption.description	300	Will make textures less fuzzy when zoomed out.	축소시 텍스쳐가 흐려집니다.
+gameoptionsuiconfig.anisooption.value0	10	Disabled	비활성화
+gameoptionsuiconfig.anisooption.value1	10	Enabled	활성화
+gameoptionsuiconfig.anisooption.value2	10	Everywhere	모두
+gameoptionsuiconfig.aooption.name	20	Ambient Occlusion	앰비언트 오클루전
+gameoptionsuiconfig.aooption.description	300	(HBAO) Changes how light affects game objects.	(HBAO) 오브젝트 광원효괴를 변경합니다
+gameoptionsuiconfig.autosaveintervaloption.name	20	Autosave Interval	자동저장 시간
+gameoptionsuiconfig.autosaveintervaloption.description	300	How often Rise of Industry will Autosave.	얼마나 자주 저장할것인지 설정 할 수 있습니다.
+gameoptionsuiconfig.autosaveintervaloption.value0	10	Never	사용안함
+gameoptionsuiconfig.autosaveintervaloption.value1	10	5 Minutes	5분 간격
+gameoptionsuiconfig.autosaveintervaloption.value2	10	10 Minutes	10분 간격
+gameoptionsuiconfig.autosaveintervaloption.value3	10	15 Minutes	15분 간격
+gameoptionsuiconfig.autosaveintervaloption.value4	10	30 Minutes	30분 간격
+gameoptionsuiconfig.autosaveintervaloption.value5	10	60 Minutes	60분 간격
+gameoptionsuiconfig.autosaveslotsoption.name	20	Autosave Slots	자동저장 파일 수
+gameoptionsuiconfig.autosaveslotsoption.description	300	Determines the number of Autosave files.	총 몆개의 계속 생성할지 설정 할 수 있습니다.
 gameoptionsuiconfig.autosaveslotsoption.value0	10	1	1
 gameoptionsuiconfig.autosaveslotsoption.value1	10	2	2
 gameoptionsuiconfig.autosaveslotsoption.value2	10	3	3
@@ -64,248 +64,248 @@ gameoptionsuiconfig.autosaveslotsoption.value6	10	7	7
 gameoptionsuiconfig.autosaveslotsoption.value7	10	8	8
 gameoptionsuiconfig.autosaveslotsoption.value8	10	9	9
 gameoptionsuiconfig.autosaveslotsoption.value9	10	10	10
-gameoptionsuiconfig.autosaveslotsoption.value10	10	Unlimited	Unlimited
-gameoptionsuiconfig.autowhoption.name	20	Automated Warehouses	Automated Warehouses
-gameoptionsuiconfig.autowhoption.description	300	Allows the usage of Automated Warehouses by default and shows the alerts when outside their range.	Allows the usage of Automated Warehouses by default and shows the alerts when outside their range.
-gameoptionsuiconfig.bloomoption.name	20	Bloom	Bloom
-gameoptionsuiconfig.bloomoption.description	300	Toggles the lighting glow on and off.	Toggles the lighting glow on and off.
-gameoptionsuiconfig.cloudsoption.name	20	Clouds	Clouds
-gameoptionsuiconfig.cloudsoption.description	300	Enables the Cloud Shadows	Enables the Cloud Shadows
-gameoptionsuiconfig.colorgradingoption.name	20	Color Grading	Color Grading
-gameoptionsuiconfig.colorgradingoption.description	300	Changes the color tone and temperature.	Changes the color tone and temperature.
-gameoptionsuiconfig.colorgradingoption.value0	10	Off	Off
-gameoptionsuiconfig.colorgradingoption.value1	10	Cool	Cool
-gameoptionsuiconfig.colorgradingoption.value2	10	Normal	Normal
-gameoptionsuiconfig.colorgradingoption.value3	10	Warm	Warm
-gameoptionsuiconfig.currencyformat.name	20	Minimal Money	Minimal Money
-gameoptionsuiconfig.currencyformat.description	300	Applies a minimal value to the money indicators (for example 2M instead of 2,000,000)	Applies a minimal value to the money indicators (for example 2M instead of 2,000,000)
-gameoptionsuiconfig.demolishconfirmation.name	20	Confirm Demolish	Confirm Demolish
-gameoptionsuiconfig.demolishconfirmation.description	300	Shows a confirmation popup when deleting buildings to avoid mistakes.	Shows a confirmation popup when deleting buildings to avoid mistakes.
-gameoptionsuiconfig.edgescrollingspeedoption.name	20	Edge Scrolling Speed	Edge Scrolling Speed
-gameoptionsuiconfig.edgescrollingspeedoption.description	300	Adjusts the speed of camera movement when you put the cursor at the edge of the screen.	Adjusts the speed of camera movement when you put the cursor at the edge of the screen.
-gameoptionsuiconfig.edgescrolloption.name	20	Edge Scroll	Edge Scroll
-gameoptionsuiconfig.edgescrolloption.description	300	Allows the camera to continue to move when the cursor is at the edge of the screen.	Allows the camera to continue to move when the cursor is at the edge of the screen.
-gameoptionsuiconfig.effectsvolumeoption.name	20	Effects Volume	Effects Volume
-gameoptionsuiconfig.effectsvolumeoption.description	300	Adjusts the volume of the Ambient and User Interface sounds.	Adjusts the volume of the Ambient and User Interface sounds.
-gameoptionsuiconfig.expensepopupsoption.name	20	Expense Popups	Expense Popups
-gameoptionsuiconfig.expensepopupsoption.description	300	Displays the amount of money spent during upkeep and purchasing.	Displays the amount of money spent during upkeep and purchasing.
-gameoptionsuiconfig.flybymovementspeedoption.name	20	Fly - By Movement Speed.	Fly - By Movement Speed.
-gameoptionsuiconfig.flybymovementspeedoption.description	300	Sets the WASD moving speed.	Sets the WASD moving speed.
-gameoptionsuiconfig.flybysensitivityoption.name	20	Fly - By Sensitivity	Fly - By Sensitivity
-gameoptionsuiconfig.flybysensitivityoption.description	300	Sets the sensitivity when looking around in Fly - By mode.	Sets the sensitivity when looking around in Fly - By mode.
-gameoptionsuiconfig.fullscreenoption.name	20	Fullscreen	Fullscreen
-gameoptionsuiconfig.fullscreenoption.description	300	Change how the game window is displayed.	Change how the game window is displayed.
-gameoptionsuiconfig.fullscreenoption.value0	10	Windowed	Windowed
-gameoptionsuiconfig.fullscreenoption.value1	10	Borderless	Borderless
-gameoptionsuiconfig.fullscreenoption.value2	10	Fullscreen	Fullscreen
-gameoptionsuiconfig.incomepopupsoption.name	20	Income Popups	Income Popups
-gameoptionsuiconfig.incomepopupsoption.description	300	Displays the amount of money made when a product is consumed.	Displays the amount of money made when a product is consumed.
-gameoptionsuiconfig.invertedmousepanningoption.name	20	Inverted Mouse Panning	Inverted Mouse Panning
-gameoptionsuiconfig.invertedmousepanningoption.description	300	Invert camera controls when using a mouse.	Invert camera controls when using a mouse.
-gameoptionsuiconfig.keyboardlayoutoption.name	20	Keyboard Layout	Keyboard Layout
-gameoptionsuiconfig.keyboardlayoutoption.description	300	Uses AZERTY hotkeys instead of QWERTY.	Uses AZERTY hotkeys instead of QWERTY.
+gameoptionsuiconfig.autosaveslotsoption.value10	10	Unlimited	무제한
+gameoptionsuiconfig.autowhoption.name	20	Automated Warehouses	자동 창고
+gameoptionsuiconfig.autowhoption.description	300	Allows the usage of Automated Warehouses by default and shows the alerts when outside their range.	기본적으로 창고를 자동설정으로 하며 범위를 벗어날 경우 경고로 알려줍니다
+gameoptionsuiconfig.bloomoption.name	20	Bloom	블룸 효과
+gameoptionsuiconfig.bloomoption.description	300	Toggles the lighting glow on and off.	빛이 비춰지는 쪽을 사실적(흐리게) 표현하는 광원효과입니다.
+gameoptionsuiconfig.cloudsoption.name	20	Clouds	구름 그림자
+gameoptionsuiconfig.cloudsoption.description	300	Enables the Cloud Shadows	구름 그림자를 활성화 합니다.
+gameoptionsuiconfig.colorgradingoption.name	20	Color Grading	색보정
+gameoptionsuiconfig.colorgradingoption.description	300	Changes the color tone and temperature.	설정한 온도에 따라 색상톤이 변경됩니다.
+gameoptionsuiconfig.colorgradingoption.value0	10	Off	끄기
+gameoptionsuiconfig.colorgradingoption.value1	10	Cool	추움
+gameoptionsuiconfig.colorgradingoption.value2	10	Normal	평범함
+gameoptionsuiconfig.colorgradingoption.value3	10	Warm	따뜻함
+gameoptionsuiconfig.currencyformat.name	20	Minimal Money	화폐 단위
+gameoptionsuiconfig.currencyformat.description	300	Applies a minimal value to the money indicators (for example 2M instead of 2,000,000)	화폐 단위를 적용합니다 (예를들어 2,000,000대신 2M으로 표기합니다)
+gameoptionsuiconfig.demolishconfirmation.name	20	Confirm Demolish	철거 확인
+gameoptionsuiconfig.demolishconfirmation.description	300	Shows a confirmation popup when deleting buildings to avoid mistakes.	실수를 방지하기 위해 철거 시 경고창을 띄웁니다.
+gameoptionsuiconfig.edgescrollingspeedoption.name	20	Edge Scrolling Speed	가장자리 스크롤 속도
+gameoptionsuiconfig.edgescrollingspeedoption.description	300	Adjusts the speed of camera movement when you put the cursor at the edge of the screen.	화면 모서리에 마우스가 있을때 카메라가 이동하는 속도를 설정합니다.
+gameoptionsuiconfig.edgescrolloption.name	20	Edge Scroll	가장자리 스크롤
+gameoptionsuiconfig.edgescrolloption.description	300	Allows the camera to continue to move when the cursor is at the edge of the screen.	화면 모서리에 마우스가 있다면 카메라가 마우스방향으로 움직도록 합니다.
+gameoptionsuiconfig.effectsvolumeoption.name	20	Effects Volume	효과 음량
+gameoptionsuiconfig.effectsvolumeoption.description	300	Adjusts the volume of the Ambient and User Interface sounds.	유저 인터페이스 효과음 소리 음량을 조절합니다.
+gameoptionsuiconfig.expensepopupsoption.name	20	Expense Popups	지출 팝업창
+gameoptionsuiconfig.expensepopupsoption.description	300	Displays the amount of money spent during upkeep and purchasing.	유지보수 및 구매로 인한 지출내역을 표시해줍니다.
+gameoptionsuiconfig.flybymovementspeedoption.name	20	Fly - By Movement Speed.	카메라 이동속도
+gameoptionsuiconfig.flybymovementspeedoption.description	300	Sets the WASD moving speed.	WASD를 통한 카메라 이동속도를 조절합니다.(Fly - By mode)
+gameoptionsuiconfig.flybysensitivityoption.name	20	Fly - By Sensitivity	카메라 이동감도
+gameoptionsuiconfig.flybysensitivityoption.description	300	Sets the sensitivity when looking around in Fly - By mode.	카메라 이동감도를 조절합니다.(Fly - By mode)
+gameoptionsuiconfig.fullscreenoption.name	20	Fullscreen	화면모드
+gameoptionsuiconfig.fullscreenoption.description	300	Change how the game window is displayed.	게임 화면모드를 변경할 수 있습니다.
+gameoptionsuiconfig.fullscreenoption.value0	10	Windowed	창모드
+gameoptionsuiconfig.fullscreenoption.value1	10	Borderless	전체창모드
+gameoptionsuiconfig.fullscreenoption.value2	10	Fullscreen	전체화면
+gameoptionsuiconfig.incomepopupsoption.name	20	Income Popups	수입 팝업창
+gameoptionsuiconfig.incomepopupsoption.description	300	Displays the amount of money made when a product is consumed.	제품 판매시 수입내역을 표시해줍니다.
+gameoptionsuiconfig.invertedmousepanningoption.name	20	Inverted Mouse Panning	마우스 반전
+gameoptionsuiconfig.invertedmousepanningoption.description	300	Invert camera controls when using a mouse.	마우스 움직임과 반대로 카메라가 움직입니다
+gameoptionsuiconfig.keyboardlayoutoption.name	20	Keyboard Layout	키보드 레이아웃
+gameoptionsuiconfig.keyboardlayoutoption.description	300	Uses AZERTY hotkeys instead of QWERTY.	AZERTY핫키를 QWERTY로 대체합니다.
 gameoptionsuiconfig.keyboardlayoutoption.value0	10	QWERTY	QWERTY
 gameoptionsuiconfig.keyboardlayoutoption.value1	10	AZERTY	AZERTY
-gameoptionsuiconfig.languageoption.name	20	Language	Language
-gameoptionsuiconfig.languageoption.description	300	Change the game language.	Change the game language.
-gameoptionsuiconfig.mastervolumeoption.name	20	Master Volume	Master Volume
-gameoptionsuiconfig.mastervolumeoption.description	300	Adjusts the volume for every sound in the game.	Adjusts the volume for every sound in the game.
-gameoptionsuiconfig.mousebuildingrotationoption.name	20	Mousewheel To Rotate	Mousewheel To Rotate
-gameoptionsuiconfig.mousebuildingrotationoption.description	300	By default you can rotate buildings with 'R'. This setting also allows rotating the buildings using the mousewheel.	By default you can rotate buildings with 'R'. This setting also allows rotating the buildings using the mousewheel.
-gameoptionsuiconfig.musicvolumeoption.name	20	Music Volume	Music Volume
-gameoptionsuiconfig.musicvolumeoption.description	300	Adjusts the volume of the Music.	Adjusts the volume of the Music.
-gameoptionsuiconfig.resolutionoption.name	20	Resolution	Resolution
-gameoptionsuiconfig.resolutionoption.description	300	Change the Screen Resolution. The higher the resolution the crisper the game looks.	Change the Screen Resolution. The higher the resolution the crisper the game looks.
-gameoptionsuiconfig.shadowdistanceoption.name	20	Shadow Distance	Shadow Distance
-gameoptionsuiconfig.shadowdistanceoption.description	300	Changes the distance at which the shadows appear and disappear.	Changes the distance at which the shadows appear and disappear.
-gameoptionsuiconfig.shadowdistanceoption.value0	10	Very Close	Very Close
-gameoptionsuiconfig.shadowdistanceoption.value1	10	Close	Close
-gameoptionsuiconfig.shadowdistanceoption.value2	10	Medium	Medium
-gameoptionsuiconfig.shadowdistanceoption.value3	10	Far	Far
-gameoptionsuiconfig.shadowdistanceoption.value4	10	Very Far	Very Far
-gameoptionsuiconfig.shadowdistanceoption.value5	10	Insanely Far	Insanely Far
-gameoptionsuiconfig.shadowfilteringoption.name	20	Shadow Filter	Shadow Filter
-gameoptionsuiconfig.shadowfilteringoption.description	300	Affects how shadows appear in-game.	Affects how shadows appear in-game.
-gameoptionsuiconfig.shadowfilteringoption.value0	10	Off	Off
-gameoptionsuiconfig.shadowfilteringoption.value1	10	Hard	Hard
-gameoptionsuiconfig.shadowfilteringoption.value2	10	Soft	Soft
-gameoptionsuiconfig.shadowqualityoption.name	20	Shadow Quality	Shadow Quality
-gameoptionsuiconfig.shadowqualityoption.description	300	Changes the shadow resolution. The higher the resolution the crisper the game looks.	Changes the shadow resolution. The higher the resolution the crisper the game looks.
-gameoptionsuiconfig.shadowqualityoption.value0	10	Low	Low
-gameoptionsuiconfig.shadowqualityoption.value1	10	Medium	Medium
-gameoptionsuiconfig.shadowqualityoption.value2	10	High	High
-gameoptionsuiconfig.shadowqualityoption.value3	10	Very High	Very High
-gameoptionsuiconfig.skipintrooption.name	20	Skip Intro	Skip Intro
-gameoptionsuiconfig.skipintrooption.description	300	Skips the intro when the game is being started.	Skips the intro when the game is being started.
-gameoptionsuiconfig.storagefullalertsoption.name	20	Full Storage Alerts	Full Storage Alerts
-gameoptionsuiconfig.storagefullalertsoption.description	300	Displays alerts for when trying to deliver to a building with full storage.	Displays alerts for when trying to deliver to a building with full storage.
-gameoptionsuiconfig.uiscaleoption.name	20	UI Scale	UI Scale
-gameoptionsuiconfig.uiscaleoption.description	300	Adjust the size of user interface elements.	Adjust the size of user interface elements.
-gameoptionsuiconfig.uivolumeoption.name	20	UI Volume	UI Volume
-gameoptionsuiconfig.uivolumeoption.description	300	Adjusts the volume of the User Interface.	Adjusts the volume of the User Interface.
-gameoptionsuiconfig.vignetteoption.name	20	Vignette	Vignette
-gameoptionsuiconfig.vignetteoption.description	300	Toggles an opaque black border around the edge of the game screen.	Toggles an opaque black border around the edge of the game screen.
-gameoptionsuiconfig.vsyncoption.name	20	V-Sync	V-Sync
-gameoptionsuiconfig.vsyncoption.description	300	Syncs the game's frame rate to the monitor.	Syncs the game's frame rate to the monitor.
-gameoptionsuiconfig.zoomspeedoption.name	20	Zoom Speed	Zoom Speed
-gameoptionsuiconfig.zoomspeedoption.description	300	Adjust the speed of the zoom controls.	Adjust the speed of the zoom controls.
-mainmenu.wrapper.views.settingsscreen.gameplayoptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	DEFAULT
-mainmenu.wrapper.views.settingsscreen.gameplayoptions.contentbuttons.applybutton.applybuttontext	5	APPLY	APPLY
-mainmenu.wrapper.views.settingsscreen.gameplayoptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	RESET
-mainmenu.wrapper.views.settingsscreen.gameplayoptions.savedgamepreview(1).performancenotification.text	30	May affect performance	May affect performance
-mainmenu.wrapper.views.settingsscreen.controlsoptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	DEFAULT
-mainmenu.wrapper.views.settingsscreen.controlsoptions.contentbuttons.applybutton.applybuttontext	5	APPLY	APPLY
-mainmenu.wrapper.views.settingsscreen.controlsoptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	RESET
-mainmenu.wrapper.views.settingsscreen.audiooptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	DEFAULT
-mainmenu.wrapper.views.settingsscreen.audiooptions.contentbuttons.applybutton.applybuttontext	5	APPLY	APPLY
-mainmenu.wrapper.views.settingsscreen.audiooptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	RESET
-mainmenu.wrapper.views.settingsscreen.graphicoptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	DEFAULT
-mainmenu.wrapper.views.settingsscreen.graphicoptions.contentbuttons.applybutton.applybuttontext	5	APPLY	APPLY
-mainmenu.wrapper.views.settingsscreen.graphicoptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	RESET
-mainmenu.wrapper.views.settingsscreen.graphicoptions.savedgamepreview(1).scalenotification.text	0	UI Scaling is too high compared to the resolution. Unwanted issues will occur	UI Scaling is too high compared to the resolution. Unwanted issues will occur
-mainmenu.wrapper.views.settingsscreen.interfaceoptions.savedgamepreview(1).performancenotification.text	30	May affect performance	May affect performance
-mainmenu.wrapper.views.gamemodesscreen.news.link	20	Read More >	Read More >
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.careermode.titletext	11	CAREER	CAREER
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.careermode.descriptiontext	100	Build your own empire with nothing but a little money and a dream. Set your own difficulty, grow through the Tech Tree, and rise to the top!	Build your own empire with nothing but a little money and a dream. Set your own difficulty, grow through the Tech Tree, and rise to the top!
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.freeplaymode.titletext	11	SANDBOX	SANDBOX
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.freeplaymode.descriptiontext	100	Expand your horizons without worrying about Money, Tech Tree or Regions. Just set your own difficulty and go!	Expand your horizons without worrying about Money, Tech Tree or Regions. Just set your own difficulty and go!
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.tutorialmode.titletext	11	Tutorial	Tutorial
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.tutorialmode.descriptiontext	100	Get a leg up on the competition and learn the basics of Rise of Industry.	Get a leg up on the competition and learn the basics of Rise of Industry.
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanager.titletext	11	Mod Manager	Mod Manager
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanager.descriptiontext	100	Manage the Rise of Industry mods you want to load.	Manage the Rise of Industry mods you want to load.
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagercomingsoon.titletext	11	Mod Manager	Mod Manager
+gameoptionsuiconfig.languageoption.name	20	Language	언어
+gameoptionsuiconfig.languageoption.description	300	Change the game language.	게임 언어를 변경합니다.
+gameoptionsuiconfig.mastervolumeoption.name	20	Master Volume	메인 음량
+gameoptionsuiconfig.mastervolumeoption.description	300	Adjusts the volume for every sound in the game.	게임의 모든 소리 음량을 조절합니다.
+gameoptionsuiconfig.mousebuildingrotationoption.name	20	Mousewheel To Rotate	마우스 휠 건물회전
+gameoptionsuiconfig.mousebuildingrotationoption.description	300	By default you can rotate buildings with 'R'. This setting also allows rotating the buildings using the mousewheel.	'R'키를 통해 건물을 회전시킬 수 있지만 마우스 휠키로도 가능해집니다.
+gameoptionsuiconfig.musicvolumeoption.name	20	Music Volume	음악 음량
+gameoptionsuiconfig.musicvolumeoption.description	300	Adjusts the volume of the Music.	음악 소리 음량을 조절합니다.
+gameoptionsuiconfig.resolutionoption.name	20	Resolution	해상도
+gameoptionsuiconfig.resolutionoption.description	300	Change the Screen Resolution. The higher the resolution the crisper the game looks.	게임 해상도를 변경하며 높을수록 게임을 더 생동감 있게 만듭니다.
+gameoptionsuiconfig.shadowdistanceoption.name	20	Shadow Distance	그림자 표시 거리
+gameoptionsuiconfig.shadowdistanceoption.description	300	Changes the distance at which the shadows appear and disappear.	그림자가 생기고 사라지는 길이를 조절합니다.
+gameoptionsuiconfig.shadowdistanceoption.value0	10	Very Close	매우 짧음
+gameoptionsuiconfig.shadowdistanceoption.value1	10	Close	짧음
+gameoptionsuiconfig.shadowdistanceoption.value2	10	Medium	보통
+gameoptionsuiconfig.shadowdistanceoption.value3	10	Far	멂
+gameoptionsuiconfig.shadowdistanceoption.value4	10	Very Far	매우 멂
+gameoptionsuiconfig.shadowdistanceoption.value5	10	Insanely Far	최대로 멂
+gameoptionsuiconfig.shadowfilteringoption.name	20	Shadow Filter	그림자 필터
+gameoptionsuiconfig.shadowfilteringoption.description	300	Affects how shadows appear in-game.	게임상에서 그림자를 어떻게 나타낼 것인지 정할 수 있습니다.
+gameoptionsuiconfig.shadowfilteringoption.value0	10	Off	끄기
+gameoptionsuiconfig.shadowfilteringoption.value1	10	Hard	고딕하게
+gameoptionsuiconfig.shadowfilteringoption.value2	10	Soft	부드럽게
+gameoptionsuiconfig.shadowqualityoption.name	20	Shadow Quality	그림자 품질
+gameoptionsuiconfig.shadowqualityoption.description	300	Changes the shadow resolution. The higher the resolution the crisper the game looks.	그림자 해상도를 변경하며 높을수록 게임을 더 생동감 있게 만듭니다.
+gameoptionsuiconfig.shadowqualityoption.value0	10	Low	낮음
+gameoptionsuiconfig.shadowqualityoption.value1	10	Medium	중간
+gameoptionsuiconfig.shadowqualityoption.value2	10	High	높음
+gameoptionsuiconfig.shadowqualityoption.value3	10	Very High	매우 높음
+gameoptionsuiconfig.skipintrooption.name	20	Skip Intro	인트로 스킵
+gameoptionsuiconfig.skipintrooption.description	300	Skips the intro when the game is being started.	게임 시작시 나오는 인트로를 스킵할 수 있습니다.
+gameoptionsuiconfig.storagefullalertsoption.name	20	Full Storage Alerts	창고 가득참 경고
+gameoptionsuiconfig.storagefullalertsoption.description	300	Displays alerts for when trying to deliver to a building with full storage.	창고가 가득 차서 물건배달이 불가능할 경우 경고 창을 띄웁니다.
+gameoptionsuiconfig.uiscaleoption.name	20	UI Scale	UI 크기
+gameoptionsuiconfig.uiscaleoption.description	300	Adjust the size of user interface elements.	UI 크기를 조절할 수 있습니다.
+gameoptionsuiconfig.uivolumeoption.name	20	UI Volume	UI 음량
+gameoptionsuiconfig.uivolumeoption.description	300	Adjusts the volume of the User Interface.	UI 소리 음량을 조절할 수 있습니다.
+gameoptionsuiconfig.vignetteoption.name	20	Vignette	비네트
+gameoptionsuiconfig.vignetteoption.description	300	Toggles an opaque black border around the edge of the game screen.	모서리를 어둡게하여 게임화면에 비네트 효과를 부여합니다.
+gameoptionsuiconfig.vsyncoption.name	20	V-Sync	수직 동기화
+gameoptionsuiconfig.vsyncoption.description	300	Syncs the game's frame rate to the monitor.	게임 프레임을 모니도 프레임과 동기화 시킵니다.
+gameoptionsuiconfig.zoomspeedoption.name	20	Zoom Speed	확대/축소 속도
+gameoptionsuiconfig.zoomspeedoption.description	300	Adjust the speed of the zoom controls.	확대/축소 속도를 조절할 수 있습니다.
+mainmenu.wrapper.views.settingsscreen.gameplayoptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	기본값
+mainmenu.wrapper.views.settingsscreen.gameplayoptions.contentbuttons.applybutton.applybuttontext	5	APPLY	적용
+mainmenu.wrapper.views.settingsscreen.gameplayoptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	초기화
+mainmenu.wrapper.views.settingsscreen.gameplayoptions.savedgamepreview(1).performancenotification.text	30	May affect performance	성능에 영향을 줄 수 있습니다
+mainmenu.wrapper.views.settingsscreen.controlsoptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	기본값
+mainmenu.wrapper.views.settingsscreen.controlsoptions.contentbuttons.applybutton.applybuttontext	5	APPLY	적용
+mainmenu.wrapper.views.settingsscreen.controlsoptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	초기화
+mainmenu.wrapper.views.settingsscreen.audiooptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	기본값
+mainmenu.wrapper.views.settingsscreen.audiooptions.contentbuttons.applybutton.applybuttontext	5	APPLY	적용
+mainmenu.wrapper.views.settingsscreen.audiooptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	초기화
+mainmenu.wrapper.views.settingsscreen.graphicoptions.contentbuttons.defaultbutton.applybuttontext	5	DEFAULT	기본값
+mainmenu.wrapper.views.settingsscreen.graphicoptions.contentbuttons.applybutton.applybuttontext	5	APPLY	적용
+mainmenu.wrapper.views.settingsscreen.graphicoptions.contentbuttons.resetbutton.resetbuttontext	5	RESET	초기화
+mainmenu.wrapper.views.settingsscreen.graphicoptions.savedgamepreview(1).scalenotification.text	0	UI Scaling is too high compared to the resolution. Unwanted issues will occur	UI 크기가 해상도보다 너무 큽니다! 문제가 발생할 수 있습니다.
+mainmenu.wrapper.views.settingsscreen.interfaceoptions.savedgamepreview(1).performancenotification.text	30	May affect performance	성능에 영향을 줄 수 있습니다
+mainmenu.wrapper.views.gamemodesscreen.news.link	20	Read More >	자세히 >
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.careermode.titletext	11	CAREER	커리어 모드
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.careermode.descriptiontext	100	Build your own empire with nothing but a little money and a dream. Set your own difficulty, grow through the Tech Tree, and rise to the top!	소정의 돈과 꿈을 품으며 당신만의 제국을 건설하십시오! 자신만의 난이도를 설정하고 기술 트리를 늘리며 최고로 거듭나십시오.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.freeplaymode.titletext	11	SANDBOX	샌드박스
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.freeplaymode.descriptiontext	100	Expand your horizons without worrying about Money, Tech Tree or Regions. Just set your own difficulty and go!	돈, 지역확장 그리고 기술 트리 걱정 없이 마음껏 사용하십시오! 단지 여러분이 설정한 난이도만 조금 있을 뿐입니다
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.tutorialmode.titletext	11	Tutorial	튜토리얼
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.tutorialmode.descriptiontext	100	Get a leg up on the competition and learn the basics of Rise of Industry.	Rise of Industry게임의 기초를 배우실 수 있습니다.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanager.titletext	11	Mod Manager	모드 관리자
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanager.descriptiontext	100	Manage the Rise of Industry mods you want to load.	Rise of Industry에 원하는 모드를 불러오며 관리하십시오.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagercomingsoon.titletext	11	Mod Manager	모드 관리자
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagercomingsoon.comingsoontext	0	<b><color #C87C0D>COMING SOON</color></b>	<b><color #C87C0D>COMING SOON</color></b>
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagercomingsoon.descriptiontext	100	Manage the Rise of Industry mods you want to load.	Manage the Rise of Industry mods you want to load.
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.titletext	11	Video Guides	Video Guides
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	Need some extra help?\nCheck out this helpful playlist.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagercomingsoon.descriptiontext	100	Manage the Rise of Industry mods you want to load.	Rise of Industry에 원하는 모드를 불러오며 관리하십시오.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.titletext	11	Video Guides	동영상 가이드
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	그 외 도움이 필요하신가요?\n도움이 될만한 영상들을 참고하십시오.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.ytname	15	Gonumen	Gonumen
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.titletext	11	CAREER	CAREER
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.descriptiontext	100	Build your own empire with nothing but a little money and a dream. Set your own difficulty, grow through the Tech Tree, and rise to the top!	Build your own empire with nothing but a little money and a dream. Set your own difficulty, grow through the Tech Tree, and rise to the top!
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.titletext(1)	25	Not available in the demo	Not available in the demo
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.demomode.titletext	11	DEMO	DEMO
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.demomode.descriptiontext	100	Try Rise of Industry with limited Buildings, Upgrades, and Recipes unlocked!	Try Rise of Industry with limited Buildings, Upgrades, and Recipes unlocked!
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.titletext	11	TUTORIAL	TUTORIAL
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.titletext	11	CAREER	커리어 모드
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.descriptiontext	100	Build your own empire with nothing but a little money and a dream. Set your own difficulty, grow through the Tech Tree, and rise to the top!	소정의 돈과 꿈을 품으며 당신만의 제국을 건설하십시오! 자신만의 난이도를 설정하고 기술 트리를 늘리며 최고로 거듭나십시오.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.titletext(1)	25	Not available in the demo	데모버전에서는 사용할 수 없습니다.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.demomode.titletext	11	DEMO	데모
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.demomode.descriptiontext	100	Try Rise of Industry with limited Buildings, Upgrades, and Recipes unlocked!	데모 모드를 통해 Rise of Industry의 제한된 건물, 업그레이드, 기술트리를 통해 즐겨보십시오!
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.titletext	11	TUTORIAL	튜토리얼
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.descriptiontext	100	Get a leg up on the competition and learn the basics of Rise of Industry.	Get a leg up on the competition and learn the basics of Rise of Industry.
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).titletext	11	Video Guides	Video Guides
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	Need some extra help?\nCheck out this helpful playlist.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).titletext	11	Video Guides	비디오 가이드
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	그 외 도움이 필요하신가요?\n도움이 될만한 영상들을 참고하십시오.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).ytname	15	Gonumen	Gonumen
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.videofeatured.titletext	11	Featured let's play	Featured let's play
-mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.backbutton(1).loadbuttonbuttontext	5	BACK	BACK
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.videofeatured.titletext	11	Featured let's play	추후 제공됨
+mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.backbutton(1).loadbuttonbuttontext	5	BACK	뒤로
 mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.generatebutton.generatebuttontext	5	GENERATE	GENERATE
 mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.expertmodebutton.resetbuttontext	5	ADVANCED	ADVANCED
 mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.simplemodebutton.resetbuttontext	5	STANDARD	STANDARD
-mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.resetbutton.resetbuttontext	5	RESET	RESET
-newgameoptions.roadorientation.name	20	Road Orientation	Road Orientation
-newgameoptions.roadorientation.description	300	Adjust the truck driving orientation.	Adjust the truck driving orientation.
-newgameoptions.roadorientation.value0	10	Left	Left
-newgameoptions.roadorientation.value1	10	Right	Right
-newgameoptions.townnamegenerator.name	20	Town Name Generator	Town Name Generator
-newgameoptions.townnamegenerator.description	300	Choose from which real-world country should the town names be randomised from.	Choose from which real-world country should the town names be randomised from.
-newgameoptions.townnamegenerator.value0	10	United States	United States
-newgameoptions.townnamegenerator.value1	10	England	England
-newgameoptions.townnamegenerator.value2	10	Germany	Germany
-newgameoptions.townnamegenerator.value3	10	Spain	Spain
-newgameoptions.mapsize.name	20	Map Size	Map Size
-newgameoptions.mapsize.description	300	Choose the size of the map.\n\nLarge maps use a <b>huge</b> amount of resources!\nMin 16GB RAM	Choose the size of the map.\n\nLarge maps use a <b>huge</b> amount of resources!\nMin 16GB RAM
-newgameoptions.mapsize.value0	10	Small	Small
-newgameoptions.mapsize.value1	10	Medium	Medium
-newgameoptions.mapsize.value2	10	Large	Large
-newgameoptions.townindustries.name	20	Town Industries	Town Industries
-newgameoptions.townindustries.description	300	Controls whether the AI towns will place buildings or not.	Controls whether the AI towns will place buildings or not.
-newgameoptions.townindustries.value0	10	No	No
-newgameoptions.townindustries.value1	10	Yes	Yes
-newgameoptions.rivers.name	20	River Generation	River Generation
-newgameoptions.rivers.description	300	Choose how many Rivers are created during World Generation	Choose how many Rivers are created during World Generation
-newgameoptions.rivers.value0	10	None	None
-newgameoptions.rivers.value1	10	1	1
-newgameoptions.rivers.value2	10	2	2
+mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.resetbutton.resetbuttontext	5	RESET	초기화
+newgameoptions.roadorientation.name	20	Road Orientation	도로 운전방향
+newgameoptions.roadorientation.description	300	Adjust the truck driving orientation.	트럭이 운전할 도로 방향을 설정할 수 있습니다.
+newgameoptions.roadorientation.value0	10	Left	왼쪽
+newgameoptions.roadorientation.value1	10	Right	오른쪽
+newgameoptions.townnamegenerator.name	20	Town Name Generator	도시 이름 스타일
+newgameoptions.townnamegenerator.description	300	Choose from which real-world country should the town names be randomised from.	선택한 나라에 있는 실제 도시명을 랜덤으로 부여합니다.
+newgameoptions.townnamegenerator.value0	10	United States	미국식
+newgameoptions.townnamegenerator.value1	10	England	영국식
+newgameoptions.townnamegenerator.value2	10	Germany	독일식
+newgameoptions.townnamegenerator.value3	10	Spain	스페인식
+newgameoptions.mapsize.name	20	Map Size	맵 크기
+newgameoptions.mapsize.description	300	Choose the size of the map.\n\nLarge maps use a <b>huge</b> amount of resources!\nMin 16GB RAM	맵 크기를 고르십시오\n\n큰 맵은 <b>매우 많은</b>양의 사양을 요구합니다!\n최소 16GB RAM 필요함
+newgameoptions.mapsize.value0	10	Small	작음
+newgameoptions.mapsize.value1	10	Medium	보통
+newgameoptions.mapsize.value2	10	Large	큼
+newgameoptions.townindustries.name	20	Town Industries	도시 산업
+newgameoptions.townindustries.description	300	Controls whether the AI towns will place buildings or not.	도시 AI가 산업 건물을 짓고 운영하게 할지 말지 정할 수 있습니다.
+newgameoptions.townindustries.value0	10	No	끄키
+newgameoptions.townindustries.value1	10	Yes	켜기
+newgameoptions.rivers.name	20	River Generation	강 생성
+newgameoptions.rivers.description	300	Choose how many Rivers are created during World Generation	맵에 몇개의 강을 생성할지 선택할 수 있습니다.
+newgameoptions.rivers.value0	10	None	없음
+newgameoptions.rivers.value1	10	1	1개
+newgameoptions.rivers.value2	10	2	2개
 mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.options.worldoptions.descriptionarea.optionname	20	Option Name	Option Name
 mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.options.worldoptions.descriptionarea.optiondescription	300	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-newgameoptions.preset.name	20	Preset	Preset
-newgameoptions.preset.description	300	Premade Difficulty Settings.	Premade Difficulty Settings.
-newgameoptions.preset.value0	10	Newcomer	Newcomer
-newgameoptions.preset.value1	10	Normal	Normal
-newgameoptions.preset.value2	10	Veteran	Veteran
-newgameoptions.preset.value3	10	Startup	Startup
-newgameoptions.preset.value4	10	Custom	Custom
-newgameoptions.startingloan.name	20	Starting Loan	Starting Loan
-newgameoptions.startingloan.description	300	Changes the Starting Loan Amount (millions).	Changes the Starting Loan Amount (millions).
+newgameoptions.preset.name	20	Preset	프리세팅
+newgameoptions.preset.description	300	Premade Difficulty Settings.	구성된 난이도를 선택하거나 수정할 수 있습니다.
+newgameoptions.preset.value0	10	Newcomer	출발자
+newgameoptions.preset.value1	10	Normal	준수한
+newgameoptions.preset.value2	10	Veteran	베테랑
+newgameoptions.preset.value3	10	Startup	스타트업
+newgameoptions.preset.value4	10	Custom	커스텀
+newgameoptions.startingloan.name	20	Starting Loan	시작 대출금
+newgameoptions.startingloan.description	300	Changes the Starting Loan Amount (millions).	시작 대출금 금액을 정하십시오(백만 단위).
 newgameoptions.startingloan.value0	10	$20M	$20M
 newgameoptions.startingloan.value1	10	$15M	$15M
 newgameoptions.startingloan.value2	10	$10M	$10M
 newgameoptions.startingloan.value3	10	$7.5M	$7.5M
 newgameoptions.startingloan.value4	10	$5M	$5M
-newgameoptions.demand.name	20	Settlement Demand	Settlement Demand
-newgameoptions.demand.description	300	Adjusts the baseline Demand of all products.	Adjusts the baseline Demand of all products.
+newgameoptions.demand.name	20	Settlement Demand	제품 수요
+newgameoptions.demand.description	300	Adjusts the baseline Demand of all products.	모든 제품의 수요량을 정할 수 있습니다.
 newgameoptions.demand.value0	10	200%	200%
 newgameoptions.demand.value1	10	150%	150%
 newgameoptions.demand.value2	10	100%	100%
 newgameoptions.demand.value3	10	75%	75%
 newgameoptions.demand.value4	10	50%	50%
-newgameoptions.prices.name	20	Product Pricing	Product Pricing
-newgameoptions.prices.description	300	Adjusts the baseline Price of all products.	Adjusts the baseline Price of all products.
+newgameoptions.prices.name	20	Product Pricing	제품 가격
+newgameoptions.prices.description	300	Adjusts the baseline Price of all products.	모든 제품의 기본 가격을 정할 수 있습니다.
 newgameoptions.prices.value0	10	125%	125%
 newgameoptions.prices.value1	10	110%	110%
 newgameoptions.prices.value2	10	100%	100%
 newgameoptions.prices.value3	10	95%	95%
 newgameoptions.prices.value4	10	90%	90%
-newgameoptions.resourcefrequency.name	20	Resource Availability	Resource Availability
-newgameoptions.resourcefrequency.description	300	Adjusts how frequent resources are placed on the Map, and how many tiles each Node has.	Adjusts how frequent resources are placed on the Map, and how many tiles each Node has.
+newgameoptions.resourcefrequency.name	20	Resource Availability	자원 잠재력
+newgameoptions.resourcefrequency.description	300	Adjusts how frequent resources are placed on the Map, and how many tiles each Node has.	맵에 얼마나 많은 자원을 배치할 것인지와 노드의 타일 수를 정할 수 있습니다.
 newgameoptions.resourcefrequency.value0	10	150%	150%
 newgameoptions.resourcefrequency.value1	10	125%	125%
 newgameoptions.resourcefrequency.value2	10	100%	100%
 newgameoptions.resourcefrequency.value3	10	75%	75%
 newgameoptions.resourcefrequency.value4	10	50%	50%
-newgameoptions.eventdifficulty.name	20	Event Difficulty	Event Difficulty
-newgameoptions.eventdifficulty.description	300	Adjusts the difficulty level of Events.	Adjusts the difficulty level of Events.
-newgameoptions.eventdifficulty.value0	10	Very Helpful	Very Helpful
-newgameoptions.eventdifficulty.value1	10	Helpful	Helpful
-newgameoptions.eventdifficulty.value2	10	Standard	Standard
-newgameoptions.eventdifficulty.value3	10	Hard	Hard
-newgameoptions.eventdifficulty.value4	10	Mayhem	Mayhem
-newgameoptions.upkeep.name	20	Upkeep	Upkeep
-newgameoptions.upkeep.description	300	Adjusts the amount of upkeep of each building.	Adjusts the amount of upkeep of each building.
-newgameoptions.upkeep.value0	10	Free	Free
+newgameoptions.eventdifficulty.name	20	Event Difficulty	이벤트 난이도
+newgameoptions.eventdifficulty.description	300	Adjusts the difficulty level of Events.	이벤트 난이도를 조절할 수 있습니다.
+newgameoptions.eventdifficulty.value0	10	Very Helpful	매우 도움됨
+newgameoptions.eventdifficulty.value1	10	Helpful	도움됨
+newgameoptions.eventdifficulty.value2	10	Standard	평균
+newgameoptions.eventdifficulty.value3	10	Hard	어려움
+newgameoptions.eventdifficulty.value4	10	Mayhem	대.혼.란ㅋ
+newgameoptions.upkeep.name	20	Upkeep	유지보수 비용
+newgameoptions.upkeep.description	300	Adjusts the amount of upkeep of each building.	건물의 유지보수 비용을 책정할 수 있습니다.
+newgameoptions.upkeep.value0	10	Free	무료
 newgameoptions.upkeep.value1	10	50%	50%
 newgameoptions.upkeep.value2	10	100%	100%
 newgameoptions.upkeep.value3	10	200%	200%
 newgameoptions.upkeep.value4	10	300%	300%
-newgameoptions.dispatch.name	20	Dispatch Costs	Dispatch Costs
-newgameoptions.dispatch.description	300	Adjusts the price for dispatching vehicles.	Adjusts the price for dispatching vehicles.
-newgameoptions.dispatch.value0	10	Free	Free
+newgameoptions.dispatch.name	20	Dispatch Costs	차량 유지비용
+newgameoptions.dispatch.description	300	Adjusts the price for dispatching vehicles.	거리에 따른 차량 이용비용을 책정할 수 있습니다.
+newgameoptions.dispatch.value0	10	Free	무료
 newgameoptions.dispatch.value1	10	50%	50%
 newgameoptions.dispatch.value2	10	100%	100%
 newgameoptions.dispatch.value3	10	250%	250%
 newgameoptions.dispatch.value4	10	500%	500%
-newgameoptions.terraforming.name	20	Terraforming	Terraforming
-newgameoptions.terraforming.description	300	Enables Terraforming.	Enables Terraforming.
-newgameoptions.terraforming.value0	10	Yes	Yes
-newgameoptions.terraforming.value1	10	No	No
+newgameoptions.terraforming.name	20	Terraforming	테라포밍 활성화
+newgameoptions.terraforming.description	300	Enables Terraforming.	테라포밍을 활성화 합니다.
+newgameoptions.terraforming.value0	10	Yes	켜기
+newgameoptions.terraforming.value1	10	No	끄기
 mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.options.difficultyoptions.descriptionarea.optionname	20	Option Name	Option Name
 mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.options.difficultyoptions.descriptionarea.optiondescription	300	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.options.difficultyoptions.descriptionarea.warning.text	40	Affects Difficulty Score Modifier	Affects Difficulty Score Modifier
-mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.buttonbar.backbutton.loadbuttonbuttontext	5	BACK	BACK
-mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.buttonbar.playbutton.loadbuttonbuttontext	5	PLAY	PLAY
-mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.scoremodifierarea.text	35	Total difficulty score\nbased on settings	Total difficulty score\nbased on settings
+mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.options.difficultyoptions.descriptionarea.warning.text	40	Affects Difficulty Score Modifier	점수에 영향을 줄 수 있습니다.
+mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.buttonbar.backbutton.loadbuttonbuttontext	5	BACK	뒤로
+mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.buttonbar.playbutton.loadbuttonbuttontext	5	PLAY	시작
+mainmenu.wrapper.views.gamemodesscreen.careerdifficultyscreen.scoremodifierarea.text	35	Total difficulty score\nbased on settings	설정에 의한\n총 난이도 점수
 mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.options.worldoptions.descriptionarea.optionname	20	Option Name	Option Name
 mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.options.worldoptions.descriptionarea.optiondescription	300	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.options.difficultyoptions.descriptionarea.optionname	20	Option Name	Option Name
 mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.options.difficultyoptions.descriptionarea.optiondescription	300	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.buttonbar.backbutton.loadbuttonbuttontext	5	BACK	BACK
-mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.buttonbar.playbutton.loadbuttonbuttontext	5	PLAY	PLAY
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.gamemodetitle	20	TUTORIAL	TUTORIAL
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.title	20	CHOOSE A TUTORIAL	CHOOSE A TUTORIAL
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut1button.text	15	PART 1: Newcomer	PART 1: Newcomer
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut1buttonactive.text	15	PART 1: Newcomer	PART 1: Newcomer
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut2button.text	15	PART 2: Veteran	PART 2: Veteran
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut2buttonactive.text	15	PART 2: Veteran	PART 2: Veteran
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut3button.text	15	PART 3: Advanced	PART 3: Advanced
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut3buttonactive.text	15	PART 3: Advanced	PART 3: Advanced
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut1	300	Start here if you're new to strategy and tycoon games	Start here if you're new to strategy and tycoon games
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut2	300	Know the basics but need to go in detail with R&D and production lines?	Know the basics but need to go in detail with R&D and production lines?
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut3	300	Learn how to set up Warehouses, Trade routes, and more!	Learn how to set up Warehouses, Trade routes, and more!
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.contentbuttons(1).backbutton.loadbuttonbuttontext	5	BACK	BACK
-mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.contentbuttons(1).playbutton.loadbuttonbuttontext	5	PLAY	PLAY
+mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.buttonbar.backbutton.loadbuttonbuttontext	5	BACK	뒤로
+mainmenu.wrapper.views.gamemodesscreen.freeplaydifficultyscreen.buttonbar.playbutton.loadbuttonbuttontext	5	PLAY	시작
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.gamemodetitle	20	TUTORIAL	튜토리얼
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.title	20	CHOOSE A TUTORIAL	튜토리얼 선택하기
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut1button.text	15	PART 1: Newcomer	파트 1 : 출발자
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut1buttonactive.text	15	PART 1: Newcomer	파트 1 : 출발자
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut2button.text	15	PART 2: Veteran	파트 2 : 베테랑
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut2buttonactive.text	15	PART 2: Veteran	파트 2: 베테랑
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut3button.text	15	PART 3: Advanced	파트 3 : 상급자
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.buttons.tut3buttonactive.text	15	PART 3: Advanced	파트 3 : 상급자
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut1	300	Start here if you're new to strategy and tycoon games	타이쿤 경영게임이 처음이라면 여기부터 시작하세요.
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut2	300	Know the basics but need to go in detail with R&D and production lines?	기본사항은 알고 있지만 R&D와 제조라인에 대해 알고 싶다면 시작하세요.
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut3	300	Learn how to set up Warehouses, Trade routes, and more!	이제 창고와 무역경로를 어떻게 구성하는지 배워보세요!
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.contentbuttons(1).backbutton.loadbuttonbuttontext	5	BACK	뒤로
+mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.contentbuttons(1).playbutton.loadbuttonbuttontext	5	PLAY	시작
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.gamemodetitle	0	TUTORIAL	TUTORIAL
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.title	0	CHOOSE A TUTORIAL	CHOOSE A TUTORIAL
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff1button.text	0	Easy	Easy
@@ -314,25 +314,25 @@ mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff2buttonactive.text	0	Normal	Normal
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.descriptiondiff1	0	Perfect for newcomers	Perfect for newcomers
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.descriptiondiff2	0	Standard experience	Standard experience
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.contentbuttons(1).backbutton.arrowtextarea(1).loadbuttonbuttontext	5	BACK	BACK
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.contentbuttons(1).playbutton.loadbuttonbuttontext	5	PLAY	PLAY
-mainmenu.wrapper.views.loadgamescreen.contentbuttons.loadbutton_mainmenu.loadbuttonbuttontext	5	LOAD	LOAD
-mainmenu.wrapper.views.loadgamescreen.contentbuttons.loadbutton_ingame.loadbuttonbuttontext	5	LOAD	LOAD
-mainmenu.wrapper.views.loadgamescreen.contentbuttons.purgebutton.loadbuttonbuttontext	5	Delete All	Delete All
-mainmenu.wrapper.views.loadgamescreen.contentbuttons.backbutton.loadbuttonbuttontext	5	BACK	BACK
-mainmenu.wrapper.views.savegamescreen.contentbuttons.newbutton.loadbuttonbuttontext	5	NEW	NEW
-mainmenu.wrapper.views.savegamescreen.contentbuttons.overwritebutton.loadbuttonbuttontext	5	OVERWRITE	OVERWRITE
-mainmenu.wrapper.views.savegamescreen.contentbuttons.deletebutton.loadbuttonbuttontext	5	DELETE	DELETE
-mainmenu.wrapper.views.savegamescreen.contentbuttons.purgebutton.loadbuttonbuttontext	5	DELETE ALL	DELETE ALL
-mainmenu.wrapper.views.savegamescreen.contentbuttons.backbutton(1).loadbuttonbuttontext	5	BACK	BACK
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.contentbuttons(1).backbutton.arrowtextarea(1).loadbuttonbuttontext	5	BACK	뒤로
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.contentbuttons(1).playbutton.loadbuttonbuttontext	5	PLAY	시작
+mainmenu.wrapper.views.loadgamescreen.contentbuttons.loadbutton_mainmenu.loadbuttonbuttontext	5	LOAD	불러오기
+mainmenu.wrapper.views.loadgamescreen.contentbuttons.loadbutton_ingame.loadbuttonbuttontext	5	LOAD	불러오기
+mainmenu.wrapper.views.loadgamescreen.contentbuttons.purgebutton.loadbuttonbuttontext	5	Delete All	모두삭제
+mainmenu.wrapper.views.loadgamescreen.contentbuttons.backbutton.loadbuttonbuttontext	5	BACK	뒤로
+mainmenu.wrapper.views.savegamescreen.contentbuttons.newbutton.loadbuttonbuttontext	5	NEW	저장
+mainmenu.wrapper.views.savegamescreen.contentbuttons.overwritebutton.loadbuttonbuttontext	5	OVERWRITE	덮어 씌우기
+mainmenu.wrapper.views.savegamescreen.contentbuttons.deletebutton.loadbuttonbuttontext	5	DELETE	삭제
+mainmenu.wrapper.views.savegamescreen.contentbuttons.purgebutton.loadbuttonbuttontext	5	DELETE ALL	모두삭제
+mainmenu.wrapper.views.savegamescreen.contentbuttons.backbutton(1).loadbuttonbuttontext	5	BACK	뒤로
 mainmenu.wrapper.views.modmanager.nomodsalert.text	0	No Mods to Load	No Mods to Load
-mainmenu.wrapper.views.modmanager.currentmodarea.modversiontext	0	Mod Version - {modVersion}	Mod Version - {modVersion}
-mainmenu.wrapper.views.modmanager.controls.backbutton.text	15	Back	Back
-mainmenu.wrapper.views.modmanager.controls.assetviewerbutton.text	15	Asset Viewer	Asset Viewer
-mainmenu.wrapper.popups.newsavegamedialog.wrapper.headline	10	NEW SAVE GAME	NEW SAVE GAME
-mainmenu.wrapper.popups.newsavegamedialog.wrapper.textbox.placeholder	30	Enter a name...	Enter a name...
-mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btnsave.savetext	7	SAVE	SAVE
-mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btncancel.canceltext	7	CANCEL	CANCEL
+mainmenu.wrapper.views.modmanager.currentmodarea.modversiontext	0	Mod Version - {modVersion}	모드 버전 - {modVersion}
+mainmenu.wrapper.views.modmanager.controls.backbutton.text	15	Back	뒤로
+mainmenu.wrapper.views.modmanager.controls.assetviewerbutton.text	15	Asset Viewer	Asset Viewer 도구
+mainmenu.wrapper.popups.newsavegamedialog.wrapper.headline	10	NEW SAVE GAME	새 저장
+mainmenu.wrapper.popups.newsavegamedialog.wrapper.textbox.placeholder	30	Enter a name...	세이브 파일 이름(영어) 입력...
+mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btnsave.savetext	7	SAVE	저장
+mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btncancel.canceltext	7	CANCEL	취소
 mainmenu.wrapper.popups.tutorialpopup.wrapper.content.text	350	Welcome to the Rise of Industry! A game about managing production lines and the resources required to keep them going. \n\nBecause Rise of Industry has some complex concepts, we recommend going through a short tutorial that will cover the basics to help you avoid an early bankruptcy and boredom!	Welcome to the Rise of Industry! A game about managing production lines and the resources required to keep them going. \n\nBecause Rise of Industry has some complex concepts, we recommend going through a short tutorial that will cover the basics to help you avoid an early bankruptcy and boredom!
 mainmenu.wrapper.popups.tutorialpopup.wrapper.content.buttonbar.closebutton.text	5	OK	OK
 mainmenu.wrapper.popups.demopopup.wrapper.content.headline	20	Infinite thanks for playing!	Infinite thanks for playing!

@@ -177,7 +177,7 @@ mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagerc
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagercomingsoon.comingsoontext	0	<b><color #C87C0D>COMING SOON</color></b>	<b><color #C87C0D>COMING SOON</color></b>
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.buttonarea.fullgame.modmanagercomingsoon.descriptiontext	100	Manage the Rise of Industry mods you want to load.	Rise of Industry에 원하는 모드를 불러오며 관리하십시오.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.titletext	11	Video Guides	동영상 가이드
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	그 외 도움이 필요하신가요?\n도움이 될만한 영상들을 참고하십시오.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	그 외 도움이 필요하신가요? \n도움이 될만한 영상들을 참고하십시오.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.fullgame.videohelp.ytname	15	Gonumen	Gonumen
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.titletext	11	CAREER	커리어 모드
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.careermodelocked.descriptiontext	100	Build your own empire with nothing but a little money and a dream. Set your own difficulty, grow through the Tech Tree, and rise to the top!	소정의 돈과 꿈을 품으며 당신만의 제국을 건설하십시오! 자신만의 난이도를 설정하고 기술 트리를 늘리며 최고로 거듭나십시오.
@@ -187,7 +187,7 @@ mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.demomode.descriptiontext	1
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.titletext	11	TUTORIAL	튜토리얼
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.tutorialmode.descriptiontext	100	Get a leg up on the competition and learn the basics of Rise of Industry.	Rise of Industry게임의 기초를 배우실 수 있습니다.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).titletext	11	Video Guides	비디오 가이드
-mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	그 외 도움이 필요하신가요?\n도움이 될만한 영상들을 참고하십시오.
+mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).descriptiontext	100	Need some extra help?\nCheck out this helpful playlist.	그 외 도움이 필요하신가요? \n도움이 될만한 영상들을 참고하십시오.
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.demo.videohelp(1).ytname	15	Gonumen	Gonumen
 mainmenu.wrapper.views.gamemodesscreen.gamemodes.videofeatured.titletext	11	Featured let's play	추후 제공됨
 mainmenu.wrapper.views.gamemodesscreen.customgamescreen.contentbuttons.backbutton(1).loadbuttonbuttontext	5	BACK	뒤로
@@ -262,7 +262,7 @@ newgameoptions.eventdifficulty.value0	10	Very Helpful	매우 도움됨
 newgameoptions.eventdifficulty.value1	10	Helpful	도움됨
 newgameoptions.eventdifficulty.value2	10	Standard	평균
 newgameoptions.eventdifficulty.value3	10	Hard	어려움
-newgameoptions.eventdifficulty.value4	10	Mayhem	대.혼.란ㅋ
+newgameoptions.eventdifficulty.value4	10	Mayhem	대혼란
 newgameoptions.upkeep.name	20	Upkeep	유지보수 비용
 newgameoptions.upkeep.description	300	Adjusts the amount of upkeep of each building.	건물의 유지보수 비용을 책정할 수 있습니다.
 newgameoptions.upkeep.value0	10	Free	무료
@@ -306,14 +306,14 @@ mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut2	30
 mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.content.descriptiontut3	300	Learn how to set up Warehouses, Trade routes, and more!	이제 창고와 무역경로를 어떻게 구성하는지 배워보세요!
 mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.contentbuttons(1).backbutton.loadbuttonbuttontext	5	BACK	뒤로
 mainmenu.wrapper.views.gamemodesscreen.tutorialscreen.contentbuttons(1).playbutton.loadbuttonbuttontext	5	PLAY	시작
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.gamemodetitle	0	TUTORIAL	TUTORIAL
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.title	0	CHOOSE A TUTORIAL	CHOOSE A TUTORIAL
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff1button.text	0	Easy	Easy
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff1buttonactive.text	0	Easy	Easy
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff2button.text	0	Normal	Normal
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff2buttonactive.text	0	Normal	Normal
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.descriptiondiff1	0	Perfect for newcomers	Perfect for newcomers
-mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.descriptiondiff2	0	Standard experience	Standard experience
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.gamemodetitle	0	TUTORIAL	튜토리얼
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.title	0	CHOOSE A TUTORIAL	튜토리얼 선택
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff1button.text	0	Easy	쉬움
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff1buttonactive.text	0	Easy	쉬움
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff2button.text	0	Normal	보통
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.buttons.diff2buttonactive.text	0	Normal	보통
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.descriptiondiff1	0	Perfect for newcomers	출발자에게 적합합니다
+mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.content.descriptiondiff2	0	Standard experience	경험자에게 적합합니다
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.contentbuttons(1).backbutton.arrowtextarea(1).loadbuttonbuttontext	5	BACK	뒤로
 mainmenu.wrapper.views.gamemodesscreen.demodifficultyscreen.contentbuttons(1).playbutton.loadbuttonbuttontext	5	PLAY	시작
 mainmenu.wrapper.views.loadgamescreen.contentbuttons.loadbutton_mainmenu.loadbuttonbuttontext	5	LOAD	불러오기
@@ -328,7 +328,7 @@ mainmenu.wrapper.views.savegamescreen.contentbuttons.backbutton(1).loadbuttonbut
 mainmenu.wrapper.views.modmanager.nomodsalert.text	0	No Mods to Load	No Mods to Load
 mainmenu.wrapper.views.modmanager.currentmodarea.modversiontext	0	Mod Version - {modVersion}	모드 버전 - {modVersion}
 mainmenu.wrapper.views.modmanager.controls.backbutton.text	15	Back	뒤로
-mainmenu.wrapper.views.modmanager.controls.assetviewerbutton.text	15	Asset Viewer	Asset Viewer 도구
+mainmenu.wrapper.views.modmanager.controls.assetviewerbutton.text	15	Asset Viewer	Asset Viewer
 mainmenu.wrapper.popups.newsavegamedialog.wrapper.headline	10	NEW SAVE GAME	새 저장
 mainmenu.wrapper.popups.newsavegamedialog.wrapper.textbox.placeholder	30	Enter a name...	세이브 파일 이름(영어) 입력...
 mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btnsave.savetext	7	SAVE	저장
@@ -336,17 +336,17 @@ mainmenu.wrapper.popups.newsavegamedialog.wrapper.buttonarea(1).btncancel.cancel
 mainmenu.wrapper.popups.tutorialpopup.wrapper.content.text	350	Welcome to the Rise of Industry! A game about managing production lines and the resources required to keep them going. \n\nBecause Rise of Industry has some complex concepts, we recommend going through a short tutorial that will cover the basics to help you avoid an early bankruptcy and boredom!	Rise of Industry에 오신 걸 환영합니다! 이 게임은 제조라인과 자원을 계속 관리해야 하는 게임입니다. \n\n왜냐하면, Rise of Industry 약간의 복잡함을 가지고 있습니다. 따라서 우리는 튜토리얼을 참고하시는 것을 권장합니다. 여러분의 초기파산과 지루함을 방지하기 위해서 말이죠!
 mainmenu.wrapper.popups.tutorialpopup.wrapper.content.buttonbar.closebutton.text	5	OK	확인
 mainmenu.wrapper.popups.demopopup.wrapper.content.headline	20	Infinite thanks for playing!	플레이해주셔서 감사합니다!
-mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.steamtext	300	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on Steam. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on Steam. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.
+mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.steamtext	300	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on Steam. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.	당신이 정말로 즐겁게 게임을 즐기셨다면, 모든 것들을 해제하여 더욱 즐겨보시는 것을 권장해 드립니다(중간 혹은 대형 맵, 모든 테크트리, 커리어 혹은 자유모드, 그리고 더 많은 것들).\n스팀에 평가를 남겨주셔서 게임 개발에 도움을 주십시오. 우리는 2주에 한 번씩 새로운 게임 패치, 새로운 기능, 밸런스 조정, 보고된 많은 버그 수정을 위해 노력하고 있습니다
 mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.steambuttonarea.steambutton.text	9	TO STEAM!	스팀에서!
-mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.gogtext	300	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on GOG. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on GOG. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.
+mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.gogtext	300	Really hope you enjoyed your first few minutes and you're hungry for more, especially with everything unlocked (medium and large maps, full tech tree, career and freeplay modes, and a much more). \nIf so please support the game's development by purchasing and rating it on GOG. Every couple of weeks we'll release new patches for the game, adding new mechanics, balancing the existing ones, and fixing as many bugs as we can find.	당신이 정말로 즐겁게 게임을 즐기셨다면, 모든 것들을 해제하여 더욱 즐겨보시는 것을 권장해 드립니다(중간 혹은 대형 맵, 모든 테크트리, 커리어 혹은 자유모드, 그리고 더 많은 것들).\nGOG에 평가를 남겨주셔서 게임 개발에 도움을 주십시오. 우리는 2주에 한 번씩 새로운 게임 패치, 새로운 기능, 밸런스 조정, 보고된 많은 버그 수정을 위해 노력하고 있습니다
 mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph1area.gogbuttonarea.gogbutton.text	9	TO GOG	GOG에서
-mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph2area.text	300	Also, as you can imagine, the game is heavily in development. \nWe would like to know what you felt when playing the demo, so drop by our Discord!	Also, as you can imagine, the game is heavily in development. \nWe would like to know what you felt when playing the demo, so drop by our Discord!
+mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph2area.text	300	Also, as you can imagine, the game is heavily in development. \nWe would like to know what you felt when playing the demo, so drop by our Discord!	또한, 여러분께서 보시듯, 이 게임을 심혈을 기울여 개발 중입니다. \n우리는 당신의 데모 플레이를 통해 얻은 느낌을 디스코드를 통해서도 듣고 싶습니다!
 mainmenu.wrapper.popups.demopopup.wrapper.content.paragraph2area.discordbuttonarea.discordbutton.text	9	TO DISCORD!	DISCORD에서!
-mainmenu.wrapper.popups.reviewpopup.wrapper.content.text	300	Dear Industrialists! Thank you for supporting our game! It means the world to us to have such a great community. We would greatly appreciate it if you could take a moment to share your thoughts about Rise of Industry on Steam. Your review means a lot! Best wishes and happy playing from Dapper Penguin Studios and Kasedo Games	Dear Industrialists! Thank you for supporting our game! It means the world to us to have such a great community. We would greatly appreciate it if you could take a moment to share your thoughts about Rise of Industry on Steam. Your review means a lot! Best wishes and happy playing from Dapper Penguin Studios and Kasedo Games
-mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.steambutton.text	11	TAKE ME THERE!	TAKE ME THERE!
-mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.gogbutton.text	11	TAKE ME THERE!	TAKE ME THERE!
-mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.remindbutton.text	11	REMIND ME LATER	REMIND ME LATER
-mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.nevenshowbutton.text	11	NOT INTERESTED	NOT INTERESTED
+mainmenu.wrapper.popups.reviewpopup.wrapper.content.text	300	Dear Industrialists! Thank you for supporting our game! It means the world to us to have such a great community. We would greatly appreciate it if you could take a moment to share your thoughts about Rise of Industry on Steam. Your review means a lot! Best wishes and happy playing from Dapper Penguin Studios and Kasedo Games	Dear Industrialists! 우리 게임을 지원해주셔서 감사합니다! 당신의 의견을 스팀에 공유해주시면 우린 정말 감사할 것입니다. 당신의 리뷰는 정말 의미가 있습니다! 즐겁고 행복한 플레이가 계속되길 기원하며, Dapper Penguin Studios & Kasedo Games 올림.
+mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.steambutton.text	11	TAKE ME THERE!	지금 할게요!
+mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.gogbutton.text	11	TAKE ME THERE!	지금 할게요!
+mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.remindbutton.text	11	REMIND ME LATER	나중에
+mainmenu.wrapper.popups.reviewpopup.wrapper.content.buttons.nevenshowbutton.text	11	NOT INTERESTED	관심 없음
 mainmenudialogconfig.exittomainmenu.title	10	Are you sure?	확실한가요?
 mainmenudialogconfig.exittomainmenu.body	250	All unsaved progress will be lost	모든 저장되지 않은 진행사항을 잃게 됩니다
 mainmenudialogconfig.exittomainmenu.option1	7	Yes	예
@@ -359,7 +359,7 @@ mainmenudialogconfig.exittodesktopingame.body	250	All unsaved progress will be l
 mainmenudialogconfig.exittodesktopingame.option1	7	Yes	예
 mainmenudialogconfig.exittodesktopingame.option2	7	No	아니오
 mainmenudialogconfig.loadsavegameingame.title	10	Load Game	게임 불러오기
-mainmenudialogconfig.loadsavegameingame.body	250	Loading this game will cause any unsaved changes to be lost.\nDo you want to continue?	Loading this game will cause any unsaved changes to be lost.\nDo you want to continue?
+mainmenudialogconfig.loadsavegameingame.body	250	Loading this game will cause any unsaved changes to be lost.\nDo you want to continue?	게임을 불러옴으로써 모든 저장되지 않은 진행사항을 잃게 됩니다\n계속 진행하시겠습니까?
 mainmenudialogconfig.loadsavegameingame.option1	7	Confirm	승인
 mainmenudialogconfig.loadsavegameingame.option2	7	Cancel	취소
 mainmenudialogconfig.loadoutdatedsavegame.title	10	OUTDATED	예전버전
@@ -367,22 +367,22 @@ mainmenudialogconfig.loadoutdatedsavegame.body	250	Savegame is outdated, loading
 mainmenudialogconfig.loadoutdatedsavegame.option1	7	Go On	계속하기
 mainmenudialogconfig.loadoutdatedsavegame.option2	7	Cancel	취소하기
 mainmenudialogconfig.overwritesavegame.title	10	Save Game	게임 저장
-mainmenudialogconfig.overwritesavegame.body	250	This will override your game.\nDo you want to continue?	이전 세이브파일에 덮어씌웁니다.\nDo you want to continue?
+mainmenudialogconfig.overwritesavegame.body	250	This will override your game.\nDo you want to continue?	이전 세이브파일에 덮어씌웁니다.\n계속 진행하시겠습니까?
 mainmenudialogconfig.overwritesavegame.option1	7	Save	저장
 mainmenudialogconfig.overwritesavegame.option2	7	Cancel	취소
 mainmenudialogconfig.deleteallsavegames.title	10	Are you sure?	확실한가요?
-mainmenudialogconfig.deleteallsavegames.body	250	Do you really want to delete all your savegames?	Do you really want to delete all your savegames?
-mainmenudialogconfig.deleteallsavegames.option1	7	Yes	에
+mainmenudialogconfig.deleteallsavegames.body	250	Do you really want to delete all your savegames?	정말로 모든 세이브파일(저장된 파일들)을 지우시겠습니까?
+mainmenudialogconfig.deleteallsavegames.option1	7	Yes	예
 mainmenudialogconfig.deleteallsavegames.option2	7	No	아니오
-mainmenudialogconfig.resolutionfixer.title	10	UI Scaling Issue	UI Scaling Issue
-mainmenudialogconfig.resolutionfixer.body	250	It looks like your UI scaling is off. We can fix it for you or you can go to the Options Menu, Graphics tab, and lower it until everything is nicely aligned.	It looks like your UI scaling is off. We can fix it for you or you can go to the Options Menu, Graphics tab, and lower it until everything is nicely aligned.
-mainmenudialogconfig.resolutionfixer.option1	7	OK	OK
+mainmenudialogconfig.resolutionfixer.title	10	UI Scaling Issue	UI 크기 문제
+mainmenudialogconfig.resolutionfixer.body	250	It looks like your UI scaling is off. We can fix it for you or you can go to the Options Menu, Graphics tab, and lower it until everything is nicely aligned.	UI 크기 조정 기능이 꺼진 것으로 보입니다. 오류를 제보하시면 우리가 해결할 수 있으며, 옵션 > 그래픽 > 해상도를 조절함으로써 해결할 수 있습니다.
+mainmenudialogconfig.resolutionfixer.option1	7	OK	확인
 mainmenudialogconfig.resolutionfixer.option2	7	Fix It!	Fix It!
-mainmenudialogconfig.modschanged.title	10	Mod List Changed	Mod List Changed
-mainmenudialogconfig.modschanged.body	250	Game needs to restart for Mod changes to take effect.	Game needs to restart for Mod changes to take effect.
-mainmenudialogconfig.modschanged.option1	7	Restart Now	Restart Now
-mainmenudialogconfig.modschanged.option2	7	Don't Restart	Don't Restart
-loadingoverlayui.loadingtext	18	LOADING...	LOADING...
+mainmenudialogconfig.modschanged.title	10	Mod List Changed	모드 목록 변경됨
+mainmenudialogconfig.modschanged.body	250	Game needs to restart for Mod changes to take effect.	변경된 모드 반영을 위해 게임 재시작이 필요합니다
+mainmenudialogconfig.modschanged.option1	7	Restart Now	재시작
+mainmenudialogconfig.modschanged.option2	7	Don't Restart	재시작 안함
+loadingoverlayui.loadingtext	18	LOADING...	로딩중...
 loadingoverlayui.disclaimertext	180	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.
 loadingoverlayui.logoalphagameplay.loadingtitletext	15	ALPHA GAMEPLAY	ALPHA GAMEPLAY
 loadingoverlayui.loadingalertarea.loadingalerttext	60	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE

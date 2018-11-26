@@ -381,15 +381,15 @@ mainmenudialogconfig.resolutionfixer.option2	7	Fix It!	Fix It!
 mainmenudialogconfig.modschanged.title	10	Mod List Changed	모드 목록 변경됨
 mainmenudialogconfig.modschanged.body	250	Game needs to restart for Mod changes to take effect.	변경된 모드 반영을 위해 게임 재시작이 필요합니다
 mainmenudialogconfig.modschanged.option1	7	Restart Now	재시작
-mainmenudialogconfig.modschanged.option2	7	Don't Restart	재시작 안함
+mainmenudialogconfig.modschanged.option2	7	Don't Restart	나중에 재시작
 loadingoverlayui.loadingtext	18	LOADING...	로딩중...
-loadingoverlayui.disclaimertext	180	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.
-loadingoverlayui.logoalphagameplay.loadingtitletext	15	ALPHA GAMEPLAY	ALPHA GAMEPLAY
-loadingoverlayui.loadingalertarea.loadingalerttext	60	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE
+loadingoverlayui.disclaimertext	180	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.	이 게임은 아직 알파 버전으로 완성되지 않았습니다. \n기능, 게임 플레이 등 여러 가지 요소가 변경될 수 있습니다.
+loadingoverlayui.logoalphagameplay.loadingtitletext	15	ALPHA GAMEPLAY	알파 버전 게임플레이
+loadingoverlayui.loadingalertarea.loadingalerttext	60	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE	지도가 생성될 동안 기다려주십시오 - 사양에 따라 오래 걸릴 수 있습니다
 loadingoverlayui.loadingtext1	25	WARMING UP	WARMING UP
-popup.wrapper.content.headline	25	WELCOME TO RISE OF INDUSTRY!	WELCOME TO RISE OF INDUSTRY!
+popup.wrapper.content.headline	25	WELCOME TO RISE OF INDUSTRY!	RISE OF INDUSTRY에 오신것을 환영합니다!
 popup.wrapper.content.body	700	The game is in its early stages of development, meaning you'll encounter some weird and some annoying bugs. We are always doing our best to update the game with more bugfixes and more content, but we need your help. So if you see anything not acting as it should, or have suggestions, please drop by our <b>Discord channel</b>.\n\nWe can't thank you enough for joining us during this alpha. \nWe await your feedback, so we can bring this game to new heights!\n\n<b>Have fun and enjoy the game, Industrialist!</b>	The game is in its early stages of development, meaning you'll encounter some weird and some annoying bugs. We are always doing our best to update the game with more bugfixes and more content, but we need your help. So if you see anything not acting as it should, or have suggestions, please drop by our <b>Discord channel</b>.\n\nWe can't thank you enough for joining us during this alpha. \nWe await your feedback, so we can bring this game to new heights!\n\n<b>Have fun and enjoy the game, Industrialist!</b>
-popup.wrapper.content.button.buttontext	12	THANKS, PENGUINS!	THANKS, PENGUINS!
+popup.wrapper.content.button.buttontext	12	THANKS, PENGUINS!	고마워요, PENGUINS!
 tooltipcanvas.simpletooltip.text	30	TOOLTIP	TOOLTIP
 tooltipcanvas.producttooltip.content.producedat	30	Produced At: {building}	Produced At: {building}
 tooltipcanvas.producttooltip.content.requires	30	Requires: {ingredients}	Requires: {ingredients}
@@ -412,29 +412,29 @@ analysisitemdefinition.trucksdispatched.uilabel	20	Trucks Dispatched	Trucks Disp
 analysisitemdefinition.unitsproduced.uilabel	20	Units Produced	Units Produced
 analysisitemdefinition.uptime.uilabel	20	Uptime %	Uptime %
 analysisitemdefinition.zeppelinsdispatched.uilabel	20	Zeppelins Dispatched	Zeppelins Dispatched
-analysisitemdefinition.buildingefficiency.uilabel	20	Building Efficiency	Building Efficiency
+analysisitemdefinition.buildingefficiency.uilabel	20	Building Efficiency	건물 효율성
 datacategory.boatdepot.categoryname	15	Boat Depot	Boat Depot
-datacategory.coastalgatherers.categoryname	15	Coastal Gatherers	Coastal Gatherers
+datacategory.coastalgatherers.categoryname	15	Coastal Gatherers	연안 자원 채집소
 datacategory.commercial.categoryname	15	Commercial	Commercial
-datacategory.factories.categoryname	15	Factories	Factories
-datacategory.farms.categoryname	15	Farms	Farms
+datacategory.factories.categoryname	15	Factories	공장
+datacategory.farms.categoryname	15	Farms	농장
 datacategory.field.categoryname	15	Field	Field
 datacategory.gathererbuildings.categoryname	15	GATHERERS	GATHERERS
 datacategory.harvester.categoryname	15	Harvester	Harvester
-datacategory.heavyindustry.categoryname	15	Heavy Industry	Heavy Industry
-datacategory.landgatherers.categoryname	15	Land-Based Gatherers	Land-Based Gatherers
-datacategory.lightindustry.categoryname	15	Light Industry	Light Industry
-datacategory.logisticsbuildings.categoryname	15	Logistics Buildings	Logistics Buildings
-datacategory.offshoregatherers.categoryname	15	Offshore Gatherers	Offshore Gatherers
+datacategory.heavyindustry.categoryname	15	Heavy Industry	중공업
+datacategory.landgatherers.categoryname	15	Land-Based Gatherers	육지 자원 채집소
+datacategory.lightindustry.categoryname	15	Light Industry	경공업
+datacategory.logisticsbuildings.categoryname	15	Logistics Buildings	수송 건물
+datacategory.offshoregatherers.categoryname	15	Offshore Gatherers	해안 자원 채집소
 datacategory.residential.categoryname	15	Residential	Residential
 datacategory.state.categoryname	15	State	State
 datacategory.towncenter.categoryname	15	Town Center	Town Center
 datacategory.trainterminal.categoryname	15	Train Terminal	Train Terminal
 datacategory.truckdepot.categoryname	15	Truck Depot	Truck Depot
 datacategory.zeppelinstation.categoryname	15	Zeppelin Station	Zeppelin Station
-datacategory.headquarters.categoryname	15	Headquarters	Headquarters
-datacategory.prototypefactories.categoryname	15	Prototype Factories	Prototype Factories
-datacategory.ruralindustry.categoryname	15	Rural Industry	Rural Industry
+datacategory.headquarters.categoryname	15	Headquarters	본부 건물
+datacategory.prototypefactories.categoryname	15	Prototype Factories	하이테크 공장 건물
+datacategory.ruralindustry.categoryname	15	Rural Industry	식재료 공업
 building.applesfield.buildingname	20	APPLE FIELD	APPLE FIELD
 building.berryfield.buildingname	20	BERRY FIELD	BERRY FIELD
 building.boatdepot.buildingname	20	Boat Depot	Boat Depot
@@ -529,7 +529,7 @@ building.zeppelinfield.buildingname	20	Zeppelin Field	Zeppelin Field
 building.regioncenter.buildingname	20	Region Center	Region Center
 building.tradingcenter_t1.buildingname	20	Town Center	Town Center
 building.tradingcenter_t2.buildingname	20	Town Center	Town Center
-building.headquarters.buildingname	20	Headquarters	Headquarters
+building.headquarters.buildingname	20	Headquarters	본부 건물
 building.automotivefactory.buildingname	20	AUTOMOTIVE FACTORY	AUTOMOTIVE FACTORY
 building.carprototypefacility.buildingname	20	CAR PROTOTYPE FACILITY	CAR PROTOTYPE FACILITY
 building.rubberfield.buildingname	20	RUBBER TREE FIELD	RUBBER TREE FIELD
@@ -551,7 +551,7 @@ moneybillcategory.renting.categoryname	20	Renting	Renting
 moneybillcategory.researchcosts.categoryname	20	R&D Expenses	R&D Expenses
 moneybillcategory.researchrefund.categoryname	20	R&D Refund	R&D Refund
 moneybillcategory.routevehicleupkeep.categoryname	20	Route Vehicle Upkeep	Route Vehicle Upkeep
-moneybillcategory.terraformingbillcategory.categoryname	20	Terraforming	Terraforming
+moneybillcategory.terraformingbillcategory.categoryname	20	Terraforming	지형툴
 moneybillcategory.upkeep.categoryname	20	Renting	Renting
 moneybillcategory.vehicles.categoryname	20	Vehicles	Vehicles
 moneybillcategory.vehicleupkeep.categoryname	20	Vehicle Upkeep	Vehicle Upkeep
@@ -1226,7 +1226,7 @@ canbuildatexrestriction.builtinwater.validationerror	30	MUST BE BUILT IN WATER T
 canbuildatexrestriction.builtonshore.validationerror	30	MUST BE BUILT ON SHORE TILES	MUST BE BUILT ON SHORE TILES
 canaffordrestriction.canafford.validationerror	30	CANNOT AFFORD	CANNOT AFFORD
 canbuildatrestriction.canbuildat.validationerror	30	MUST BE BUILT ON NON BLOCKED TILES	MUST BE BUILT ON NON BLOCKED TILES
-harvestedresourcewithinrange.harvestedresourcewithinrange.validationerror	30	MUST BE PLACED CLOSE TO {0}	MUST BE PLACED CLOSE TO {0}
+harvestedresourcewithinrange.harvestedresourcewithinrange.validationerror	30	MUST BE PLACED CLOSE TO {0}	{0}에 가까운 곳에 건설해야 합니다
 inownerwaterbodyrestriction.inownerwaterbody.validationerror	30	CAN'T REACH HUB	CAN'T REACH HUB
 influentenoughrestriction.influentenough.validationerror	30	YOUR RELATIONSHIP WITH {0} IS NOT GOOD ENOUGH	YOUR RELATIONSHIP WITH {0} IS NOT GOOD ENOUGH
 ownspermitrestriction.ownspermit.validationerror	30	{0} BUILD PERMIT REQUIRED	{0} BUILD PERMIT REQUIRED
@@ -1235,8 +1235,8 @@ withinownerrange.withinownerrange.validationerror	30	MUST BE BUILT WITHIN OWNER'
 nottooclosetoanyresource.nottooclosetoanyresource.validationerror	30	Too close to resource	Too close to resource
 techtreecategory.prototypes.categoryname	15	Prototypes	Prototypes
 techtreecategory.auxiliary.categoryname	15	Auxiliary	Auxiliary
-techtreecategory.heavyindustry.categoryname	15	Heavy Industry	Heavy Industry
-techtreecategory.lightindustry.categoryname	15	Light Industry	Light Industry
+techtreecategory.heavyindustry.categoryname	15	Heavy Industry	중공업
+techtreecategory.lightindustry.categoryname	15	Light Industry	경공업
 techtreecategory.rural.categoryname	15	Rural	Rural
 techtree.advanceddistribution.techtreename	20	Adv. Distribution	Adv. Distribution
 techtree.basicdistribution.techtreename	20	Basic Distribution	Basic Distribution
@@ -1255,15 +1255,15 @@ techtree.petrochemical.techtreename	20	Petrochemical	Petrochemical
 techtree.textile.techtreename	20	Textile	Textile
 contractgenerator.settlementcontractgenerator.nametemplate	20	Deliver {0} {1} to {2}	Deliver {0} {1} to {2}
 buildingpanel.titlepanel.buildingname.text	20	​	​
-buildingpanel.titlepanel.controls.togglebuilding.tooltip	30	TOGGLE BUILDING ACTIVITY	TOGGLE BUILDING ACTIVITY
-buildingpanel.titlepanel.controls.togglebuilding.buildingtoggleenabled.tooltip	30	DISABLE BUILDING	DISABLE BUILDING
-buildingpanel.titlepanel.controls.togglebuilding.buildingtoggledisabled.tooltip	30	ENABLE BUILDING	ENABLE BUILDING
+buildingpanel.titlepanel.controls.togglebuilding.tooltip	30	TOGGLE BUILDING ACTIVITY	건물 활성화 여부 설정
+buildingpanel.titlepanel.controls.togglebuilding.buildingtoggleenabled.tooltip	30	DISABLE BUILDING	건물 비활성화하기
+buildingpanel.titlepanel.controls.togglebuilding.buildingtoggledisabled.tooltip	30	ENABLE BUILDING	건물 활성화하기
 buildingpanel.titlepanel.controls.buildingandwindowcontrols.buildingalertarea.buildingalert	20	{PARAM}	{PARAM}
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.alerttogglearea.tooltip	30	TOGGLE ALERT MESSAGING	TOGGLE ALERT MESSAGING
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.transportviztoggle.tooltip	30	TOGGLE ROUTE LINES	TOGGLE ROUTE LINES
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.pinbuttonarea.tooltip	30	TOGGLE PIN PANEL	TOGGLE PIN PANEL
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.targetbuttonarea.tooltip	30	TARGET BUILDING	TARGET BUILDING
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.closebuttonarea.tooltip	30	CLOSE PANEL	CLOSE PANEL
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.alerttogglearea.tooltip	30	TOGGLE ALERT MESSAGING	알림 메시지 활성화
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.transportviztoggle.tooltip	30	TOGGLE ROUTE LINES	경로 모드 활성화
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.pinbuttonarea.tooltip	30	TOGGLE PIN PANEL	패널 핀 고정
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.targetbuttonarea.tooltip	30	TARGET BUILDING	건물로 이동하기
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.closebuttonarea.tooltip	30	CLOSE PANEL	패널 닫기
 buildingpanel.tabs.tab	20	{name}	{name}
 buildingpanelmodule.outputmodule.modulename	30	PRODUCTION	PRODUCTION
 outputmodule.recipediagramarea.inputarea.input1area.active.amountneededtextarea.farmamountneededtext	8	{amount}x/Field	{amount}x/Field
@@ -1277,16 +1277,16 @@ outputmodule.chosenoutputarea.currentoutputtext	15	CURRENT OUTPUT	CURRENT OUTPUT
 outputmodule.chooseoutputlist.viewport.content.recipe.unlockedinactive.setrecipebutton.setrecipebuttontext	3	SET	SET
 outputmodule.chooseoutputlist.viewport.content.recipe.locked.buildingtitlearea.tooltip	30	UNLOCK THIS RECIPE USING THE TECH TREE	UNLOCK THIS RECIPE USING THE TECH TREE
 outputmodule.outputpopup.text	50	ARE YOU SURE YOU WANT TO CHANGE THE RECIPE? \nALL UNUSED INGREDIENTS WILL BE DUMPED.	ARE YOU SURE YOU WANT TO CHANGE THE RECIPE? \nALL UNUSED INGREDIENTS WILL BE DUMPED.
-outputmodule.outputpopup.yesbutton.yesbuttontext	3	YES	YES
-outputmodule.outputpopup.nobutton.nobuttontext	3	NO	NO
+outputmodule.outputpopup.yesbutton.yesbuttontext	3	YES	예
+outputmodule.outputpopup.nobutton.nobuttontext	3	NO	아니오
 buildingpanelmodule.hqoverviewmodule.modulename	30	OVERVIEW	OVERVIEW
-hqoverviewmodule.relocatehq.relocatebutton.addharvesterbuttontext	20	Relocate Headquarters	Relocate Headquarters
+hqoverviewmodule.relocatehq.relocatebutton.addharvesterbuttontext	20	Relocate Headquarters	본부 재배치
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(1).titletext	20	Total Assets	Total Assets
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(2).titletext	20	Average Influence	Average Influence
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(3).titletext	20	Game Difficulty	Game Difficulty
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(3).descriptiontext	0	INFORMATION	INFORMATION
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(4).titletext	20	World Seed	World Seed
-hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.titletext	20	CHOOSE A HEADQUARTERS MODEL	CHOOSE A HEADQUARTERS MODEL
+hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.titletext	20	CHOOSE A HEADQUARTERS MODEL	본부 건물 모델 선택
 hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.normal.disabled	50	${cost} to change to this HQ	${cost} to change to this HQ
 hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.previewlocked.disabled	50	You need {unlocks} more unlocks in the {spec} specialisation to unlock this HQ	You need {unlocks} more unlocks in the {spec} specialisation to unlock this HQ
 buildingpanelmodule.settlementoverviewmodule.modulename	30	OVERVIEW	OVERVIEW
@@ -1348,9 +1348,9 @@ shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.perweektext	15	{de
 shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.deliveredtext	15	30 DELIVERED	30 DELIVERED
 shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.storedtext	15	{stored} stored	{stored} stored
 shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.supplydemandbar	50	{TOOLTIP}	{TOOLTIP}
-buildingpanelmodule.warehouseincomingmodule.modulename	30	INCOMING PRODUCTS	INCOMING PRODUCTS
-warehouseincomingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	All auto
-warehouseincomingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	All Manual
+buildingpanelmodule.warehouseincomingmodule.modulename	30	INCOMING PRODUCTS	들어오는 물품
+warehouseincomingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	모두 자동
+warehouseincomingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	모두 수동
 warehouseincomingmodule.slotsamount.truckslabel	20	Incoming Slots	Incoming Slots
 warehouseincomingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfo	20	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>
 warehouseincomingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoemptyregion	20	{distance} tiles / <color=#C87C0D>{cost}$</color>	{distance} tiles / <color=#C87C0D>{cost}$</color>
@@ -1375,7 +1375,7 @@ buildingpanelmodule.regionoverviewmodule.modulename	30	REGION	REGION
 regiontabviewmodel.regionoverviewmodule.buylogisticalpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE LOGISTICAL PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO PURCHASE THE LOGISTICAL PERMIT FOR THIS REGION FOR {0}?
 regiontabviewmodel.regionoverviewmodule.buyfullpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE FULL BUILD PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO PURCHASE THE FULL BUILD PERMIT FOR THIS REGION FOR {0}?
 regiontabviewmodel.regionoverviewmodule.upgradepermittext	70	ARE YOU SURE YOU WANT TO UPGRADE TO A FULL BUILD PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO UPGRADE TO A FULL BUILD PERMIT FOR THIS REGION FOR {0}?
-regiontabviewmodel.regionoverviewmodule.nohqtext	70	PLACE YOUR HEADQUARTERS BEFORE PURCHASING PERMITS	PLACE YOUR HEADQUARTERS BEFORE PURCHASING PERMITS
+regiontabviewmodel.regionoverviewmodule.nohqtext	70	PLACE YOUR HEADQUARTERS BEFORE PURCHASING PERMITS	본사부터 먼저 건설해 주십시오
 regiontabviewmodel.regionoverviewmodule.permitownedtext	40	YOU ALREADY OWN THE FULL BUILD PERMIT FOR THIS REGION	YOU ALREADY OWN THE FULL BUILD PERMIT FOR THIS REGION
 regiontabviewmodel.regionoverviewmodule.notenoughinfluencetext	40	NOT ENOUGH INFLUENCE TO PURCHASE ANY PERMIT FOR THIS REGION	NOT ENOUGH INFLUENCE TO PURCHASE ANY PERMIT FOR THIS REGION
 regionoverviewmodule.regioninfoarealeft.regioninfo1area(3).titletext	20	SURFACE AREA	SURFACE AREA
@@ -1387,8 +1387,8 @@ regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton	30	PRICE <color
 regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton.setrecipebuttontext	15	BUY FULL BUILD PERMIT	BUY FULL BUILD PERMIT
 regionoverviewmodule.purchasepermitarea.upgradepermitbutton	30	PRICE <color=#C87C0DFF>{UPGRADE_COST}</color>\nFULL BUILD CAPABILITIES	PRICE <color=#C87C0DFF>{UPGRADE_COST}</color>\nFULL BUILD CAPABILITIES
 regionoverviewmodule.purchasepermitarea.upgradepermitbutton.setrecipebuttontext	15	UPGRADE TO FULL BUILD PERMIT	UPGRADE TO FULL BUILD PERMIT
-regionoverviewmodule.purchasepopup.yesbutton.yesbuttontext	4	YES	YES
-regionoverviewmodule.purchasepopup.nobutton.nobuttontext	4	NO	NO
+regionoverviewmodule.purchasepopup.yesbutton.yesbuttontext	4	YES	예
+regionoverviewmodule.purchasepopup.nobutton.nobuttontext	4	NO	아니오
 buildingpanelmodule.gathereroverviewmodule.modulename	30	OVERVIEW	OVERVIEW
 gathereroverviewmodule.gathererinfoarea.gathererinfo1area(5).titletext	20	HARVESTING TIME	HARVESTING TIME
 gathereroverviewmodule.gathererinfoarea.gathererinfo1area(5).descriptiontext	20	{PRODUCTION_TIME} DAYS	{PRODUCTION_TIME} DAYS
@@ -1415,8 +1415,8 @@ hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlementen
 hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.payments	30	LOAN LENGTH: <color=#C87C0D>{duration} MONTHS</color>	LOAN LENGTH: <color=#C87C0D>{duration} MONTHS</color>
 hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.apr	30	Interest %: <color=#C87C0D>{apr}%</color>	Interest %: <color=#C87C0D>{apr}%</color>
 hqloansmodule.view2.loanpopup(1).text	50	ARE YOU SURE YOU WANT TO TAKE OUT THIS LOAN?	ARE YOU SURE YOU WANT TO TAKE OUT THIS LOAN?
-hqloansmodule.view2.loanpopup(1).yesbutton.yesbuttontext	50	YES	YES
-hqloansmodule.view2.loanpopup(1).nobutton.nobuttontext	50	NO	NO
+hqloansmodule.view2.loanpopup(1).yesbutton.yesbuttontext	50	YES	예
+hqloansmodule.view2.loanpopup(1).nobutton.nobuttontext	50	NO	아니오
 hqloansmodule.view3.loanarea.loantitle	15	SETTLEMENT LOAN	SETTLEMENT LOAN
 hqloansmodule.view3.loanarea.variables.amount.amounttitletext	15	LOAN AMOUNT:	LOAN AMOUNT:
 hqloansmodule.view3.loanarea.variables.length.amounttitletext	15	LOAN LENGTH:	LOAN LENGTH:
@@ -1431,12 +1431,12 @@ storagemodule.storagebararea(1).titletext	20	BUILDING CAPACITY	BUILDING CAPACITY
 storagemodule.storagebararea(1).amounttext	20	{USED}/{SLOTS}	{USED}/{SLOTS}
 storagemodule.capacitytext.amounttext	20	Slot Capacity: <color=#C87C0D>{capacity} units</color>	Slot Capacity: <color=#C87C0D>{capacity} units</color>
 storagemodule.iconarea.viewport.content.storageicon1area.dumpproductbutton.dumpproductbuttontext	4	DUMP	DUMP
-storagemodule.dumpallarea.dumpallbutton.dumpallbuttontext	20	DUMP ALL	DUMP ALL
+storagemodule.dumpallarea.dumpallbutton.dumpallbuttontext	20	DUMP ALL	모두 버리기
 storagemodule.dumpallareainactive.dumpallbutton	20	CANNOT BUILD MORE FIELDS	CANNOT BUILD MORE FIELDS
-storagemodule.dumpallareainactive.dumpallbutton.dumpallbuttontext	20	DUMP ALL	DUMP ALL
-buildingpanelmodule.analysismodule.modulename	30	ANALYSIS	ANALYSIS
-analysismodule.text(3)	15	LAST MONTH	LAST MONTH
-analysismodule.text(4)	15	LIFETIME	LIFETIME
+storagemodule.dumpallareainactive.dumpallbutton.dumpallbuttontext	20	DUMP ALL	모두 버리기
+buildingpanelmodule.analysismodule.modulename	30	ANALYSIS	분석 차트
+analysismodule.text(3)	15	LAST MONTH	이번 달
+analysismodule.text(4)	15	LIFETIME	모든 내역
 analysismodule.buybuildingarea.pricetext	20	BUILDING PRICE: <color=#C87C0D>{price}</color>	BUILDING PRICE: <color=#C87C0D>{price}</color>
 analysismodule.buybuildingarea.buybuildingbutton.buybuildingbuttontext	20	BUY BUILDING	BUY BUILDING
 analysismodule.buybuildingarea.cannotafforbuilding.buybuildingbuttontext	20	CANNOT AFFORD BUILDING	CANNOT AFFORD BUILDING
@@ -1465,9 +1465,9 @@ factoryoverviewmodule.factoryinfoarea.factoryinfo1area(4).titletext	20	CURRENT A
 factoryoverviewmodule.factoryinfoarea.factoryinfo1area(2).titletext	20	LAST MONTH'S PRODUCTION	LAST MONTH'S PRODUCTION
 factoryoverviewmodule.factoryinfoarea.factoryinfo1area(5).titletext	20	BUILDING UPKEEP	BUILDING UPKEEP
 factoryoverviewmodule.factoryinfoarea.factoryinfo1area(3).titletext	20	LIFETIME PRODUCTION	LIFETIME PRODUCTION
-buildingpanelmodule.warehouseoutgoingmodule.modulename	30	OUTGOING PRODUCTS	OUTGOING PRODUCTS
-warehouseoutgoingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	All auto
-warehouseoutgoingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	All Manual
+buildingpanelmodule.warehouseoutgoingmodule.modulename	30	OUTGOING PRODUCTS	나가는 품목
+warehouseoutgoingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	모두 자동
+warehouseoutgoingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	모두 수동
 warehouseoutgoingmodule.slotsamount.truckslabel	20	Outgoing Slots	Outgoing Slots
 warehouseoutgoingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfo	20	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>
 warehouseoutgoingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoemptyregion	20	{distance} tiles / <color=#C87C0D>{cost}$</color>	{distance} tiles / <color=#C87C0D>{cost}$</color>
@@ -1504,11 +1504,11 @@ helptopic.events.title	20	Events	Events
 helptopic.events.body	0	Events are actions taken by the game to either hinder the Player by forcing negative effects in their world or provide the Player a beneficial opportunity to take advantage of if they can. These Events can range from changing Production times and Prices to reducing traffic speed and changing your upkeep. Whatever happens, it is up to you what actions you take to get to the top!	Events are actions taken by the game to either hinder the Player by forcing negative effects in their world or provide the Player a beneficial opportunity to take advantage of if they can. These Events can range from changing Production times and Prices to reducing traffic speed and changing your upkeep. Whatever happens, it is up to you what actions you take to get to the top!
 helptopic.factories.title	20	Factories	Factories
 helptopic.factories.body	0	Factories combine raw resources collected by Farm, Gatherers, and/or Products from other Factories to make a new product\n\n<b>Placing a Factory</b>\n<b>1.</b> Place a Factory by choosing one in the Construction Menu under the Factories Tab\n{image, tut-fact-01, 120}\n<b>2.</b> Once you select a Factory, place it on the map\n<b>3.</b> Once built, the Factory’s building panel should automatically open. If not, Click on the Factory to open its panel\n\n<b>Choosing and producing a Recipe</b>\n<b>1.</b> Open the Factory’s Panel and Click on the Production Tab\n{image, tut-fact-02, 120}\n<b>2.</b> Click on the Set button next to the Product you wish to create\n{image, tut-fact-03, 120}\n<b>3.</b> You must identify which ingredients are required to create the Product. Send Products from Farms, Gatherers, and even other Factories via their Destination tabs, to create the new product. Start with a small Recipe til you get the hang of it\n<b>4.</b> Once all the correct amounts of ingredients are at the Factory, production with begin!\n\n<b>Transporting Products(Manual Mode)</b>\n<b>1.</b> Open the Factory’s Panel and Click on the Destination Tab\n{image, image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a “0” appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations	Factories combine raw resources collected by Farm, Gatherers, and/or Products from other Factories to make a new product\n\n<b>Placing a Factory</b>\n<b>1.</b> Place a Factory by choosing one in the Construction Menu under the Factories Tab\n{image, tut-fact-01, 120}\n<b>2.</b> Once you select a Factory, place it on the map\n<b>3.</b> Once built, the Factory’s building panel should automatically open. If not, Click on the Factory to open its panel\n\n<b>Choosing and producing a Recipe</b>\n<b>1.</b> Open the Factory’s Panel and Click on the Production Tab\n{image, tut-fact-02, 120}\n<b>2.</b> Click on the Set button next to the Product you wish to create\n{image, tut-fact-03, 120}\n<b>3.</b> You must identify which ingredients are required to create the Product. Send Products from Farms, Gatherers, and even other Factories via their Destination tabs, to create the new product. Start with a small Recipe til you get the hang of it\n<b>4.</b> Once all the correct amounts of ingredients are at the Factory, production with begin!\n\n<b>Transporting Products(Manual Mode)</b>\n<b>1.</b> Open the Factory’s Panel and Click on the Destination Tab\n{image, image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a “0” appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations
-helptopic.farms.title	20	Farms	Farms
+helptopic.farms.title	20	Farms	농장건물
 helptopic.farms.body	0	Farms and their Fields are buildings that will generate various types of food and products based on the type of Farm you place.\n\n<b>Placing a Farm & Fields</b>\n<b>1.</b> Place a Farm by choosing one in the Construction Menu under the Farming Tab\n{image, tut-farm-01, 120}\n<b>2.</b> Once you select a Farm, place it on the map\n<b>3.</b> Once built, the Farm building panel should automatically open. If not, Click on the Farm to open its panel\n<b>4.</b> Farms need Fields to produce resources. By clicking on the Add Field button located in the bottom of the panel, you get a Field. You will need to place the Field within the radius of the Farm\n{image, tut-farm-02, 120}\n<b>5.</b> Once the Field is placed, you will need to direct some resources to start generating Products. Usually water and sometimes wheat\n<b>6.</b> The Farm is now fully operational and will start to generate Products\n\n<b>Choosing and producing a Recipe</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Production Tab\n{image, tut-farm-04, 120}\n<b>2.</b> Click on the Set button next to the Product you wish to create\n{image, tut-farm-05, 120}\n<b>3.</b> You must identify which ingredients are required to generate the Product. Start with a small Recipe til you get the hang out it. Send Water from a Water Siphon to a Wheat Farm via the Water Siphon Destination tab to create some Wheat!\n<b>4.</b> There will be a bar to show the Products progress. If it doesn’t move then something is wrong. E.g. not enough ingredients or a lack of storage space in the building\n{image, tut-farm-03, 120}\n\n<b>Transporting Products (Manual Mode)</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Destination Tab\n{image, image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a 0 appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations	Farms and their Fields are buildings that will generate various types of food and products based on the type of Farm you place.\n\n<b>Placing a Farm & Fields</b>\n<b>1.</b> Place a Farm by choosing one in the Construction Menu under the Farming Tab\n{image, tut-farm-01, 120}\n<b>2.</b> Once you select a Farm, place it on the map\n<b>3.</b> Once built, the Farm building panel should automatically open. If not, Click on the Farm to open its panel\n<b>4.</b> Farms need Fields to produce resources. By clicking on the Add Field button located in the bottom of the panel, you get a Field. You will need to place the Field within the radius of the Farm\n{image, tut-farm-02, 120}\n<b>5.</b> Once the Field is placed, you will need to direct some resources to start generating Products. Usually water and sometimes wheat\n<b>6.</b> The Farm is now fully operational and will start to generate Products\n\n<b>Choosing and producing a Recipe</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Production Tab\n{image, tut-farm-04, 120}\n<b>2.</b> Click on the Set button next to the Product you wish to create\n{image, tut-farm-05, 120}\n<b>3.</b> You must identify which ingredients are required to generate the Product. Start with a small Recipe til you get the hang out it. Send Water from a Water Siphon to a Wheat Farm via the Water Siphon Destination tab to create some Wheat!\n<b>4.</b> There will be a bar to show the Products progress. If it doesn’t move then something is wrong. E.g. not enough ingredients or a lack of storage space in the building\n{image, tut-farm-03, 120}\n\n<b>Transporting Products (Manual Mode)</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Destination Tab\n{image, image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a 0 appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations
 helptopic.gatherers.title	20	Gatherers	Gatherers
 helptopic.gatherers.body	0	Gatherers and its Harvesters are buildings that will gather resources for making Products to sell to Settlements or the State.\n\n<b>Placing a Gatherer & Harvesting</b>\n<b>1.</b> Place a Gatherer by choosing one in the Construction Menu under the Gatherers Tab\n{image, tut-gath-01, 120}\n<b>2.</b> Once you select a Gatherer, place it on the map close to the resource associated with it\n<b>3.</b> Once built, the Gatherer building panel should automatically open. If not, Click on the Gatherer to open its panel\n<b>4.</b> Gatherers need Harvesters to start gathering resources. By clicking on the Add Harvester button located at the bottom of the panel, you get a Harvester. You will need to place the Harvester close to the Resource before it will function\n<b>5.</b> Once the Harvester is placed, it needs to be linked to the Gatherer by a Road. Build one that goes from the Harvester to the Gatherer\n<b>6.</b> The Gatherer is now fully operational and will start gathering resources\n\n<b>Transporting the Resource (Manual Mode)</b>\n<b>1.</b> Open the Gatherers Panel and Click on the Destination Tab\n{image,  image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a “0” appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations	Gatherers and its Harvesters are buildings that will gather resources for making Products to sell to Settlements or the State.\n\n<b>Placing a Gatherer & Harvesting</b>\n<b>1.</b> Place a Gatherer by choosing one in the Construction Menu under the Gatherers Tab\n{image, tut-gath-01, 120}\n<b>2.</b> Once you select a Gatherer, place it on the map close to the resource associated with it\n<b>3.</b> Once built, the Gatherer building panel should automatically open. If not, Click on the Gatherer to open its panel\n<b>4.</b> Gatherers need Harvesters to start gathering resources. By clicking on the Add Harvester button located at the bottom of the panel, you get a Harvester. You will need to place the Harvester close to the Resource before it will function\n<b>5.</b> Once the Harvester is placed, it needs to be linked to the Gatherer by a Road. Build one that goes from the Harvester to the Gatherer\n<b>6.</b> The Gatherer is now fully operational and will start gathering resources\n\n<b>Transporting the Resource (Manual Mode)</b>\n<b>1.</b> Open the Gatherers Panel and Click on the Destination Tab\n{image,  image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a “0” appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations
-helptopic.globalmarket.title	20	Global Market	Global Market
+helptopic.globalmarket.title	20	Global Market	글로벌 마켓
 helptopic.globalmarket.body	0	The Global Market is an ever-shifting machine that only a master of industry can crack. As you are producing Products, knowing when to sell will be key to maximizing your profits. Selling too many items will cause the price of Products to drop below acceptable levels while sending too few Products will raise the price of a Product up, but low sales mean not enough money to pay your bills. Balancing how much of a Product you send versus the price of said Product will be imperative.\n\n<b>Supply and Demand</b>\nEvery Settlement sets the Demand for each Product in its Shops. Demand proportional to the number of people within a Settlement. The higher the population they more Product they demand.\n\n<b>Pricing</b>\nThe baseline price for a Product is affected by its Supply. If a Product's Supply in all Shops on the map is larger than the Product's Demand, then its price will decrease. If the Product's Demand is higher than the Supply, then its price will increase.	The Global Market is an ever-shifting machine that only a master of industry can crack. As you are producing Products, knowing when to sell will be key to maximizing your profits. Selling too many items will cause the price of Products to drop below acceptable levels while sending too few Products will raise the price of a Product up, but low sales mean not enough money to pay your bills. Balancing how much of a Product you send versus the price of said Product will be imperative.\n\n<b>Supply and Demand</b>\nEvery Settlement sets the Demand for each Product in its Shops. Demand proportional to the number of people within a Settlement. The higher the population they more Product they demand.\n\n<b>Pricing</b>\nThe baseline price for a Product is affected by its Supply. If a Product's Supply in all Shops on the map is larger than the Product's Demand, then its price will decrease. If the Product's Demand is higher than the Supply, then its price will increase.
 helptopic.hqbuilding.title	20	Hq Building	Hq Building
 helptopic.hqbuilding.body	0	The HQ building represents the center of your industrial empire. It handles your Tech Tree as well as your loans. When placed, the HQ building awards that Region's Full Build Permit. Though it cannot be moved from once placed, It can be modified to better reflect your playstyle after you researched deep enough into a Tech Tree.\n\n<b>Placing a HQ Building</b>\n<b>1.</b> Place a HQ Building by choosing ot in the Construction Menu at the HQ Tab\n{image, tut-hq-01, 120}\n<b>2.</b> Once built the HQ Building’s panel should automatically open. If not, Click on the HQ Building to open its panel	The HQ building represents the center of your industrial empire. It handles your Tech Tree as well as your loans. When placed, the HQ building awards that Region's Full Build Permit. Though it cannot be moved from once placed, It can be modified to better reflect your playstyle after you researched deep enough into a Tech Tree.\n\n<b>Placing a HQ Building</b>\n<b>1.</b> Place a HQ Building by choosing ot in the Construction Menu at the HQ Tab\n{image, tut-hq-01, 120}\n<b>2.</b> Once built the HQ Building’s panel should automatically open. If not, Click on the HQ Building to open its panel
@@ -1532,7 +1532,7 @@ buildingselectioncategorygroup.warehouses.groupname	20	Warehouses	Warehouses
 buildingselectioncategorygroup.commercial.groupname	20	Commercial	Commercial
 buildingselectioncategorygroup.contracts.groupname	20	Contracts	Contracts
 buildingselectioncategorygroup.factories.groupname	20	Factories	Factories
-buildingselectioncategorygroup.farms.groupname	20	Farms	Farms
+buildingselectioncategorygroup.farms.groupname	20	Farms	농장건물
 buildingselectioncategorygroup.gatherers.groupname	20	Gatherers	Gatherers
 buildingselectioncategorygroup.logistics.groupname	20	Logistics	Logistics
 buildingselectioncategorygroup.boatdepots.groupname	20	Boats	Boats
@@ -1637,22 +1637,22 @@ totalsalesentryinfo.demand.entryname	20	Demand	Demand
 totalsalesentryinfo.stored.entryname	20	Stored	Stored
 totalsalesentryinfo.supplied.entryname	20	Supplied	Supplied
 totalsalesentryinfo.totalsales.entryname	20	Total Sales	Total Sales
-constructionbarcommand.administrativebuildingsconbarcommand.commandname	0	Administrative Buildings	Administrative Buildings
-constructionbarcommand.bridgesconbarcommand.commandname	0	Bridges	Bridges
-constructionbarcommand.demolishconbarcommand.commandname	0	Demolish	Demolish
-constructionbarcommand.eyedropperconbarcommand.commandname	0	Duplicate	Duplicate
-constructionbarcommand.factoriesconbarcommand.commandname	0	Factories	Factories
-constructionbarcommand.farmsconbarcommand.commandname	0	Farms	Farms
-constructionbarcommand.gatherersconbarcommand.commandname	0	Gatherers	Gatherers
-constructionbarcommand.logisticsconbarcommand.commandname	0	Logistics	Logistics
-constructionbarcommand.networksconbarcommand.commandname	0	Networks	Networks
-constructionbarcommand.prototypefacilitiesconbarcommand.commandname	0	Prototype Facilities	Prototype Facilities
-constructionbarcommand.terraformingconbarcommand.commandname	0	Terraforming	Terraforming
-constructionbarcommand.tunnelsconbarcommand.commandname	0	Tunnels	Tunnels
-constructionbarcommand.undoconbarcommand.commandname	0	Undo	Undo
-terraformingaction.flatten.name	0	Flatten	Flatten
-terraformingaction.planttrees.name	0	Plant Trees	Plant Trees
-terraformingaction.raiselower.name	0	Raise/Lower	Raise/Lower
+constructionbarcommand.administrativebuildingsconbarcommand.commandname	0	Administrative Buildings	본부 건물
+constructionbarcommand.bridgesconbarcommand.commandname	0	Bridges	다리건설
+constructionbarcommand.demolishconbarcommand.commandname	0	Demolish	철거
+constructionbarcommand.eyedropperconbarcommand.commandname	0	Duplicate	복재
+constructionbarcommand.factoriesconbarcommand.commandname	0	Factories	공장건물
+constructionbarcommand.farmsconbarcommand.commandname	0	Farms	농장건물
+constructionbarcommand.gatherersconbarcommand.commandname	0	Gatherers	자원건물
+constructionbarcommand.logisticsconbarcommand.commandname	0	Logistics	수송건물
+constructionbarcommand.networksconbarcommand.commandname	0	Networks	도로건설
+constructionbarcommand.prototypefacilitiesconbarcommand.commandname	0	Prototype Facilities	하이테크 공장 건물
+constructionbarcommand.terraformingconbarcommand.commandname	0	Terraforming	지형툴
+constructionbarcommand.tunnelsconbarcommand.commandname	0	Tunnels	터널건설
+constructionbarcommand.undoconbarcommand.commandname	0	Undo	행동 되돌리기
+terraformingaction.flatten.name	0	Flatten	땅 평지화
+terraformingaction.planttrees.name	0	Plant Trees	나무 심기
+terraformingaction.raiselower.name	0	Raise/Lower	땅 높이 조절
 techtree.efficiency.techtreename	20	Efficiency	Efficiency
 techtreegenericunlock.factoryefficiencyl1.unlockname	40	Factories Efficiency	Factories Efficiency
 techtreegenericunlock.factoryefficiencyl1.description	55	Allows to set Factories Efficiency to 25%.	Allows to set Factories Efficiency to 25%.
@@ -1708,15 +1708,15 @@ localizedtexttable.localizedtexttable.startingup	30	Starting Up	Starting Up
 localizedtexttable.localizedtexttable.missingpermit	30	Missing permit!	Missing permit!
 localizedtexttable.localizedtexttable.cannotafford	30	Cannot afford!	Cannot afford!
 localizedtexttable.localizedtexttable.placingpath	30	{0} Tiles: {1}	{0} Tiles: {1}
-localizedtexttable.localizedtexttable.invalidplacement	30	Can't place here!\n<color=#AA7326FF>{0}</color>	Can't place here!\n<color=#AA7326FF>{0}</color>
+localizedtexttable.localizedtexttable.invalidplacement	30	Can't place here!\n<color=#AA7326FF>{0}</color>	이곳에 지을 수 없습니다!\n<color=#AA7326FF>{0}</color>
 localizedtexttable.localizedtexttable.cannotbuildhereerror	30	Cannot build here!	Cannot build here!
 localizedtexttable.localizedtexttable.cannotconnecterror	30	Cannot connect! {0} -> {1}	Cannot connect! {0} -> {1}
 localizedtexttable.localizedtexttable.emptypatherror	30	Path is empty!	Path is empty!
 localizedtexttable.localizedtexttable.logisticalpermitrequirederror	30	Logistical Permit required!	Logistical Permit required!
 localizedtexttable.localizedtexttable.notenoughinfluenceerror	30	Not enough influence on {0}!	Not enough influence on {0}!
 localizedtexttable.localizedtexttable.cannotterraform	30	Cannot terraform!	Cannot terraform!
-localizedtexttable.localizedtexttable.terraformingblocked	30	Tiles are blocked! Cannot terraform!	Tiles are blocked! Cannot terraform!
-buildingefficiency.titletext	30	Building Efficiency	Building Efficiency
+localizedtexttable.localizedtexttable.terraformingblocked	30	Tiles are blocked! Cannot terraform!	중복된 블록! 지형툴을 사용 불가능!
+buildingefficiency.titletext	30	Building Efficiency	건물 효율성
 buildingefficiency.buttonarea.value.background	0	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>{upkeep} ({upkeepModifier}%)</color>\nProduction Time <color=#C87C0D>{productionTime} Days ({productionTimeModifier}%)</color>	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>{upkeep} ({upkeepModifier}%)</color>\nProduction Time <color=#C87C0D>{productionTime} Days ({productionTimeModifier}%)</color>
 buildingefficiency.buttonarea.value.background1	0	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>No Upkeep</color>\nProduction Time <color=#C87C0D>No Production</color>	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>No Upkeep</color>\nProduction Time <color=#C87C0D>No Production</color>
 tutorialpart1.step0.description	180	Welcome to Rise of Industry! A game about testing your entrepreneurial skills. Here are some instructions to give you a head start!	Welcome to Rise of Industry! A game about testing your entrepreneurial skills. Here are some instructions to give you a head start!
@@ -1935,31 +1935,31 @@ ui.mainui.lockedmodeui.mainui.moneyoverviewpanel.recurring.itemsarea.entry.lastm
 ui.mainui.lockedmodeui.mainui.moneyoverviewpanel.recurring.total.labeltext	15	Total	Total
 ui.mainui.lockedmodeui.mainui.moneyoverviewpanel.recurring.total.currentmonthzero	100	-	-
 ui.mainui.lockedmodeui.mainui.moneyoverviewpanel.recurring.total.lastmonthzero	100	-	-
-ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.pricesbutton.tooltip	30	GLOBAL MARKET	GLOBAL MARKET
-ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.tradebutton.tooltip	30	TRADE ROUTES	TRADE ROUTES
+ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.pricesbutton.tooltip	30	GLOBAL MARKET	글로벌 시장
+ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.tradebutton.tooltip	30	TRADE ROUTES	수송 경로 리스트
 ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.buildingoverviewbutton.tooltip	30	BUILDING OVERVIEW	BUILDING OVERVIEW
 ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.maplayersbutton.tooltip	30	MAP LAYERS (COMING SOON)	MAP LAYERS (COMING SOON)
 ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.notificationsbutton.tooltip	30	NOTIFICATIONS	NOTIFICATIONS
-ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.recipebook.tooltip	30	RECIPE BOOK	RECIPE BOOK
-ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.tutorialbutton.tooltip	30	HELP & INFO	HELP & INFO
-ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.techtreebutton.tooltip	30	TECH TREE	TECH TREE
+ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.recipebook.tooltip	30	RECIPE BOOK	제조 책자
+ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.tutorialbutton.tooltip	30	HELP & INFO	도움말
+ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.techtreebutton.tooltip	30	TECH TREE	기술 연구
 ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.techtreebutton.notification.text	100	0	0
 ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.sendfeedbackbutton.tooltip	30	SEND FEEDBACK	SEND FEEDBACK
-ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.productionpanelbutton.tooltip	30	PRODUCTION OVERVIEW	PRODUCTION OVERVIEW
+ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.productionpanelbutton.tooltip	30	PRODUCTION OVERVIEW	생산 차트
 ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.productionpanelbutton.notification.text	100	0	0
-ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.budgetpanelbutton.tooltip	30	BUDGET OVERVIEW	BUDGET OVERVIEW
+ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.budgetpanelbutton.tooltip	30	BUDGET OVERVIEW	자산 차트
 ui.mainui.lockedmodeui.mainui.mainmenutoolspanel.mainmenutoolsarea.budgetpanelbutton.notification.text	100	0	0
-ui.mainui.lockedmodeui.mainui.mainmenumoneypanel.moneyactualtextarea.moneycurrenttext.tooltip	30	CURRENT MONTH BALANCE	CURRENT MONTH BALANCE
+ui.mainui.lockedmodeui.mainui.mainmenumoneypanel.moneyactualtextarea.moneycurrenttext.tooltip	30	CURRENT MONTH BALANCE	이번달 재정 현황
 ui.mainui.lockedmodeui.mainui.mainmenumoneypanel.moneyactualtextarea.moneycurrenttext	100	9999M	9999M
-ui.mainui.lockedmodeui.mainui.mainmenumoneypanel.moneyactualtextarea.moneyactualtext.tooltip	30	TOTAL BALANCE	TOTAL BALANCE
-ui.mainui.lockedmodeui.mainui.constructionbararea.constructionbarprehqarea.constructionbarplacehqtext	100	PLACE YOUR HEADQUARTERS IN ANY REGION	PLACE YOUR HEADQUARTERS IN ANY REGION
-constructionbarbuiltinbehaviours.constructionbar.bridgesmenuname	100	Bridges	Bridges
-constructionbarbuiltinbehaviours.constructionbar.standardnetworksmenuname	100	Networks	Networks
-constructionbarbuiltinbehaviours.constructionbar.tunnelsmenuname	100	Tunnels	Tunnels
-constructionbarbuiltinbehaviours.constructionbar.terraformingmenuname	100	Terraforming	Terraforming
+ui.mainui.lockedmodeui.mainui.mainmenumoneypanel.moneyactualtextarea.moneyactualtext.tooltip	30	TOTAL BALANCE	총 재정 현황
+ui.mainui.lockedmodeui.mainui.constructionbararea.constructionbarprehqarea.constructionbarplacehqtext	100	PLACE YOUR HEADQUARTERS IN ANY REGION	본부 건물을 원하는 지역에 배치하십시오
+constructionbarbuiltinbehaviours.constructionbar.bridgesmenuname	100	Bridges	다리툴
+constructionbarbuiltinbehaviours.constructionbar.standardnetworksmenuname	100	Networks	도로툴
+constructionbarbuiltinbehaviours.constructionbar.tunnelsmenuname	100	Tunnels	터널툴
+constructionbarbuiltinbehaviours.constructionbar.terraformingmenuname	100	Terraforming	지형툴
 ui.mainui.lockedmodeui.mainui.constructionbararea.constructionbar.commands.command.icon	100	{tooltip}	{tooltip}
 worldeventeffectui.buildingtag1	20	Factories	Factories
-worldeventeffectui.buildingtag2	20	Farms	Farms
+worldeventeffectui.buildingtag2	20	Farms	농장건물
 worldeventeffectui.buildingtag3	20	Gatherers	Gatherers
 worldeventeffectui.buildingtag4	20	All buildings	All buildings
 worldeventeffectui.allbuildings	20	All buildings	All buildings
@@ -1982,12 +1982,12 @@ ui.mainui.lockedmodeui.demolishpopupoverlay.demolishpopup.textarea.text	20	DEMOL
 ui.mainui.lockedmodeui.demolishpopupoverlay.demolishpopup.textarea.text(1)	20	REFUND: <color=#38B449FF>{REFUNDED_AMOUNT}</color>	REFUND: <color=#38B449FF>{REFUNDED_AMOUNT}</color>
 ui.mainui.lockedmodeui.demolishpopupoverlay.demolishpopup.buttoncontainerarea.demolishbutton.text	7	DEMOLISH	DEMOLISH
 ui.mainui.lockedmodeui.demolishpopupoverlay.demolishpopup.buttoncontainerarea.cancelbutton.text	7	CANCEL	CANCEL
-ui.mainui.flybymodeui.freecam.titletext	13	FREE-CAM MODE	FREE-CAM MODE
-ui.mainui.flybymodeui.freecam.controls.control1.keytext	13	ENTER/EXIT FREE-CAM	ENTER/EXIT FREE-CAM
-ui.mainui.flybymodeui.freecam.controls.control1(1).keytext	13	HIDE/UNHIDE UI	HIDE/UNHIDE UI
-ui.mainui.flybymodeui.freecam.controls.control1(2).keytext	13	RAISE CAMERA	RAISE CAMERA
-ui.mainui.flybymodeui.freecam.controls.control1(3).keytext	13	LOWER CAMERA	LOWER CAMERA
-ui.mainui.alwaysvisibleui.mainmenupanel.worldnamepanel.placeholder	100	Your Map name goes here	Your Map name goes here
+ui.mainui.flybymodeui.freecam.titletext	13	FREE-CAM MODE	자유 카메라 모드
+ui.mainui.flybymodeui.freecam.controls.control1.keytext	13	ENTER/EXIT FREE-CAM	자유 카메라 모드 ON/OFF
+ui.mainui.flybymodeui.freecam.controls.control1(1).keytext	13	HIDE/UNHIDE UI	UI 보이기/숨기기
+ui.mainui.flybymodeui.freecam.controls.control1(2).keytext	13	RAISE CAMERA	카메라 위로
+ui.mainui.flybymodeui.freecam.controls.control1(3).keytext	13	LOWER CAMERA	카메라 아래로
+ui.mainui.alwaysvisibleui.mainmenupanel.worldnamepanel.placeholder	100	Your Map name goes here	맵 이름을 입력해주세요
 ui.windows._static_recipebookpanel.recipepanelarea.recipediagramarea.buildingtitlearea.buildicon.buildinglocked.buildicon.tooltip	30	Can be unlocked in the tech tree	Can be unlocked in the tech tree
 ui.windows._static_recipebookpanel.recipepanelarea.recipediagramarea.recipeproductiontimearea.producetimetitle	10	TIME TO PRODUCE:	TIME TO PRODUCE:
 ui.windows._static_recipebookpanel.recipepanelarea.recipediagramarea.recipeproductiontimearea.producetimeamount	10	{days} days	{days} days
@@ -2010,19 +2010,19 @@ ui.windows._static_traderoutespanel.stationpanel.stationselection.breadcrumbarea
 ui.windows._static_traderoutespanel.stationpanel.stationselection.destinationtiparea.tiptext	50	SELECT THE DEPOT WHERE THE FLEET WILL DEPART FROM	SELECT THE DEPOT WHERE THE FLEET WILL DEPART FROM
 ui.windows._static_traderoutespanel.stationpanel.productdropdown(1).filterareaactive(1).filtercategory.active.filtertextactive	100	RAW MATERIALS	RAW MATERIALS
 ui.windows._static_traderoutespanel.stationpanel.productdropdown(1).filterareaactive(1).filtercategory.inactive.filtertextinactive	100	RAW MATERIALS	RAW MATERIALS
-ui.windows._static_statetradeproductpanel.titlepanel.icontitlearea(1).titletext	20	GLOBAL MARKET	GLOBAL MARKET
-ui.loadingoverlay.loadingoverlayui.loadingtext	100	LOADING...	LOADING...
-ui.loadingoverlay.loadingoverlayui.disclaimertext	100	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.
-ui.loadingoverlay.loadingoverlayui.logoalphagameplay.loadingtitletext	100	ALPHA GAMEPLAY	ALPHA GAMEPLAY
-ui.loadingoverlay.loadingoverlayui.loadingalertarea.loadingalerttext	100	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE
-ui.loadingoverlay.loadingoverlayui.loadingtext1	100	LOADING	LOADING
+ui.windows._static_statetradeproductpanel.titlepanel.icontitlearea(1).titletext	20	GLOBAL MARKET	글로벌 마켓
+ui.loadingoverlay.loadingoverlayui.loadingtext	100	LOADING...	로딩중...
+ui.loadingoverlay.loadingoverlayui.disclaimertext	100	This game is currently in the alpha phase and is not complete. \nFeatures, gameplay, and more are being tweaked and are subject to change.	이 게임은 아직 알파 버전으로 완성되지 않았습니다. \n기능, 게임 플레이 등 여러 가지 요소가 변경될 수 있습니다.
+ui.loadingoverlay.loadingoverlayui.logoalphagameplay.loadingtitletext	100	ALPHA GAMEPLAY	알파 버전 게임플레이
+ui.loadingoverlay.loadingoverlayui.loadingalertarea.loadingalerttext	100	PLEASE WAIT WHILE THE MAP IS BEING GENERATED - THE GAME MIGHT BECOME UNRESPONSIVE	지도가 생성될 동안 기다려주십시오 - 사양에 따라 오래 걸릴 수 있습니다
+ui.loadingoverlay.loadingoverlayui.loadingtext1	100	LOADING	로딩중
 ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.pagenumber	100	{PAGE} / {PAGE_COUNT}	{PAGE} / {PAGE_COUNT}
-ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonback.text	4	Back	Back
-ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonbackinactive.text	4	BACK	BACK
-ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonnext.text	4	NEXT	NEXT
-ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonnextinactive.text	4	NEXT	NEXT
-ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonend.text	4	END	END
-ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonnexttutorial.text	4	NEXT	NEXT
+ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonback.text	4	Back	뒤로
+ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonbackinactive.text	4	BACK	뒤로
+ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonnext.text	4	NEXT	다음
+ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonnextinactive.text	4	NEXT	다음
+ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonend.text	4	END	끝
+ui.tutorialcanvas.tutorialpanel.tutorialpanelcontent.buttonarea.buttonnexttutorial.text	4	NEXT	다음
 ui.fullscreenpanels.techtreeui.treelockedarea.text	100	Locked\nin demo	Locked\nin demo
 ui.fullscreenpanels.techtreeui.paneltitlearea.text(1)	20	TECH TREE	TECH TREE
 ui.fullscreenpanels.techtreeui.sidebar.search.inputfield.textarea.placeholder	10	Search...	Search...
@@ -2107,7 +2107,7 @@ totalsalesviewmodel.budgetpanel.maincollectionname	20	Total Sales	Total Sales
 totalsalesviewmodel.budgetpanel.settlementcollectionname	20	Sales By Settlement	Sales By Settlement
 totalsalesviewmodel.budgetpanel.shopcollectionname	20	Sales By Shop	Sales By Shop
 totalsalesviewmodel.budgetpanel.productcollectionname	20	Wanted Products	Wanted Products
-ui.fullscreenpanels.budgetpanel.paneltitlearea.text(1)	30	Budget Overview	Budget Overview
+ui.fullscreenpanels.budgetpanel.paneltitlearea.text(1)	30	Budget Overview	자산 차트
 ui.fullscreenpanels.budgetpanel.sidebar.search.inputfield.textarea.placeholder	15	Search...	Search...
 ui.fullscreenpanels.budgetpanel.sidebar.search.inputfield.textarea.text	15	​	​
 ui.fullscreenpanels.budgetpanel.sidebar.scrollviewfilterarea.viewport.content.totalbudget.category.inactive.filtertext	15	Total Budget	Total Budget
@@ -2124,23 +2124,23 @@ ui.fullscreenpanels.budgetpanel.sidebar.scrollviewfilterarea.viewport.content.bu
 ui.fullscreenpanels.budgetpanel.sidebar.scrollviewfilterarea.viewport.content.buildings.children.children2.children3.subcategorymain4.inactive.filtertext	15	Drinks Factory 1	Drinks Factory 1
 ui.fullscreenpanels.budgetpanel.sidebar.scrollviewfilterarea.viewport.content.buildings.category.inactive.filtertext	15	Buildings	Buildings
 ui.fullscreenpanels.budgetpanel.sidebar.scrollviewfilterarea.viewport.content.buildings.category.active.filtertext	15	Buildings	Buildings
-ui.fullscreenpanels.budgetpanel.grapharea.titlearea.titletext	15	Total Budget	Total Budget
-budgettimelineviewmodel.timesizeelement1	15	Last 3 Months	Last 3 Months
-budgettimelineviewmodel.timesizeelement2	15	Last 6 Months	Last 6 Months
-budgettimelineviewmodel.timesizeelement3	15	Last 12 Months	Last 12 Months
-budgettimelineviewmodel.timesizeelement4	15	Last 24 Months	Last 24 Months
-budgettimelineviewmodel.timesizeelement5	15	All Months	All Months
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.titletext(1)	30	Select Time range	Select Time range
+ui.fullscreenpanels.budgetpanel.grapharea.titlearea.titletext	15	Total Budget	총 자산
+budgettimelineviewmodel.timesizeelement1	15	Last 3 Months	최근 3 개월
+budgettimelineviewmodel.timesizeelement2	15	Last 6 Months	최근 6 개월
+budgettimelineviewmodel.timesizeelement3	15	Last 12 Months	최근 12 개월
+budgettimelineviewmodel.timesizeelement4	15	Last 24 Months	최근 24 개월
+budgettimelineviewmodel.timesizeelement5	15	All Months	모든 내역
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.titletext(1)	30	Select Time range	표기할 개월 수 설정
 ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.lastmonthinactive.text	15	Last Month	Last Month
 ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.lastmonthactive.text	15	Last Month	Last Month
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last6monthsinactive.text	15	Last 6 Months	Last 6 Months
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last6monthsactive.text	15	Last 6 Months	Last 6 Months
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last12monthsinactive.text	15	Last 12 Months	Last 12 Months
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last12monthsactive.text	15	Last 12 Months	Last 12 Months
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last24monthsinactive.text	15	Last 24 Months	Last 24 Months
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last24monthsactive.text	15	Last 24 Months	Last 24 Months
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last6monthsinactive.text	15	Last 6 Months	최근 6 개월
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last6monthsactive.text	15	Last 6 Months	최근 6 개월
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last12monthsinactive.text	15	Last 12 Months	최근 12 개월
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last12monthsactive.text	15	Last 12 Months	최근 12 개월
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last24monthsinactive.text	15	Last 24 Months	최근 24 개월
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.last24monthsactive.text	15	Last 24 Months	최근 24 개월
 ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.allmonthsinactive.text	15	All months	All months
-ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.allmonthsactive.text	15	All Months	All Months
+ui.fullscreenpanels.budgetpanel.grapharea.timeselection.buttonarea.allmonthsactive.text	15	All Months	모든 내역
 tooltipcanvas.simpletooltip.text	30	TOOLTIP	TOOLTIP
 tooltipcanvas.producttooltip.content.producedat	30	Produced At: {building}	Produced At: {building}
 tooltipcanvas.producttooltip.content.requires	30	Requires: {ingredients}	Requires: {ingredients}
@@ -2163,29 +2163,29 @@ analysisitemdefinition.trucksdispatched.uilabel	20	Trucks Dispatched	Trucks Disp
 analysisitemdefinition.unitsproduced.uilabel	20	Units Produced	Units Produced
 analysisitemdefinition.uptime.uilabel	20	Uptime %	Uptime %
 analysisitemdefinition.zeppelinsdispatched.uilabel	20	Zeppelins Dispatched	Zeppelins Dispatched
-analysisitemdefinition.buildingefficiency.uilabel	20	Building Efficiency	Building Efficiency
+analysisitemdefinition.buildingefficiency.uilabel	20	Building Efficiency	건물 효율성
 datacategory.boatdepot.categoryname	15	Boat Depot	Boat Depot
-datacategory.coastalgatherers.categoryname	15	Coastal Gatherers	Coastal Gatherers
+datacategory.coastalgatherers.categoryname	15	Coastal Gatherers	연안 자원 채집소
 datacategory.commercial.categoryname	15	Commercial	Commercial
 datacategory.factories.categoryname	15	Factories	Factories
 datacategory.farms.categoryname	15	Farms	Farms
 datacategory.field.categoryname	15	Field	Field
 datacategory.gathererbuildings.categoryname	15	GATHERERS	GATHERERS
 datacategory.harvester.categoryname	15	Harvester	Harvester
-datacategory.heavyindustry.categoryname	15	Heavy Industry	Heavy Industry
-datacategory.landgatherers.categoryname	15	Land-Based Gatherers	Land-Based Gatherers
-datacategory.lightindustry.categoryname	15	Light Industry	Light Industry
-datacategory.logisticsbuildings.categoryname	15	Logistics Buildings	Logistics Buildings
-datacategory.offshoregatherers.categoryname	15	Offshore Gatherers	Offshore Gatherers
+datacategory.heavyindustry.categoryname	15	Heavy Industry	중공업
+datacategory.landgatherers.categoryname	15	Land-Based Gatherers	육지 자원 채집소
+datacategory.lightindustry.categoryname	15	Light Industry	경공업
+datacategory.logisticsbuildings.categoryname	15	Logistics Buildings	수송 건물
+datacategory.offshoregatherers.categoryname	15	Offshore Gatherers	해안 자원 채집소
 datacategory.residential.categoryname	15	Residential	Residential
 datacategory.state.categoryname	15	State	State
 datacategory.towncenter.categoryname	15	Town Center	Town Center
 datacategory.trainterminal.categoryname	15	Train Terminal	Train Terminal
 datacategory.truckdepot.categoryname	15	Truck Depot	Truck Depot
 datacategory.zeppelinstation.categoryname	15	Zeppelin Station	Zeppelin Station
-datacategory.headquarters.categoryname	15	Headquarters	Headquarters
-datacategory.prototypefactories.categoryname	15	Prototype Factories	Prototype Factories
-datacategory.ruralindustry.categoryname	15	Rural Industry	Rural Industry
+datacategory.headquarters.categoryname	15	Headquarters	본부 건물
+datacategory.prototypefactories.categoryname	15	Prototype Factories	하이테크 공장 건물
+datacategory.ruralindustry.categoryname	15	Rural Industry	식재료 공업
 building.applesfield.buildingname	20	APPLE FIELD	APPLE FIELD
 building.berryfield.buildingname	20	BERRY FIELD	BERRY FIELD
 building.boatdepot.buildingname	20	Boat Depot	Boat Depot
@@ -2280,7 +2280,7 @@ building.zeppelinfield.buildingname	20	Zeppelin Field	Zeppelin Field
 building.regioncenter.buildingname	20	Region Center	Region Center
 building.tradingcenter_t1.buildingname	20	Town Center	Town Center
 building.tradingcenter_t2.buildingname	20	Town Center	Town Center
-building.headquarters.buildingname	20	Headquarters	Headquarters
+building.headquarters.buildingname	20	Headquarters	본부 건물
 building.automotivefactory.buildingname	20	AUTOMOTIVE FACTORY	AUTOMOTIVE FACTORY
 building.carprototypefacility.buildingname	20	CAR PROTOTYPE FACILITY	CAR PROTOTYPE FACILITY
 building.rubberfield.buildingname	20	RUBBER TREE FIELD	RUBBER TREE FIELD
@@ -2302,7 +2302,7 @@ moneybillcategory.renting.categoryname	20	Renting	Renting
 moneybillcategory.researchcosts.categoryname	20	R&D Expenses	R&D Expenses
 moneybillcategory.researchrefund.categoryname	20	R&D Refund	R&D Refund
 moneybillcategory.routevehicleupkeep.categoryname	20	Route Vehicle Upkeep	Route Vehicle Upkeep
-moneybillcategory.terraformingbillcategory.categoryname	20	Terraforming	Terraforming
+moneybillcategory.terraformingbillcategory.categoryname	20	Terraforming	지형툴
 moneybillcategory.upkeep.categoryname	20	Renting	Renting
 moneybillcategory.vehicles.categoryname	20	Vehicles	Vehicles
 moneybillcategory.vehicleupkeep.categoryname	20	Vehicle Upkeep	Vehicle Upkeep
@@ -2363,9 +2363,9 @@ notificationspecification.nowarehouseinrange.description	26	%b	%b
 notificationspecification.cannotreachwarehouse.message	26	CANNOT REACH WAREHOUSE	CANNOT REACH WAREHOUSE
 notificationspecification.cannotreachwarehouse.description	26	%b	%b
 datacategory.rawresources.categoryname	15	Raw Resources	Raw Resources
-datacategory.row1.categoryname	15	Tier1	Tier1
-datacategory.row2.categoryname	15	Tier2	Tier2
-datacategory.row3.categoryname	15	Tier3	Tier3
+datacategory.row1.categoryname	15	Tier1	1티어
+datacategory.row2.categoryname	15	Tier2	2티어
+datacategory.row3.categoryname	15	Tier3	3티어
 datacategory.farmproduce.categoryname	15	Farm Produce	Farm Produce
 datacategory.endproducts.categoryname	15	End Products	End Products
 productdefinition.adhesive.productname	15	Adhesive	Adhesive
@@ -2977,7 +2977,7 @@ canbuildatexrestriction.builtinwater.validationerror	30	MUST BE BUILT IN WATER T
 canbuildatexrestriction.builtonshore.validationerror	30	MUST BE BUILT ON SHORE TILES	MUST BE BUILT ON SHORE TILES
 canaffordrestriction.canafford.validationerror	30	CANNOT AFFORD	CANNOT AFFORD
 canbuildatrestriction.canbuildat.validationerror	30	MUST BE BUILT ON NON BLOCKED TILES	MUST BE BUILT ON NON BLOCKED TILES
-harvestedresourcewithinrange.harvestedresourcewithinrange.validationerror	30	MUST BE PLACED CLOSE TO {0}	MUST BE PLACED CLOSE TO {0}
+harvestedresourcewithinrange.harvestedresourcewithinrange.validationerror	30	MUST BE PLACED CLOSE TO {0}	{0}에 가까운 곳에 건설해야 합니다
 inownerwaterbodyrestriction.inownerwaterbody.validationerror	30	CAN'T REACH HUB	CAN'T REACH HUB
 influentenoughrestriction.influentenough.validationerror	30	YOUR RELATIONSHIP WITH {0} IS NOT GOOD ENOUGH	YOUR RELATIONSHIP WITH {0} IS NOT GOOD ENOUGH
 ownspermitrestriction.ownspermit.validationerror	30	{0} BUILD PERMIT REQUIRED	{0} BUILD PERMIT REQUIRED
@@ -2986,8 +2986,8 @@ withinownerrange.withinownerrange.validationerror	30	MUST BE BUILT WITHIN OWNER'
 nottooclosetoanyresource.nottooclosetoanyresource.validationerror	30	Too close to resource	Too close to resource
 techtreecategory.prototypes.categoryname	15	Prototypes	Prototypes
 techtreecategory.auxiliary.categoryname	15	Auxiliary	Auxiliary
-techtreecategory.heavyindustry.categoryname	15	Heavy Industry	Heavy Industry
-techtreecategory.lightindustry.categoryname	15	Light Industry	Light Industry
+techtreecategory.heavyindustry.categoryname	15	Heavy Industry	중공업
+techtreecategory.lightindustry.categoryname	15	Light Industry	경공업
 techtreecategory.rural.categoryname	15	Rural	Rural
 techtree.advanceddistribution.techtreename	20	Adv. Distribution	Adv. Distribution
 techtree.basicdistribution.techtreename	20	Basic Distribution	Basic Distribution
@@ -3006,15 +3006,15 @@ techtree.petrochemical.techtreename	20	Petrochemical	Petrochemical
 techtree.textile.techtreename	20	Textile	Textile
 contractgenerator.settlementcontractgenerator.nametemplate	20	Deliver {0} {1} to {2}	Deliver {0} {1} to {2}
 buildingpanel.titlepanel.buildingname.text	20	​	​
-buildingpanel.titlepanel.controls.togglebuilding.tooltip	30	TOGGLE BUILDING ACTIVITY	TOGGLE BUILDING ACTIVITY
-buildingpanel.titlepanel.controls.togglebuilding.buildingtoggleenabled.tooltip	30	DISABLE BUILDING	DISABLE BUILDING
-buildingpanel.titlepanel.controls.togglebuilding.buildingtoggledisabled.tooltip	30	ENABLE BUILDING	ENABLE BUILDING
+buildingpanel.titlepanel.controls.togglebuilding.tooltip	30	TOGGLE BUILDING ACTIVITY	건물 활성화 여부 설정
+buildingpanel.titlepanel.controls.togglebuilding.buildingtoggleenabled.tooltip	30	DISABLE BUILDING	건물 비활성화하기
+buildingpanel.titlepanel.controls.togglebuilding.buildingtoggledisabled.tooltip	30	ENABLE BUILDING	건물 활성화하기
 buildingpanel.titlepanel.controls.buildingandwindowcontrols.buildingalertarea.buildingalert	20	{PARAM}	{PARAM}
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.alerttogglearea.tooltip	30	TOGGLE ALERT MESSAGING	TOGGLE ALERT MESSAGING
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.transportviztoggle.tooltip	30	TOGGLE ROUTE LINES	TOGGLE ROUTE LINES
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.pinbuttonarea.tooltip	30	TOGGLE PIN PANEL	TOGGLE PIN PANEL
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.targetbuttonarea.tooltip	30	TARGET BUILDING	TARGET BUILDING
-buildingpanel.titlepanel.controls.buildingandwindowcontrols.closebuttonarea.tooltip	30	CLOSE PANEL	CLOSE PANEL
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.alerttogglearea.tooltip	30	TOGGLE ALERT MESSAGING	알림 메시지 활성화
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.transportviztoggle.tooltip	30	TOGGLE ROUTE LINES	경로 모드 활성화
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.pinbuttonarea.tooltip	30	TOGGLE PIN PANEL	패널 핀 고정
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.targetbuttonarea.tooltip	30	TARGET BUILDING	건물로 이동하기
+buildingpanel.titlepanel.controls.buildingandwindowcontrols.closebuttonarea.tooltip	30	CLOSE PANEL	패널 닫기
 buildingpanel.tabs.tab	20	{name}	{name}
 buildingpanelmodule.outputmodule.modulename	30	PRODUCTION	PRODUCTION
 outputmodule.recipediagramarea.inputarea.input1area.active.amountneededtextarea.farmamountneededtext	8	{amount}x/Field	{amount}x/Field
@@ -3028,16 +3028,16 @@ outputmodule.chosenoutputarea.currentoutputtext	15	CURRENT OUTPUT	CURRENT OUTPUT
 outputmodule.chooseoutputlist.viewport.content.recipe.unlockedinactive.setrecipebutton.setrecipebuttontext	3	SET	SET
 outputmodule.chooseoutputlist.viewport.content.recipe.locked.buildingtitlearea.tooltip	30	UNLOCK THIS RECIPE USING THE TECH TREE	UNLOCK THIS RECIPE USING THE TECH TREE
 outputmodule.outputpopup.text	50	ARE YOU SURE YOU WANT TO CHANGE THE RECIPE? \nALL UNUSED INGREDIENTS WILL BE DUMPED.	ARE YOU SURE YOU WANT TO CHANGE THE RECIPE? \nALL UNUSED INGREDIENTS WILL BE DUMPED.
-outputmodule.outputpopup.yesbutton.yesbuttontext	3	YES	YES
-outputmodule.outputpopup.nobutton.nobuttontext	3	NO	NO
+outputmodule.outputpopup.yesbutton.yesbuttontext	3	YES	예
+outputmodule.outputpopup.nobutton.nobuttontext	3	NO	아니오
 buildingpanelmodule.hqoverviewmodule.modulename	30	OVERVIEW	OVERVIEW
-hqoverviewmodule.relocatehq.relocatebutton.addharvesterbuttontext	20	Relocate Headquarters	Relocate Headquarters
+hqoverviewmodule.relocatehq.relocatebutton.addharvesterbuttontext	20	Relocate Headquarters	본부 재배치
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(1).titletext	20	Total Assets	Total Assets
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(2).titletext	20	Average Influence	Average Influence
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(3).titletext	20	Game Difficulty	Game Difficulty
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(3).descriptiontext	0	INFORMATION	INFORMATION
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(4).titletext	20	World Seed	World Seed
-hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.titletext	20	CHOOSE A HEADQUARTERS MODEL	CHOOSE A HEADQUARTERS MODEL
+hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.titletext	20	CHOOSE A HEADQUARTERS MODEL	본부 건물 모델 선택
 hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.normal.disabled	50	${cost} to change to this HQ	${cost} to change to this HQ
 hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.previewlocked.disabled	50	You need {unlocks} more unlocks in the {spec} specialisation to unlock this HQ	You need {unlocks} more unlocks in the {spec} specialisation to unlock this HQ
 buildingpanelmodule.settlementoverviewmodule.modulename	30	OVERVIEW	OVERVIEW
@@ -3099,9 +3099,9 @@ shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.perweektext	15	{de
 shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.deliveredtext	15	30 DELIVERED	30 DELIVERED
 shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.storedtext	15	{stored} stored	{stored} stored
 shopmodule.shopiconarea.viewport.content(1).shopicon1area125%.supplydemandbar	50	{TOOLTIP}	{TOOLTIP}
-buildingpanelmodule.warehouseincomingmodule.modulename	30	INCOMING PRODUCTS	INCOMING PRODUCTS
-warehouseincomingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	All auto
-warehouseincomingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	All Manual
+buildingpanelmodule.warehouseincomingmodule.modulename	30	INCOMING PRODUCTS	들어오는 물품
+warehouseincomingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	모두 자동
+warehouseincomingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	모두 수동
 warehouseincomingmodule.slotsamount.truckslabel	20	Incoming Slots	Incoming Slots
 warehouseincomingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfo	20	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>
 warehouseincomingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoemptyregion	20	{distance} tiles / <color=#C87C0D>{cost}$</color>	{distance} tiles / <color=#C87C0D>{cost}$</color>
@@ -3126,7 +3126,7 @@ buildingpanelmodule.regionoverviewmodule.modulename	30	REGION	REGION
 regiontabviewmodel.regionoverviewmodule.buylogisticalpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE LOGISTICAL PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO PURCHASE THE LOGISTICAL PERMIT FOR THIS REGION FOR {0}?
 regiontabviewmodel.regionoverviewmodule.buyfullpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE FULL BUILD PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO PURCHASE THE FULL BUILD PERMIT FOR THIS REGION FOR {0}?
 regiontabviewmodel.regionoverviewmodule.upgradepermittext	70	ARE YOU SURE YOU WANT TO UPGRADE TO A FULL BUILD PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO UPGRADE TO A FULL BUILD PERMIT FOR THIS REGION FOR {0}?
-regiontabviewmodel.regionoverviewmodule.nohqtext	70	PLACE YOUR HEADQUARTERS BEFORE PURCHASING PERMITS	PLACE YOUR HEADQUARTERS BEFORE PURCHASING PERMITS
+regiontabviewmodel.regionoverviewmodule.nohqtext	70	PLACE YOUR HEADQUARTERS BEFORE PURCHASING PERMITS	본사부터 먼저 건설해 주십시오
 regiontabviewmodel.regionoverviewmodule.permitownedtext	40	YOU ALREADY OWN THE FULL BUILD PERMIT FOR THIS REGION	YOU ALREADY OWN THE FULL BUILD PERMIT FOR THIS REGION
 regiontabviewmodel.regionoverviewmodule.notenoughinfluencetext	40	NOT ENOUGH INFLUENCE TO PURCHASE ANY PERMIT FOR THIS REGION	NOT ENOUGH INFLUENCE TO PURCHASE ANY PERMIT FOR THIS REGION
 regionoverviewmodule.regioninfoarealeft.regioninfo1area(3).titletext	20	SURFACE AREA	SURFACE AREA
@@ -3138,8 +3138,8 @@ regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton	30	PRICE <color
 regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton.setrecipebuttontext	15	BUY FULL BUILD PERMIT	BUY FULL BUILD PERMIT
 regionoverviewmodule.purchasepermitarea.upgradepermitbutton	30	PRICE <color=#C87C0DFF>{UPGRADE_COST}</color>\nFULL BUILD CAPABILITIES	PRICE <color=#C87C0DFF>{UPGRADE_COST}</color>\nFULL BUILD CAPABILITIES
 regionoverviewmodule.purchasepermitarea.upgradepermitbutton.setrecipebuttontext	15	UPGRADE TO FULL BUILD PERMIT	UPGRADE TO FULL BUILD PERMIT
-regionoverviewmodule.purchasepopup.yesbutton.yesbuttontext	4	YES	YES
-regionoverviewmodule.purchasepopup.nobutton.nobuttontext	4	NO	NO
+regionoverviewmodule.purchasepopup.yesbutton.yesbuttontext	4	YES	예
+regionoverviewmodule.purchasepopup.nobutton.nobuttontext	4	NO	아니오
 buildingpanelmodule.gathereroverviewmodule.modulename	30	OVERVIEW	OVERVIEW
 gathereroverviewmodule.gathererinfoarea.gathererinfo1area(5).titletext	20	HARVESTING TIME	HARVESTING TIME
 gathereroverviewmodule.gathererinfoarea.gathererinfo1area(5).descriptiontext	20	{PRODUCTION_TIME} DAYS	{PRODUCTION_TIME} DAYS
@@ -3182,12 +3182,12 @@ storagemodule.storagebararea(1).titletext	20	BUILDING CAPACITY	BUILDING CAPACITY
 storagemodule.storagebararea(1).amounttext	20	{USED}/{SLOTS}	{USED}/{SLOTS}
 storagemodule.capacitytext.amounttext	20	Slot Capacity: <color=#C87C0D>{capacity} units</color>	Slot Capacity: <color=#C87C0D>{capacity} units</color>
 storagemodule.iconarea.viewport.content.storageicon1area.dumpproductbutton.dumpproductbuttontext	4	DUMP	DUMP
-storagemodule.dumpallarea.dumpallbutton.dumpallbuttontext	20	DUMP ALL	DUMP ALL
+storagemodule.dumpallarea.dumpallbutton.dumpallbuttontext	20	DUMP ALL	모두 버리기
 storagemodule.dumpallareainactive.dumpallbutton	20	CANNOT BUILD MORE FIELDS	CANNOT BUILD MORE FIELDS
-storagemodule.dumpallareainactive.dumpallbutton.dumpallbuttontext	20	DUMP ALL	DUMP ALL
-buildingpanelmodule.analysismodule.modulename	30	ANALYSIS	ANALYSIS
-analysismodule.text(3)	15	LAST MONTH	LAST MONTH
-analysismodule.text(4)	15	LIFETIME	LIFETIME
+storagemodule.dumpallareainactive.dumpallbutton.dumpallbuttontext	20	DUMP ALL	모두 버리기
+buildingpanelmodule.analysismodule.modulename	30	ANALYSIS	분석 차트
+analysismodule.text(3)	15	LAST MONTH	이번 달
+analysismodule.text(4)	15	LIFETIME	모든 내역
 analysismodule.buybuildingarea.pricetext	20	BUILDING PRICE: <color=#C87C0D>{price}</color>	BUILDING PRICE: <color=#C87C0D>{price}</color>
 analysismodule.buybuildingarea.buybuildingbutton.buybuildingbuttontext	20	BUY BUILDING	BUY BUILDING
 analysismodule.buybuildingarea.cannotafforbuilding.buybuildingbuttontext	20	CANNOT AFFORD BUILDING	CANNOT AFFORD BUILDING
@@ -3216,9 +3216,9 @@ factoryoverviewmodule.factoryinfoarea.factoryinfo1area(4).titletext	20	CURRENT A
 factoryoverviewmodule.factoryinfoarea.factoryinfo1area(2).titletext	20	LAST MONTH'S PRODUCTION	LAST MONTH'S PRODUCTION
 factoryoverviewmodule.factoryinfoarea.factoryinfo1area(5).titletext	20	BUILDING UPKEEP	BUILDING UPKEEP
 factoryoverviewmodule.factoryinfoarea.factoryinfo1area(3).titletext	20	LIFETIME PRODUCTION	LIFETIME PRODUCTION
-buildingpanelmodule.warehouseoutgoingmodule.modulename	30	OUTGOING PRODUCTS	OUTGOING PRODUCTS
-warehouseoutgoingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	All auto
-warehouseoutgoingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	All Manual
+buildingpanelmodule.warehouseoutgoingmodule.modulename	30	OUTGOING PRODUCTS	나가는 품목
+warehouseoutgoingmodule.automanualbuttonarea.autobutton.buttontext	10	All auto	모두 자동
+warehouseoutgoingmodule.automanualbuttonarea.manualbutton.buttontext	10	All Manual	모두 수동
 warehouseoutgoingmodule.slotsamount.truckslabel	20	Outgoing Slots	Outgoing Slots
 warehouseoutgoingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfo	20	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>	{settlement} / {distance} tiles / <color=#C87C0D>{cost}$</color>
 warehouseoutgoingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoemptyregion	20	{distance} tiles / <color=#C87C0D>{cost}$</color>	{distance} tiles / <color=#C87C0D>{cost}$</color>
@@ -3259,7 +3259,7 @@ helptopic.farms.title	20	Farms	Farms
 helptopic.farms.body	0	Farms and their Fields are buildings that will generate various types of food and products based on the type of Farm you place.\n\n<b>Placing a Farm & Fields</b>\n<b>1.</b> Place a Farm by choosing one in the Construction Menu under the Farming Tab\n{image, tut-farm-01, 120}\n<b>2.</b> Once you select a Farm, place it on the map\n<b>3.</b> Once built, the Farm building panel should automatically open. If not, Click on the Farm to open its panel\n<b>4.</b> Farms need Fields to produce resources. By clicking on the Add Field button located in the bottom of the panel, you get a Field. You will need to place the Field within the radius of the Farm\n{image, tut-farm-02, 120}\n<b>5.</b> Once the Field is placed, you will need to direct some resources to start generating Products. Usually water and sometimes wheat\n<b>6.</b> The Farm is now fully operational and will start to generate Products\n\n<b>Choosing and producing a Recipe</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Production Tab\n{image, tut-farm-04, 120}\n<b>2.</b> Click on the Set button next to the Product you wish to create\n{image, tut-farm-05, 120}\n<b>3.</b> You must identify which ingredients are required to generate the Product. Start with a small Recipe til you get the hang out it. Send Water from a Water Siphon to a Wheat Farm via the Water Siphon Destination tab to create some Wheat!\n<b>4.</b> There will be a bar to show the Products progress. If it doesn’t move then something is wrong. E.g. not enough ingredients or a lack of storage space in the building\n{image, tut-farm-03, 120}\n\n<b>Transporting Products (Manual Mode)</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Destination Tab\n{image, image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a 0 appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations	Farms and their Fields are buildings that will generate various types of food and products based on the type of Farm you place.\n\n<b>Placing a Farm & Fields</b>\n<b>1.</b> Place a Farm by choosing one in the Construction Menu under the Farming Tab\n{image, tut-farm-01, 120}\n<b>2.</b> Once you select a Farm, place it on the map\n<b>3.</b> Once built, the Farm building panel should automatically open. If not, Click on the Farm to open its panel\n<b>4.</b> Farms need Fields to produce resources. By clicking on the Add Field button located in the bottom of the panel, you get a Field. You will need to place the Field within the radius of the Farm\n{image, tut-farm-02, 120}\n<b>5.</b> Once the Field is placed, you will need to direct some resources to start generating Products. Usually water and sometimes wheat\n<b>6.</b> The Farm is now fully operational and will start to generate Products\n\n<b>Choosing and producing a Recipe</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Production Tab\n{image, tut-farm-04, 120}\n<b>2.</b> Click on the Set button next to the Product you wish to create\n{image, tut-farm-05, 120}\n<b>3.</b> You must identify which ingredients are required to generate the Product. Start with a small Recipe til you get the hang out it. Send Water from a Water Siphon to a Wheat Farm via the Water Siphon Destination tab to create some Wheat!\n<b>4.</b> There will be a bar to show the Products progress. If it doesn’t move then something is wrong. E.g. not enough ingredients or a lack of storage space in the building\n{image, tut-farm-03, 120}\n\n<b>Transporting Products (Manual Mode)</b>\n<b>1.</b> Open the Farm’s Panel and Click on the Destination Tab\n{image, image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a 0 appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations
 helptopic.gatherers.title	20	Gatherers	Gatherers
 helptopic.gatherers.body	0	Gatherers and its Harvesters are buildings that will gather resources for making Products to sell to Settlements or the State.\n\n<b>Placing a Gatherer & Harvesting</b>\n<b>1.</b> Place a Gatherer by choosing one in the Construction Menu under the Gatherers Tab\n{image, tut-gath-01, 120}\n<b>2.</b> Once you select a Gatherer, place it on the map close to the resource associated with it\n<b>3.</b> Once built, the Gatherer building panel should automatically open. If not, Click on the Gatherer to open its panel\n<b>4.</b> Gatherers need Harvesters to start gathering resources. By clicking on the Add Harvester button located at the bottom of the panel, you get a Harvester. You will need to place the Harvester close to the Resource before it will function\n<b>5.</b> Once the Harvester is placed, it needs to be linked to the Gatherer by a Road. Build one that goes from the Harvester to the Gatherer\n<b>6.</b> The Gatherer is now fully operational and will start gathering resources\n\n<b>Transporting the Resource (Manual Mode)</b>\n<b>1.</b> Open the Gatherers Panel and Click on the Destination Tab\n{image,  image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a “0” appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations	Gatherers and its Harvesters are buildings that will gather resources for making Products to sell to Settlements or the State.\n\n<b>Placing a Gatherer & Harvesting</b>\n<b>1.</b> Place a Gatherer by choosing one in the Construction Menu under the Gatherers Tab\n{image, tut-gath-01, 120}\n<b>2.</b> Once you select a Gatherer, place it on the map close to the resource associated with it\n<b>3.</b> Once built, the Gatherer building panel should automatically open. If not, Click on the Gatherer to open its panel\n<b>4.</b> Gatherers need Harvesters to start gathering resources. By clicking on the Add Harvester button located at the bottom of the panel, you get a Harvester. You will need to place the Harvester close to the Resource before it will function\n<b>5.</b> Once the Harvester is placed, it needs to be linked to the Gatherer by a Road. Build one that goes from the Harvester to the Gatherer\n<b>6.</b> The Gatherer is now fully operational and will start gathering resources\n\n<b>Transporting the Resource (Manual Mode)</b>\n<b>1.</b> Open the Gatherers Panel and Click on the Destination Tab\n{image,  image-tut-dest-03, 120}\n<b>2.</b> Click on one of the Destination slots\n{image, image-tut-dest-04, 120}\n<b>3.</b> Find a Destination from the list and click on it. Only valid destinations are shown, so if there is none, a “0” appears next to the category\n<b>4.</b> Click on additional Destination slots to transport more resources or transport resources to multiple destinations
-helptopic.globalmarket.title	20	Global Market	Global Market
+helptopic.globalmarket.title	20	Global Market	글로벌 마켓
 helptopic.globalmarket.body	0	The Global Market is an ever-shifting machine that only a master of industry can crack. As you are producing Products, knowing when to sell will be key to maximizing your profits. Selling too many items will cause the price of Products to drop below acceptable levels while sending too few Products will raise the price of a Product up, but low sales mean not enough money to pay your bills. Balancing how much of a Product you send versus the price of said Product will be imperative.\n\n<b>Supply and Demand</b>\nEvery Settlement sets the Demand for each Product in its Shops. Demand proportional to the number of people within a Settlement. The higher the population they more Product they demand.\n\n<b>Pricing</b>\nThe baseline price for a Product is affected by its Supply. If a Product's Supply in all Shops on the map is larger than the Product's Demand, then its price will decrease. If the Product's Demand is higher than the Supply, then its price will increase.	The Global Market is an ever-shifting machine that only a master of industry can crack. As you are producing Products, knowing when to sell will be key to maximizing your profits. Selling too many items will cause the price of Products to drop below acceptable levels while sending too few Products will raise the price of a Product up, but low sales mean not enough money to pay your bills. Balancing how much of a Product you send versus the price of said Product will be imperative.\n\n<b>Supply and Demand</b>\nEvery Settlement sets the Demand for each Product in its Shops. Demand proportional to the number of people within a Settlement. The higher the population they more Product they demand.\n\n<b>Pricing</b>\nThe baseline price for a Product is affected by its Supply. If a Product's Supply in all Shops on the map is larger than the Product's Demand, then its price will decrease. If the Product's Demand is higher than the Supply, then its price will increase.
 helptopic.hqbuilding.title	20	Hq Building	Hq Building
 helptopic.hqbuilding.body	0	The HQ building represents the center of your industrial empire. It handles your Tech Tree as well as your loans. When placed, the HQ building awards that Region's Full Build Permit. Though it cannot be moved from once placed, It can be modified to better reflect your playstyle after you researched deep enough into a Tech Tree.\n\n<b>Placing a HQ Building</b>\n<b>1.</b> Place a HQ Building by choosing ot in the Construction Menu at the HQ Tab\n{image, tut-hq-01, 120}\n<b>2.</b> Once built the HQ Building’s panel should automatically open. If not, Click on the HQ Building to open its panel	The HQ building represents the center of your industrial empire. It handles your Tech Tree as well as your loans. When placed, the HQ building awards that Region's Full Build Permit. Though it cannot be moved from once placed, It can be modified to better reflect your playstyle after you researched deep enough into a Tech Tree.\n\n<b>Placing a HQ Building</b>\n<b>1.</b> Place a HQ Building by choosing ot in the Construction Menu at the HQ Tab\n{image, tut-hq-01, 120}\n<b>2.</b> Once built the HQ Building’s panel should automatically open. If not, Click on the HQ Building to open its panel
@@ -3388,22 +3388,22 @@ totalsalesentryinfo.demand.entryname	20	Demand	Demand
 totalsalesentryinfo.stored.entryname	20	Stored	Stored
 totalsalesentryinfo.supplied.entryname	20	Supplied	Supplied
 totalsalesentryinfo.totalsales.entryname	20	Total Sales	Total Sales
-constructionbarcommand.administrativebuildingsconbarcommand.commandname	0	Administrative Buildings	Administrative Buildings
-constructionbarcommand.bridgesconbarcommand.commandname	0	Bridges	Bridges
-constructionbarcommand.demolishconbarcommand.commandname	0	Demolish	Demolish
-constructionbarcommand.eyedropperconbarcommand.commandname	0	Duplicate	Duplicate
-constructionbarcommand.factoriesconbarcommand.commandname	0	Factories	Factories
-constructionbarcommand.farmsconbarcommand.commandname	0	Farms	Farms
-constructionbarcommand.gatherersconbarcommand.commandname	0	Gatherers	Gatherers
-constructionbarcommand.logisticsconbarcommand.commandname	0	Logistics	Logistics
-constructionbarcommand.networksconbarcommand.commandname	0	Networks	Networks
-constructionbarcommand.prototypefacilitiesconbarcommand.commandname	0	Prototype Facilities	Prototype Facilities
-constructionbarcommand.terraformingconbarcommand.commandname	0	Terraforming	Terraforming
-constructionbarcommand.tunnelsconbarcommand.commandname	0	Tunnels	Tunnels
-constructionbarcommand.undoconbarcommand.commandname	0	Undo	Undo
-terraformingaction.flatten.name	0	Flatten	Flatten
-terraformingaction.planttrees.name	0	Plant Trees	Plant Trees
-terraformingaction.raiselower.name	0	Raise/Lower	Raise/Lower
+constructionbarcommand.administrativebuildingsconbarcommand.commandname	0	Administrative Buildings	본부 건물
+constructionbarcommand.bridgesconbarcommand.commandname	0	Bridges	다리건설
+constructionbarcommand.demolishconbarcommand.commandname	0	Demolish	철거
+constructionbarcommand.eyedropperconbarcommand.commandname	0	Duplicate	복재
+constructionbarcommand.factoriesconbarcommand.commandname	0	Factories	공장건물
+constructionbarcommand.farmsconbarcommand.commandname	0	Farms	농장건물
+constructionbarcommand.gatherersconbarcommand.commandname	0	Gatherers	자원건물
+constructionbarcommand.logisticsconbarcommand.commandname	0	Logistics	수송건물
+constructionbarcommand.networksconbarcommand.commandname	0	Networks	도로건설
+constructionbarcommand.prototypefacilitiesconbarcommand.commandname	0	Prototype Facilities	하이테크 공장 건물
+constructionbarcommand.terraformingconbarcommand.commandname	0	Terraforming	지형툴
+constructionbarcommand.tunnelsconbarcommand.commandname	0	Tunnels	터널건설
+constructionbarcommand.undoconbarcommand.commandname	0	Undo	행동 되돌리기
+terraformingaction.flatten.name	0	Flatten	땅 평지화
+terraformingaction.planttrees.name	0	Plant Trees	나무 심기
+terraformingaction.raiselower.name	0	Raise/Lower	땅 높이 조절
 techtree.efficiency.techtreename	20	Efficiency	Efficiency
 techtreegenericunlock.factoryefficiencyl1.unlockname	40	Factories Efficiency	Factories Efficiency
 techtreegenericunlock.factoryefficiencyl1.description	55	Allows to set Factories Efficiency to 25%.	Allows to set Factories Efficiency to 25%.
@@ -3459,15 +3459,15 @@ localizedtexttable.localizedtexttable.startingup	30	Starting Up	Starting Up
 localizedtexttable.localizedtexttable.missingpermit	30	Missing permit!	Missing permit!
 localizedtexttable.localizedtexttable.cannotafford	30	Cannot afford!	Cannot afford!
 localizedtexttable.localizedtexttable.placingpath	30	{0} Tiles: {1}	{0} Tiles: {1}
-localizedtexttable.localizedtexttable.invalidplacement	30	Can't place here!\n<color=#AA7326FF>{0}</color>	Can't place here!\n<color=#AA7326FF>{0}</color>
+localizedtexttable.localizedtexttable.invalidplacement	30	Can't place here!\n<color=#AA7326FF>{0}</color>	이곳에 지을 수 없습니다!\n<color=#AA7326FF>{0}</color>
 localizedtexttable.localizedtexttable.cannotbuildhereerror	30	Cannot build here!	Cannot build here!
 localizedtexttable.localizedtexttable.cannotconnecterror	30	Cannot connect! {0} -> {1}	Cannot connect! {0} -> {1}
 localizedtexttable.localizedtexttable.emptypatherror	30	Path is empty!	Path is empty!
 localizedtexttable.localizedtexttable.logisticalpermitrequirederror	30	Logistical Permit required!	Logistical Permit required!
 localizedtexttable.localizedtexttable.notenoughinfluenceerror	30	Not enough influence on {0}!	Not enough influence on {0}!
 localizedtexttable.localizedtexttable.cannotterraform	30	Cannot terraform!	Cannot terraform!
-localizedtexttable.localizedtexttable.terraformingblocked	30	Tiles are blocked! Cannot terraform!	Tiles are blocked! Cannot terraform!
-buildingefficiency.titletext	30	Building Efficiency	Building Efficiency
+localizedtexttable.localizedtexttable.terraformingblocked	30	Tiles are blocked! Cannot terraform!	중복된 블록! 지형툴을 사용 불가능!
+buildingefficiency.titletext	30	Building Efficiency	건물 효율성
 buildingefficiency.buttonarea.value.background	0	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>{upkeep} ({upkeepModifier}%)</color>\nProduction Time <color=#C87C0D>{productionTime} Days ({productionTimeModifier}%)</color>	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>{upkeep} ({upkeepModifier}%)</color>\nProduction Time <color=#C87C0D>{productionTime} Days ({productionTimeModifier}%)</color>
 buildingefficiency.buttonarea.value.background1	0	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>No Upkeep</color>\nProduction Time <color=#C87C0D>No Production</color>	<color=#C87C0D>{efficiencyValue}%</color>\nBuilding Upkeep <color=#C87C0D>No Upkeep</color>\nProduction Time <color=#C87C0D>No Production</color>
 tutorialpart1.step0.description	180	Welcome to Rise of Industry! A game about testing your entrepreneurial skills. Here are some instructions to give you a head start!	Welcome to Rise of Industry! A game about testing your entrepreneurial skills. Here are some instructions to give you a head start!
@@ -3663,10 +3663,10 @@ tutorialpart3.step9.description	180	Very soon, this system will be changed to be
 tutorialpart3.step10.description	180	A new Influence System is also coming. Influence can be earned the same way as the reputation, but will act more like a currency that can be spent to gain some new abilities.	A new Influence System is also coming. Influence can be earned the same way as the reputation, but will act more like a currency that can be spent to gain some new abilities.
 tutorialpart3.step11.description	180	These abilities can increase prices, reduce costs, change Products in a Shop, and even change the Settlement Type and behavior with enough Influence Points.	These abilities can increase prices, reduce costs, change Products in a Shop, and even change the Settlement Type and behavior with enough Influence Points.
 tutorialpart3.step12.description	180	We're also going to add Steam Achievements and Dynamic Events, which are events that could hinder the Player unless they complete an objective resulting them in being rewarded instead.	We're also going to add Steam Achievements and Dynamic Events, which are events that could hinder the Player unless they complete an objective resulting them in being rewarded instead.
-tutorialpart3.step13.description	180	Let’s have a little extra fun! Press the F10 key to unlock the camera into Free Cam Mode to get a close-up view of the world.	Let’s have a little extra fun! Press the F10 key to unlock the camera into Free Cam Mode to get a close-up view of the world.
-tutorialpart3.step13.objective0.description	70	Press F10 to enter Free Cam Mode	Press F10 to enter Free Cam Mode
-tutorialpart3.step13.objective1.description	70	Press W, A, S, D to move around	Press W, A, S, D to move around
-tutorialpart3.step13.objective2.description	70	Move Mouse to change view direction	Move Mouse to change view direction
-tutorialpart3.step13.objective3.description	70	Use F and C to change elevation	Use F and C to change elevation
-tutorialpart3.step13.objective4.description	70	Press F10 to exit Free Cam Mode	Press F10 to exit Free Cam Mode
-tutorialpart3.step14.description	180	Now go build your empire, and don’t forget to say hi in our Discord and Forums!	Now go build your empire, and don’t forget to say hi in our Discord and Forums!
+tutorialpart3.step13.description	180	Let’s have a little extra fun! Press the F10 key to unlock the camera into Free Cam Mode to get a close-up view of the world.	좀 더 재미난 기능을 즐겨봅시다! F10키를 눌러 자유 카메라 모드를 통해 사물을 더 자세히 볼 수 있습니다.
+tutorialpart3.step13.objective0.description	70	Press F10 to enter Free Cam Mode	F10을 눌러 자유 카메라 모드로 변경할 수 있습니다.
+tutorialpart3.step13.objective1.description	70	Press W, A, S, D to move around	W, A, S, D 키를 활용해 주위를 둘러볼 수 있습니다.
+tutorialpart3.step13.objective2.description	70	Move Mouse to change view direction	마우스를 움직여 보는 시야각을 변경할 수 있습니다.
+tutorialpart3.step13.objective3.description	70	Use F and C to change elevation	F, C 키를 활용해 위아래로 움직일 수 있습니다.
+tutorialpart3.step13.objective4.description	70	Press F10 to exit Free Cam Mode	F10키를 눌러 자유 카메라 모드를 종료하십시오.
+tutorialpart3.step14.description	180	Now go build your empire, and don’t forget to say hi in our Discord and Forums!	이제 여러분만의 제국을 건설하세요. 아 참, 디스코드와 포럼에 인사 남기는걸 잊지 마세요!

@@ -861,7 +861,7 @@ productdefinition.cannedfish.productname	15	Canned Fish	물고기 통조림
 productdefinition.cannedmutton.productname	15	Canned Mutton	양고기 통조림
 productdefinition.cans.productname	15	Cans	통조림 캔
 productdefinition.rawrubber.productname	15	Raw Rubber	생고무
-productdefinition.car.productname	15	Car Prototype	자동차 뼈대@(의역)
+productdefinition.car.productname	15	Car Prototype	자동차
 productdefinition.cardboard.productname	15	Cardboard	Cardboard
 productdefinition.cardboardpanels.productname	15	Cardboard Panels	Cardboard Panels
 productdefinition.carradiator.productname	15	Car Radiator	Car Radiator
@@ -921,7 +921,7 @@ productdefinition.paint.productname	15	Paint	Paint
 productdefinition.parchment.productname	15	Parchment	양피지
 productdefinition.pizza.productname	15	Pizza	피자
 productdefinition.plastic.productname	15	Plastic	플라스틱
-productdefinition.plasticfurniture.productname	15	Plastic Furniture	플라스틱 가구@(?)
+productdefinition.plasticfurniture.productname	15	Plastic Furniture	플라스틱 의자
 productdefinition.potato.productname	15	Potato	Potato
 productdefinition.printedpaper.productname	15	Printed Paper	Printed Paper
 productdefinition.radiator.productname	15	Radiator	Radiator
@@ -978,7 +978,7 @@ recipe.cans.title	15	Cans	통조림 캔
 recipe.rawrubber.title	15	Raw Rubber	생고무
 recipe.cardboard.title	15	Cardboard	Cardboard
 recipe.cardboardpanels.title	15	Cardboard Panels	Cardboard Panels
-recipe.carprototype.title	15	Car Prototype	자동차 뼈대@(의역)
+recipe.carprototype.title	15	Car Prototype	자동차
 recipe.carradiator.title	15	Car Radiator	Car Radiator
 recipe.carseat.title	15	Car Seat	Car Seat
 recipe.ceramics.title	15	Ceramics	Ceramics
@@ -1035,7 +1035,7 @@ recipe.paints.title	15	Paints	페인트
 recipe.parchment.title	15	Parchment	양피지
 recipe.pizza.title	15	Pizza	피자
 recipe.plastic.title	15	Plastic	플라스틱
-recipe.plasticfurniture.title	15	Plastic Furniture	플라스틱 가구@(?)
+recipe.plasticfurniture.title	15	Plastic Furniture	플라스틱 의자
 recipe.potatoes.title	15	Potatoes	감자
 recipe.printedpaper.title	15	Printed Paper	Printed Paper
 recipe.radiator.title	15	Radiator	Radiator
@@ -1168,7 +1168,7 @@ techtreerecipeunlock.cardboard.unlockname	40	Cardboard	Cardboard
 techtreerecipeunlock.cardboard.description	55	Able to produce Cardboard at Papermill.	Able to produce Cardboard at Papermill.
 techtreerecipeunlock.cardboardpanels.unlockname	40	Cardboard Panels	Cardboard Panels
 techtreerecipeunlock.cardboardpanels.description	55	Able to produce Cardboard Panels at Papermill.	Able to produce Cardboard Panels at Papermill.
-techtreerecipeunlock.carprototype.unlockname	40	Car Prototype	자동차 뼈대@(의역)
+techtreerecipeunlock.carprototype.unlockname	40	Car Prototype	자동차
 techtreerecipeunlock.carprototype.description	55	Able to produce Car Prototype at Electro-Mechanical Factory.	Able to produce Car Prototype at Electro-Mechanical Factory.
 techtreerecipeunlock.ceramics.unlockname	40	Ceramics	Ceramics
 techtreerecipeunlock.ceramics.description	55	Able to produce Ceramics at Glassworks & Smelter.	Able to produce Ceramics at Glassworks & Smelter.
@@ -1276,7 +1276,7 @@ techtreerecipeunlock.pizza.unlockname	40	Pizza	피자
 techtreerecipeunlock.pizza.description	55	Able to produce Pizza at Food Factory.	Able to produce Pizza at Food Factory.
 techtreerecipeunlock.plastic.unlockname	40	Plastic	플라스틱
 techtreerecipeunlock.plastic.description	55	Able to produce Plastic at Petrochemical Plant.	Able to produce Plastic at Petrochemical Plant.
-techtreerecipeunlock.plasticfurniture.unlockname	40	Plastic Furniture	플라스틱 가구@(?)
+techtreerecipeunlock.plasticfurniture.unlockname	40	Plastic Furniture	플라스틱 의자
 techtreerecipeunlock.plasticfurniture.description	55	Able to produce Plastic Furniture at Carpentry.	Able to produce Plastic Furniture at Carpentry.
 techtreerecipeunlock.potatoes.unlockname	40	Potato	Potato
 techtreerecipeunlock.potatoes.description	55	Able to produce Potato at Crop Farm.	Able to produce Potato at Crop Farm.
@@ -1462,7 +1462,7 @@ techtreecategory.lightindustry.categoryname	15	Light Industry	경공업
 techtreecategory.rural.categoryname	15	Rural	농업
 techtree.advanceddistribution.techtreename	20	Adv. Distribution	Adv. Distribution
 techtree.basicdistribution.techtreename	20	Basic Distribution	Basic Distribution
-techtree.carprototype.techtreename	20	Car Prototype	자동차 뼈대@(의역)
+techtree.carprototype.techtreename	20	Car Prototype	자동차
 techtree.carpentry.techtreename	20	Carpentry	Carpentry
 techtree.drinks.techtreename	20	Drinks	Drinks
 techtree.fields&harvesters.techtreename	20	Fields & Harvesters	Fields & Harvesters

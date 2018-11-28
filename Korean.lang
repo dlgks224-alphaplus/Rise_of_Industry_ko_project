@@ -517,8 +517,8 @@ ui.fullscreenpanels.techtreeui.infopanel.infoarea.currentqueuearea.queueinfoarea
 ui.fullscreenpanels.techtreeui.infopanel.infoarea.currentqueuearea.queueinfoareaactive.textarea.timeplural	20	TIME REMAINING: <color=#C87C0D>{time} DAYS</color>	TIME REMAINING: <color=#C87C0D>{time} DAYS</color>
 ui.fullscreenpanels.techtreeui.infopanel.infoarea.currentqueuearea.queueinfoareaactive.textarea.cost	20	Remaining R&D cost: <color=#C87C0D>{cost}</color>	Remaining R&D cost: <color=#C87C0D>{cost}</color>
 ui.fullscreenpanels.techtreeui.infopanel.infoarea.currentqueuearea.queueinfoareaactive.noresearcharea.noresearchtext	10	Research Disabled	Research Disabled
-ui.fullscreenpanels.techtreeui.infopanel.infoarea.currentqueuearea.queueinfoareainactive.textarea.descriptiontext	20	SELECT AN UNLOCK TO QUEUE	SELECT AN UNLOCK TO QUEUE
-ui.fullscreenpanels.techtreeui.infopanel.infoarea.queuearea.title(1)	20	UNLOCK QUEUE	UNLOCK QUEUE
+ui.fullscreenpanels.techtreeui.infopanel.infoarea.currentqueuearea.queueinfoareainactive.textarea.descriptiontext	20	SELECT AN UNLOCK TO QUEUE	잠금 해제를 클릭해 대기열 추가
+ui.fullscreenpanels.techtreeui.infopanel.infoarea.queuearea.title(1)	20	UNLOCK QUEUE	잠금 해제 대기열
 ui.fullscreenpanels.techtreeui.techtooltip.iconarea.lockedicontext.lockedtext	6	LOCKED	LOCKED
 ui.fullscreenpanels.techtreeui.techtooltip.iconarea.unlockedicontext.lockedtext	6	UNLOCKED	UNLOCKED
 ui.fullscreenpanels.techtreeui.techtooltip.iconarea.inqueuetext.text	6	In Queue	In Queue
@@ -759,8 +759,8 @@ building.ruralschool.buildingname	20	Rural School	Rural School
 building.firestation.buildingname	20	Fire Station	Fire Station
 loaninfo.bankruptcyloan.title	15	Bankruptcy Loan	Bankruptcy Loan
 loaninfo.settlementloan.title	15	Settlement Loan ({0})	Settlement Loan ({0})
-loaninfo.starterloannormal.title	15	Starter Loan	Starter Loan
-loaninfo.starterloanveteran.title	15	Starter Loan	Starter Loan
+loaninfo.starterloannormal.title	15	Starter Loan	초보자 대출
+loaninfo.starterloanveteran.title	15	Starter Loan	초보자 대출
 moneybillcategory.buildingbuyout.categoryname	20	Building Buyout	Building Buyout
 moneybillcategory.buildingconstruction.categoryname	20	Building construction	Building construction
 moneybillcategory.buildingrefund.categoryname	20	Building refund	Building refund
@@ -861,7 +861,7 @@ productdefinition.cannedfish.productname	15	Canned Fish	물고기 통조림
 productdefinition.cannedmutton.productname	15	Canned Mutton	양고기 통조림
 productdefinition.cans.productname	15	Cans	통조림 캔
 productdefinition.rawrubber.productname	15	Raw Rubber	생고무
-productdefinition.car.productname	15	Car Prototype	자동차
+productdefinition.car.productname	15	Car Prototype	자동차 뼈대@(의역)
 productdefinition.cardboard.productname	15	Cardboard	Cardboard
 productdefinition.cardboardpanels.productname	15	Cardboard Panels	Cardboard Panels
 productdefinition.carradiator.productname	15	Car Radiator	Car Radiator
@@ -921,7 +921,7 @@ productdefinition.paint.productname	15	Paint	Paint
 productdefinition.parchment.productname	15	Parchment	양피지
 productdefinition.pizza.productname	15	Pizza	피자
 productdefinition.plastic.productname	15	Plastic	플라스틱
-productdefinition.plasticfurniture.productname	15	Plastic Furniture	플라스틱 의자
+productdefinition.plasticfurniture.productname	15	Plastic Furniture	플라스틱 가구@(?)
 productdefinition.potato.productname	15	Potato	Potato
 productdefinition.printedpaper.productname	15	Printed Paper	Printed Paper
 productdefinition.radiator.productname	15	Radiator	Radiator
@@ -978,7 +978,7 @@ recipe.cans.title	15	Cans	통조림 캔
 recipe.rawrubber.title	15	Raw Rubber	생고무
 recipe.cardboard.title	15	Cardboard	Cardboard
 recipe.cardboardpanels.title	15	Cardboard Panels	Cardboard Panels
-recipe.carprototype.title	15	Car Prototype	자동차
+recipe.carprototype.title	15	Car Prototype	자동차 뼈대@(의역)
 recipe.carradiator.title	15	Car Radiator	Car Radiator
 recipe.carseat.title	15	Car Seat	Car Seat
 recipe.ceramics.title	15	Ceramics	Ceramics
@@ -1035,7 +1035,7 @@ recipe.paints.title	15	Paints	페인트
 recipe.parchment.title	15	Parchment	양피지
 recipe.pizza.title	15	Pizza	피자
 recipe.plastic.title	15	Plastic	플라스틱
-recipe.plasticfurniture.title	15	Plastic Furniture	플라스틱 의자
+recipe.plasticfurniture.title	15	Plastic Furniture	플라스틱 가구@(?)
 recipe.potatoes.title	15	Potatoes	감자
 recipe.printedpaper.title	15	Printed Paper	Printed Paper
 recipe.radiator.title	15	Radiator	Radiator
@@ -1168,7 +1168,7 @@ techtreerecipeunlock.cardboard.unlockname	40	Cardboard	Cardboard
 techtreerecipeunlock.cardboard.description	55	Able to produce Cardboard at Papermill.	Able to produce Cardboard at Papermill.
 techtreerecipeunlock.cardboardpanels.unlockname	40	Cardboard Panels	Cardboard Panels
 techtreerecipeunlock.cardboardpanels.description	55	Able to produce Cardboard Panels at Papermill.	Able to produce Cardboard Panels at Papermill.
-techtreerecipeunlock.carprototype.unlockname	40	Car Prototype	자동차
+techtreerecipeunlock.carprototype.unlockname	40	Car Prototype	자동차 뼈대@(의역)
 techtreerecipeunlock.carprototype.description	55	Able to produce Car Prototype at Electro-Mechanical Factory.	Able to produce Car Prototype at Electro-Mechanical Factory.
 techtreerecipeunlock.ceramics.unlockname	40	Ceramics	Ceramics
 techtreerecipeunlock.ceramics.description	55	Able to produce Ceramics at Glassworks & Smelter.	Able to produce Ceramics at Glassworks & Smelter.
@@ -1276,7 +1276,7 @@ techtreerecipeunlock.pizza.unlockname	40	Pizza	피자
 techtreerecipeunlock.pizza.description	55	Able to produce Pizza at Food Factory.	Able to produce Pizza at Food Factory.
 techtreerecipeunlock.plastic.unlockname	40	Plastic	플라스틱
 techtreerecipeunlock.plastic.description	55	Able to produce Plastic at Petrochemical Plant.	Able to produce Plastic at Petrochemical Plant.
-techtreerecipeunlock.plasticfurniture.unlockname	40	Plastic Furniture	플라스틱 의자
+techtreerecipeunlock.plasticfurniture.unlockname	40	Plastic Furniture	플라스틱 가구@(?)
 techtreerecipeunlock.plasticfurniture.description	55	Able to produce Plastic Furniture at Carpentry.	Able to produce Plastic Furniture at Carpentry.
 techtreerecipeunlock.potatoes.unlockname	40	Potato	Potato
 techtreerecipeunlock.potatoes.description	55	Able to produce Potato at Crop Farm.	Able to produce Potato at Crop Farm.
@@ -1324,10 +1324,10 @@ techtreerecipeunlock.vegetables.unlockname	40	Vegetable Field	Vegetable Field
 techtreerecipeunlock.vegetables.description	55	Able to produce Vegetables at Crop Farm.	Able to produce Vegetables at Crop Farm.
 techtreerecipeunlock.vodka.unlockname	40	Vodka	보드카
 techtreerecipeunlock.vodka.description	55	Able to produce Vodka at Brewery & Distillery.	Able to produce Vodka at Brewery & Distillery.
-techtreerecipeunlock.water.unlockname	40	Water Pump	Water Pump
-techtreerecipeunlock.water.description	55	Able to produce Water at Water Siphon.	Able to produce Water at Water Siphon.
-techtreerecipeunlock.wheat.unlockname	40	Wheat Field	Wheat Field
-techtreerecipeunlock.wheat.description	55	Able to produce Wheat at Crop Farm.	Able to produce Wheat at Crop Farm.
+techtreerecipeunlock.water.unlockname	40	Water Pump	물 펌프
+techtreerecipeunlock.water.description	55	Able to produce Water at Water Siphon.	물 사이판에서 물을 생산할 수 있게 만듭니다
+techtreerecipeunlock.wheat.unlockname	40	Wheat Field	밀 필드
+techtreerecipeunlock.wheat.description	55	Able to produce Wheat at Crop Farm.	작물 농장에서 밀을 생산할 수 있게 만듭니다
 techtreerecipeunlock.windows.unlockname	40	Windows	창문
 techtreerecipeunlock.windows.description	55	Able to produce Windows at Glassworks & Smelter.	Able to produce Windows at Glassworks & Smelter.
 techtreerecipeunlock.wine.unlockname	40	Wine	와인
@@ -1462,7 +1462,7 @@ techtreecategory.lightindustry.categoryname	15	Light Industry	경공업
 techtreecategory.rural.categoryname	15	Rural	농업
 techtree.advanceddistribution.techtreename	20	Adv. Distribution	Adv. Distribution
 techtree.basicdistribution.techtreename	20	Basic Distribution	Basic Distribution
-techtree.carprototype.techtreename	20	Car Prototype	자동차
+techtree.carprototype.techtreename	20	Car Prototype	자동차 뼈대@(의역)
 techtree.carpentry.techtreename	20	Carpentry	Carpentry
 techtree.drinks.techtreename	20	Drinks	Drinks
 techtree.fields&harvesters.techtreename	20	Fields & Harvesters	Fields & Harvesters
@@ -1510,7 +1510,8 @@ hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(3).descriptiontext	0	
 hqoverviewmodule.overviewtabcontent.infoarea.towninfo1area(4).titletext	20	World Seed	월드 시드
 hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.titletext	20	CHOOSE A HEADQUARTERS MODEL	본부 건물 모델 선택
 hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.normal.disabled	50	${cost} to change to this HQ	이 본부로 변경하기 위해 ${cost}가 필요합니다
-hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.previewlocked.disabled	50	You need {unlocks} more unlocks in the {spec} specialisation to unlock this HQ	You need {unlocks} more unlocks in the {spec} specialisation to unlock this HQ
+hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.normal.disabled	50	${cost} to change to this HQ	이 본부로 변경하기 위해 ${cost}가 필요합니다
+hqoverviewmodule.overviewtabcontent.infoareabottom.modelcontent.iconarea.entry.previewlocked.disabled	50	You need {unlocks} more unlocks in the {spec} specialisation to unlock this HQ	이 본부를 잠금 해제하기 위해 {unlocks}개의 {spec} 특화 시설이 필요합니다
 buildingpanelmodule.settlementoverviewmodule.modulename	30	OVERVIEW	개요
 settlementuiviewmodel.settlementoverviewmodule.stagnatingtext	20	Stagnating	침체중
 settlementuiviewmodel.settlementoverviewmodule.growingtext	20	Growing	성장중
@@ -1547,11 +1548,11 @@ destinationsmodule.mainarea.destinationsarea.manualarea.slotsamountarea.truckamo
 destinationsmodule.mainarea.destinationsarea.manualarea.slotsamountarea.truckslabel	18	Destination slots	Destination slots
 destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoarea.validarea.destinationinfo	20	{settlement} / {distance} tiles / <color=#C87C0D>{cost}</color>	{settlement} / {distance} tiles / <color=#C87C0D>{cost}</color>
 destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoarea.validarea.destinationinfoemptyregion	20	{distance} tiles / <color=#C87C0D>{cost}</color>	{distance} tiles / <color=#C87C0D>{cost}</color>
-destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoarea.error	20	CAN'T REACH DESTINATION OR NOTHING TO DELIVER	CAN'T REACH DESTINATION OR NOTHING TO DELIVER
-destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationlocationwrapper.destinationlocationunsetarea.destinationlocationunset	20	CHOOSE DESTINATION	CHOOSE DESTINATION
-destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationlocationwrapper.destinationlocationunsetarea.destinationlocationunsetdisabled	20	CHOOSE DESTINATION	CHOOSE DESTINATION
+destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationinfoarea.error	20	CAN'T REACH DESTINATION OR NOTHING TO DELIVER	목적지에 닿을 수 없거나 배달할 것이 없음
+destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationlocationwrapper.destinationlocationunsetarea.destinationlocationunset	20	CHOOSE DESTINATION	목적지 선택하기
+destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.destinationlocationwrapper.destinationlocationunsetarea.destinationlocationunsetdisabled	20	CHOOSE DESTINATION	목적지 선택하기
 destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.dispatchlevelarea.amountarea.amountinput.textarea	20	999​	999​
-destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.dispatchlevelarea.amountarea.truckslabel	18	Max Amount Stored At Destination	Max Amount Stored At Destination
+destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.destinationtextarea.dispatchlevelarea.amountarea.truckslabel	18	Max Amount Stored At Destination	최대한 목적지에 저장
 destinationsmodule.mainarea.destinationsarea.manualarea.viewport.content.destinationsarea.destinationarea.togglebuilding(1).tooltip	30	TOGGLE DESTINATION SLOT	TOGGLE DESTINATION SLOT
 destinationsmodule.mainarea.destinationsarea.autowharea.toggleautopushtargetarea.text	8	Auto Target	Auto Target
 destinationsmodule.mainarea.destinationsarea.autowharea.slotsamountarea.truckslabel	5	Slots	Slots
@@ -1594,19 +1595,19 @@ farmoverviewmodule.farminfoarea.factoryinfo1area(6).titletext	20	BUILDING UPKEEP
 farmoverviewmodule.addfield.addfieldbutton	30	Build Field ({moduleCost})	필드를 건설합니다 ({moduleCost})
 farmoverviewmodule.addfield.addfieldbutton.addharvesterbuttontext	10	ADD FIELD	필드 추가
 buildingpanelmodule.regionoverviewmodule.modulename	30	REGION	지역
-regiontabviewmodel.regionoverviewmodule.buylogisticalpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE LOGISTICAL PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO PURCHASE THE LOGISTICAL PERMIT FOR THIS REGION FOR {0}?
-regiontabviewmodel.regionoverviewmodule.buyfullpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE FULL BUILD PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO PURCHASE THE FULL BUILD PERMIT FOR THIS REGION FOR {0}?
-regiontabviewmodel.regionoverviewmodule.upgradepermittext	70	ARE YOU SURE YOU WANT TO UPGRADE TO A FULL BUILD PERMIT FOR THIS REGION FOR {0}?	ARE YOU SURE YOU WANT TO UPGRADE TO A FULL BUILD PERMIT FOR THIS REGION FOR {0}?
+regiontabviewmodel.regionoverviewmodule.buylogisticalpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE LOGISTICAL PERMIT FOR THIS REGION FOR {0}?	정말 {0}로 이 지역의 물류 허가증을 구매합니까?
+regiontabviewmodel.regionoverviewmodule.buyfullpermittext	70	ARE YOU SURE YOU WANT TO PURCHASE THE FULL BUILD PERMIT FOR THIS REGION FOR {0}?	정말 {0}로 이 지역의 전 건물 허가증을 구매합니까?
+regiontabviewmodel.regionoverviewmodule.upgradepermittext	70	ARE YOU SURE YOU WANT TO UPGRADE TO A FULL BUILD PERMIT FOR THIS REGION FOR {0}?	정말 {0}로 이 지역의 믈류 허가증을 전 건물 허가증으로 업그레이드합니까?
 regiontabviewmodel.regionoverviewmodule.nohqtext	70	PLACE YOUR HEADQUARTERS BEFORE PURCHASING PERMITS	본사부터 먼저 건설해 주십시오
 regiontabviewmodel.regionoverviewmodule.permitownedtext	40	YOU ALREADY OWN THE FULL BUILD PERMIT FOR THIS REGION	이미 이 지역의 전 건물 허가증을 보유하고 있습니다
 regiontabviewmodel.regionoverviewmodule.notenoughinfluencetext	40	NOT ENOUGH INFLUENCE TO PURCHASE ANY PERMIT FOR THIS REGION	NOT ENOUGH INFLUENCE TO PURCHASE ANY PERMIT FOR THIS REGION
 regionoverviewmodule.regioninfoarealeft.regioninfo1area(3).titletext	20	SURFACE AREA	표면적
 regionoverviewmodule.regioninfoarealeft.regioninfo1area(4).titletext	20	FULL BUILD PERMIT PRICE	전 건물 허가증 가격
 regionoverviewmodule.regioninfoareamiddle.resourcescontent.titletext	20	RESOURCES AVAILABLE IN THE REGION	이 마을에서 사용 가능한 자원
-regionoverviewmodule.purchasepermitarea.purchaselogisticalpermitbutton	30	PRICE <color=#C87C0DFF>{LOGISTICAL_PERMIT_PRICE}</color>\nNETWORKS & STATIONS BUILD CAPABILITIES	PRICE <color=#C87C0DFF>{LOGISTICAL_PERMIT_PRICE}</color>\nNETWORKS & STATIONS BUILD CAPABILITIES
-regionoverviewmodule.purchasepermitarea.purchaselogisticalpermitbutton.setrecipebuttontext	15	BUY LOGISTICAL PERMIT	BUY LOGISTICAL PERMIT
-regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton	30	PRICE <color=#C87C0DFF>{FULL_PERMIT_PRICE}</color>\nFULL BUILD CAPABILITIES	PRICE <color=#C87C0DFF>{FULL_PERMIT_PRICE}</color>\nFULL BUILD CAPABILITIES
-regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton.setrecipebuttontext	15	BUY FULL BUILD PERMIT	BUY FULL BUILD PERMIT
+regionoverviewmodule.purchasepermitarea.purchaselogisticalpermitbutton	30	PRICE <color=#C87C0DFF>{LOGISTICAL_PERMIT_PRICE}</color>\nNETWORKS & STATIONS BUILD CAPABILITIES	가격: <color=#C87C0DFF>{LOGISTICAL_PERMIT_PRICE}</color>\n도로망 & 역 건설 허가
+regionoverviewmodule.purchasepermitarea.purchaselogisticalpermitbutton.setrecipebuttontext	15	BUY LOGISTICAL PERMIT	물류 허가증 구매
+regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton	30	PRICE <color=#C87C0DFF>{FULL_PERMIT_PRICE}</color>\nFULL BUILD CAPABILITIES	가격: <color=#C87C0DFF>{FULL_PERMIT_PRICE}</color>\n모든 건물 건설 허가
+regionoverviewmodule.purchasepermitarea.purchasefullpermitbutton.setrecipebuttontext	15	BUY FULL BUILD PERMIT	전 건물 허가증 구매
 regionoverviewmodule.purchasepermitarea.upgradepermitbutton	30	PRICE <color=#C87C0DFF>{UPGRADE_COST}</color>\nFULL BUILD CAPABILITIES	PRICE <color=#C87C0DFF>{UPGRADE_COST}</color>\nFULL BUILD CAPABILITIES
 regionoverviewmodule.purchasepermitarea.upgradepermitbutton.setrecipebuttontext	15	UPGRADE TO FULL BUILD PERMIT	UPGRADE TO FULL BUILD PERMIT
 regionoverviewmodule.purchasepopup.yesbutton.yesbuttontext	4	YES	예
@@ -1623,31 +1624,31 @@ gathereroverviewmodule.gathererinfoarea.gathererinfo1area(3).titletext	20	LIFETI
 gathereroverviewmodule.gathererinfoarea.gathererinfo1area(4).titletext	20	BUILDING UPKEEP	건물 유지비
 gathereroverviewmodule.addharvesterbutton.addharvesterbutton	30	Build Harvester ({moduleCost})	채집기 건설하기 ({moduleCost})
 gathereroverviewmodule.addharvesterbutton.addharvesterbutton.addharvesterbuttontext	10	ADD HARVESTER	채집기 추가
-buildingpanelmodule.hqloansmodule.modulename	30	LOANS	LOANS
-hqloansmodule.view1.loanarea.loan.payoffbuttonarea.payoffbutton.buttontext	5	PAY OFF	PAY OFF
-hqloansmodule.view1.loanarea.loan.payoffbuttonareadisabled.payoffbutton.buttontext	5	PAY OFF	PAY OFF
-hqloansmodule.view1.loanarea.loan.textarea(1).amounts.amount	30	LOAN AMOUNT REMAINING: <color=#C87C0D>{amount}</color>	LOAN AMOUNT REMAINING: <color=#C87C0D>{amount}</color>
-hqloansmodule.view1.loanarea.loan.textarea(1).amounts.payments	30	PAYMENTS REMAINING: <color=#C87C0D>{duration}</color>	PAYMENTS REMAINING: <color=#C87C0D>{duration}</color>
-hqloansmodule.view1.loanarea.loan.textarea(1).amounts.monthly	30	MONTHLY PAYMENT: <color=#C87C0D>{value}</color>	MONTHLY PAYMENT: <color=#C87C0D>{value}</color>
-hqloansmodule.view1.loanarea.loan.textarea(1).amounts.apr	30	Interest %: <color=#C87C0D>{apr}%</color>	Interest %: <color=#C87C0D>{apr}%</color>
-hqloansmodule.view1.upgradepermitbutton(1).setrecipebuttontext	20	TAKE OUT A LOAN	TAKE OUT A LOAN
-hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.selectbutton.buttontext	5	SELECT	SELECT
-hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).title	20	SETTLEMENT LOAN ({settlement})	SETTLEMENT LOAN ({settlement})
-hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.amount	30	LOAN AMOUNT: <color=#C87C0D>{amount}</color>	LOAN AMOUNT: <color=#C87C0D>{amount}</color>
-hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.payments	30	LOAN LENGTH: <color=#C87C0D>{duration} MONTHS</color>	LOAN LENGTH: <color=#C87C0D>{duration} MONTHS</color>
-hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.apr	30	Interest %: <color=#C87C0D>{apr}%</color>	Interest %: <color=#C87C0D>{apr}%</color>
-hqloansmodule.view2.loanpopup(1).text	50	ARE YOU SURE YOU WANT TO TAKE OUT THIS LOAN?	ARE YOU SURE YOU WANT TO TAKE OUT THIS LOAN?
+buildingpanelmodule.hqloansmodule.modulename	30	LOANS	대출
+hqloansmodule.view1.loanarea.loan.payoffbuttonarea.payoffbutton.buttontext	5	PAY OFF	청산하기
+hqloansmodule.view1.loanarea.loan.payoffbuttonareadisabled.payoffbutton.buttontext	5	PAY OFF	청산하기
+hqloansmodule.view1.loanarea.loan.textarea(1).amounts.amount	30	LOAN AMOUNT REMAINING: <color=#C87C0D>{amount}</color>	잔여 대출금: <color=#C87C0D>{amount}</color>
+hqloansmodule.view1.loanarea.loan.textarea(1).amounts.payments	30	PAYMENTS REMAINING: <color=#C87C0D>{duration}</color>	상환 잔여 회차: <color=#C87C0D>{duration}</color>
+hqloansmodule.view1.loanarea.loan.textarea(1).amounts.monthly	30	MONTHLY PAYMENT: <color=#C87C0D>{value}</color>	월 상환금: <color=#C87C0D>{value}</color>
+hqloansmodule.view1.loanarea.loan.textarea(1).amounts.apr	30	Interest %: <color=#C87C0D>{apr}%</color>	이자율: <color=#C87C0D>{apr}%</color>
+hqloansmodule.view1.upgradepermitbutton(1).setrecipebuttontext	20	TAKE OUT A LOAN	새로운 대출
+hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.selectbutton.buttontext	5	SELECT	선택
+hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).title	20	SETTLEMENT LOAN ({settlement})	정착지 대출 ({settlement})
+hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.amount	30	LOAN AMOUNT: <color=#C87C0D>{amount}</color>	대출금: <color=#C87C0D>{amount}</color>
+hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.payments	30	LOAN LENGTH: <color=#C87C0D>{duration} MONTHS</color>	대출 기간: <color=#C87C0D>{duration} 개월</color>
+hqloansmodule.view2.loanareawrapper.scrollview.viewport.content.loansettlemententry.textarea(1).amounts.apr	30	Interest %: <color=#C87C0D>{apr}%</color>	이자율: <color=#C87C0D>{apr}%</color>
+hqloansmodule.view2.loanpopup(1).text	50	ARE YOU SURE YOU WANT TO TAKE OUT THIS LOAN?	정말로 이 대출을 받습니까?
 hqloansmodule.view2.loanpopup(1).yesbutton.yesbuttontext	50	YES	YES
 hqloansmodule.view2.loanpopup(1).nobutton.nobuttontext	50	NO	NO
-hqloansmodule.view3.loanarea.loantitle	15	SETTLEMENT LOAN	SETTLEMENT LOAN
-hqloansmodule.view3.loanarea.variables.amount.amounttitletext	15	LOAN AMOUNT:	LOAN AMOUNT:
-hqloansmodule.view3.loanarea.variables.length.amounttitletext	15	LOAN LENGTH:	LOAN LENGTH:
-hqloansmodule.view3.loanarea.variables.length.amountcontroller.amounttext	8	{value} Months	{value} Months
-hqloansmodule.view3.loanarea.variables.interest.amounttitletext	15	INTEREST %:	INTEREST %:
+hqloansmodule.view3.loanarea.loantitle	15	SETTLEMENT LOAN	정착지 대출
+hqloansmodule.view3.loanarea.variables.amount.amounttitletext	15	LOAN AMOUNT:	대출금:
+hqloansmodule.view3.loanarea.variables.length.amounttitletext	15	LOAN LENGTH:	대출 기간:
+hqloansmodule.view3.loanarea.variables.length.amountcontroller.amounttext	8	{value} Months	{value} 개월
+hqloansmodule.view3.loanarea.variables.interest.amounttitletext	15	INTEREST %:	이자율:
 hqloansmodule.view3.loanarea.variables.interest.amountcontroller.amounttext	8	{value}%	{value}%
-hqloansmodule.view3.loanarea.variables.monthlycost.amounttitletext	15	MONTHLY COST:	MONTHLY COST:
-hqloansmodule.view3.purchaseloan.rejectbutton.buttontext	15	REJECT	REJECT
-hqloansmodule.view3.purchaseloan.acceptbutton.buttontext	15	ACCEPT	ACCEPT
+hqloansmodule.view3.loanarea.variables.monthlycost.amounttitletext	15	MONTHLY COST:	월 상환금:
+hqloansmodule.view3.purchaseloan.rejectbutton.buttontext	15	REJECT	거절
+hqloansmodule.view3.purchaseloan.acceptbutton.buttontext	15	ACCEPT	수락
 buildingpanelmodule.storagemodule.modulename	30	STORAGE	저장소
 storagemodule.storagebararea(1).titletext	20	BUILDING CAPACITY	건물 수용량
 storagemodule.storagebararea(1).amounttext	20	{USED}/{SLOTS}	{USED}/{SLOTS}
@@ -1675,8 +1676,8 @@ settlementcontractsmodule.contractarea.variables.completionreward.titletext	20	C
 settlementcontractsmodule.contractarea.variables.endlocation.titletext	20	End location:	End location:
 settlementcontractsmodule.contractarea.variables.completiondate.titletext	20	Completion Date:	Completion Date:
 settlementcontractsmodule.contractarea.warningtext	20	Failure to complete the Contract will result in a loss of <color=#C87C0D>{Money}</color> and <color=#C87C0D>-{Influence} Town Influence</color>	Failure to complete the Contract will result in a loss of <color=#C87C0D>{Money}</color> and <color=#C87C0D>-{Influence} Town Influence</color>
-settlementcontractsmodule.contractarea.buttonarea.leftbuttondisabled.buttontext	10	ACCEPT	ACCEPT
-settlementcontractsmodule.contractarea.buttonarea.leftbutton.buttontext	10	ACCEPT	ACCEPT
+settlementcontractsmodule.contractarea.buttonarea.leftbuttondisabled.buttontext	10	ACCEPT	수락
+settlementcontractsmodule.contractarea.buttonarea.leftbutton.buttontext	10	ACCEPT	수락
 settlementcontractsmodule.contractarea.buttonarea.rightbutton.buttontext	10	DECLINE	DECLINE
 settlementcontractsmodule.inactivecontract.textarea.contracttitle	0	No active contracts	활성화된 계약서 없음
 buildingpanelmodule.factoryoverviewmodule.modulename	30	OVERVIEW	개요
@@ -1696,15 +1697,15 @@ warehouseoutgoingmodule.gatheredareawrapper.scrollview.viewport.content.destinat
 warehouseoutgoingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.togglebuilding(1).tooltip	30	TOGGLE DESTINATION SLOT	TOGGLE DESTINATION SLOT
 warehouseoutgoingmodule.gatheredareawrapper.scrollview.viewport.content.destinationsarea.destinationarea.producticon.producticon	30	{product}\n<color=#C87C0D>{amount} delivered every {days} days (Est.)</color>	{product}\n<color=#C87C0D>{amount} delivered every {days} days (Est.)</color>
 warehouseoutgoingmodule.gatheredareawrapper.vehiclemanagement.truckslabel	20	TRUCKS AVAILABLE	TRUCKS AVAILABLE
-buildingpanelmodule.hqresearchmodule.modulename	30	RESEARCH	RESEARCH
-hqresearchmodule.content.efficiencyarea(1).title(1)	20	MONTHLY INVESTMENT	MONTHLY INVESTMENT
-hqresearchmodule.content.currentresearch.title(2)	20	CURRENT RESEARCH	CURRENT RESEARCH
+buildingpanelmodule.hqresearchmodule.modulename	30	RESEARCH	연구
+hqresearchmodule.content.efficiencyarea(1).title(1)	20	MONTHLY INVESTMENT	월 연구비
+hqresearchmodule.content.currentresearch.title(2)	20	CURRENT RESEARCH	현재 연구
 hqresearchmodule.content.currentresearch.queueinfoareaactive(1).textarea.time	20	EST. Completion \n<color=#C87C0D>1 DAY</color>	EST. Completion \n<color=#C87C0D>1 DAY</color>
 hqresearchmodule.content.currentresearch.queueinfoareaactive(1).textarea.timeplural	20	TIME REMAINING: <color=#C87C0D>{time} DAYS</color>	TIME REMAINING: <color=#C87C0D>{time} DAYS</color>
 hqresearchmodule.content.currentresearch.queueinfoareaactive(1).noresearcharea.noresearchtext	20	Research Disabled	Research Disabled
-hqresearchmodule.content.currentresearch.queueinfoareainactive(1).textarea.descriptiontext	20	SELECT AN UNLOCK TO QUEUE	SELECT AN UNLOCK TO QUEUE
-hqresearchmodule.content.queuearea(1).title(1)	20	UNLOCK QUEUE	UNLOCK QUEUE
-hqresearchmodule.upgradepermitbutton(1).setrecipebuttontext	20	GO TO THE TECH TREE	GO TO THE TECH TREE
+hqresearchmodule.content.currentresearch.queueinfoareainactive(1).textarea.descriptiontext	20	SELECT AN UNLOCK TO QUEUE	잠금 해제를 클릭해 대기열 추가
+hqresearchmodule.content.queuearea(1).title(1)	20	UNLOCK QUEUE	잠금 해제 대기열
+hqresearchmodule.upgradepermitbutton(1).setrecipebuttontext	20	GO TO THE TECH TREE	기술 트리 확인
 moneyoverviewcategory.construction.displayname	20	Building Construction / Demolition	Building Construction / Demolition
 moneyoverviewcategory.contracts.displayname	20	Contracts Completed / Failed	Contracts Completed / Failed
 moneyoverviewcategory.loansonetime.displayname	20	Loans Taken / Paid In Full	Loans Taken / Paid In Full
@@ -1736,7 +1737,7 @@ helptopic.hqbuilding.title	20	Hq Building	Hq Building
 helptopic.hqbuilding.body	0	The HQ building represents the center of your industrial empire. It handles your Tech Tree as well as your loans. When placed, the HQ building awards that Region's Full Build Permit. Though it cannot be moved from once placed, It can be modified to better reflect your playstyle after you researched deep enough into a Tech Tree.\n\n<b>Placing a HQ Building</b>\n<b>1.</b> Place a HQ Building by choosing ot in the Construction Menu at the HQ Tab\n{image, tut-hq-01, 120}\n<b>2.</b> Once built the HQ Building’s panel should automatically open. If not, Click on the HQ Building to open its panel	The HQ building represents the center of your industrial empire. It handles your Tech Tree as well as your loans. When placed, the HQ building awards that Region's Full Build Permit. Though it cannot be moved from once placed, It can be modified to better reflect your playstyle after you researched deep enough into a Tech Tree.\n\n<b>Placing a HQ Building</b>\n<b>1.</b> Place a HQ Building by choosing ot in the Construction Menu at the HQ Tab\n{image, tut-hq-01, 120}\n<b>2.</b> Once built the HQ Building’s panel should automatically open. If not, Click on the HQ Building to open its panel
 helptopic.influence.title	20	Influence	Influence
 helptopic.influence.body	0	Influence represents the relationship between the Player and a Settlement based on the actions taken by the Player within that Settlement’s Region. If a Player does something that the Settlement likes, like supplying Products, the Player’s Influence with that Settlement increases. If the Player does something that the Settlement does not like, such as placing Farms or Factories too close to the Settlement, then the Player’s Influence with that Settlement will decrease.\n\nInfluence with a Settlement will affect what the player can and cannot do within a Region. Having a low influence score will mean that the player cannot place buildings or roads in that Region. While having a higher Influence not only allows the player to place buildings but it also helps them take out a loan with that settlement, lowering the interest of their loans and increasing the possible dollar amount.	Influence represents the relationship between the Player and a Settlement based on the actions taken by the Player within that Settlement’s Region. If a Player does something that the Settlement likes, like supplying Products, the Player’s Influence with that Settlement increases. If the Player does something that the Settlement does not like, such as placing Farms or Factories too close to the Settlement, then the Player’s Influence with that Settlement will decrease.\n\nInfluence with a Settlement will affect what the player can and cannot do within a Region. Having a low influence score will mean that the player cannot place buildings or roads in that Region. While having a higher Influence not only allows the player to place buildings but it also helps them take out a loan with that settlement, lowering the interest of their loans and increasing the possible dollar amount.
-helptopic.loans.title	20	Loans	Loans
+helptopic.loans.title	20	LOANS	대출
 helptopic.loans.body	0	There are several types of loans in Rise of Industry to help get through the tough times.\n\n<b>Starter Loan</b>\nThis loan is the starting budget when a player starts a game. The amount varies depending on the difficulty chosen at game creation. If the player set the difficulty low enough, then the loan becomes a grant and does not need to be repaid.\n\n<b>Settlement Loan</b>\nIf you want to set up a new product line or coming up short for this month's payment but want to avoid the Bankruptcy loan, you can take out a loan with one of the Settlements on your map. Though there is a baseline loan with all Settlements, If you have enough Influence with a particular Settlement, you can lower the interest rate, increase or decrease the lending amount and even change the duration of the loan. Loans are taken out through the HQ Building.\n\n<b>Bankruptcy Loan</b>\nThis is a last-ditch effort for the player to save their business before it's game over. The loan is 5 Million dollars for 60 months at 25% interest without the possibility to change it with influence. A harsh deal to take but if the Player can turn their empire around it might be worth giving it a try.	There are several types of loans in Rise of Industry to help get through the tough times.\n\n<b>Starter Loan</b>\nThis loan is the starting budget when a player starts a game. The amount varies depending on the difficulty chosen at game creation. If the player set the difficulty low enough, then the loan becomes a grant and does not need to be repaid.\n\n<b>Settlement Loan</b>\nIf you want to set up a new product line or coming up short for this month's payment but want to avoid the Bankruptcy loan, you can take out a loan with one of the Settlements on your map. Though there is a baseline loan with all Settlements, If you have enough Influence with a particular Settlement, you can lower the interest rate, increase or decrease the lending amount and even change the duration of the loan. Loans are taken out through the HQ Building.\n\n<b>Bankruptcy Loan</b>\nThis is a last-ditch effort for the player to save their business before it's game over. The loan is 5 Million dollars for 60 months at 25% interest without the possibility to change it with influence. A harsh deal to take but if the Player can turn their empire around it might be worth giving it a try.
 helptopic.logistics.title	20	Logistics	Logistics
 helptopic.logistics.body	0	{link, Depots, Depots}\nDepots (and Terminals) allow you to move a large amount of product from one Depot to another instead of sending all of your Trucks to the far reaches of the map\n\n<b>They come in three flavours</b>\n<b>1. Truck Depot:</b> high capacity trucks meant for short-medium distance hauls\n{image, image-tut-logistics-05, 120}\n<b>2. Train Terminal:</b> lots of wagons to carry all your goods over long distances\n{image, image-tut-logistics-06, 120}\n<b>3. Boat Depots:</b> boats will slowly carry all your precious cargo across rivers, lakes and even coastlines\n{image, image-tut-logistics-07, 120}\n\n{link, Trade Routes, Trade Routes}\nTrade Routes are the method of which mass amounts of goods are moved from one Depot to another. When you want to create a Trade Route you can move products from one Depot type to another of the same type, but not another. <i>For example, Train Terminals to other Train Terminals or Boat Depots to other Boat Depots.</i>\n\n<b>Using Trade Routes</b>\n<b>1.</b> Once you have two Depots of the same type connected you can start moving products from one to another\n{image, image-tut-logistics-08, 120}\n<b>2.</b> Click on the Trade Routes Icon\n{image, tut-logi-04, 120}\n<b>3.</b> Click on the Add Route button in the upper left corner of the panel\n<b>4.</b> Select the Depot type you wish to work with and Click the Depot you wish to start with from the list\n<b>5.</b> Click on the [+] button to select the product(s) you want to send. They will appear in Green. Depending on the Depot, You will be limited to one product or can select multiple different products\n{image, tutorial-image-20, 120}\n<b>6.</b> Repeat until all of the product Slots are filled (Unless you wish to pick up other products at other Depots)\n<b>7.</b> Click on the Add Stop button in the upper right corner of the panel, Select the same Depot Type as Step 4, and Click on the Depot you wish for the Trade Route to go to first. <i>You should see all of the goods you selected at the in Step 5 but in Red</i>\n{image, image-tut-logistics-13, 120}\n<b>8.</b> Assign the desired number of Fleets you want to the Trade Route\n{image, image-tut-logistics-14, 120}\n<b>9.</b> Click on the Start Arrow next to the route to enable the Trade Route\n{image, image-tut-logistics-15, 120}\n<b>10.</b> Once the Depot has enough of a product that matches the products assigned to the Trade Route it will sent its transport vehicles out to the next Depot on the Trade Route list\n\nYou now have a Trade Route!\nYou can also assign multiple stops to a Trade Route where they will pick up and/or drop off goods at each stop. Simply change the status of each product by clicking the arrow icon on each product to either Drop Off (Red), Leave the product on the transport (Black), Pick up a product (Green) or a new product by Clicking the [+] button\n{image, image-tut-logistics-17, 120}	{link, Depots, Depots}\nDepots (and Terminals) allow you to move a large amount of product from one Depot to another instead of sending all of your Trucks to the far reaches of the map\n\n<b>They come in three flavours</b>\n<b>1. Truck Depot:</b> high capacity trucks meant for short-medium distance hauls\n{image, image-tut-logistics-05, 120}\n<b>2. Train Terminal:</b> lots of wagons to carry all your goods over long distances\n{image, image-tut-logistics-06, 120}\n<b>3. Boat Depots:</b> boats will slowly carry all your precious cargo across rivers, lakes and even coastlines\n{image, image-tut-logistics-07, 120}\n\n{link, Trade Routes, Trade Routes}\nTrade Routes are the method of which mass amounts of goods are moved from one Depot to another. When you want to create a Trade Route you can move products from one Depot type to another of the same type, but not another. <i>For example, Train Terminals to other Train Terminals or Boat Depots to other Boat Depots.</i>\n\n<b>Using Trade Routes</b>\n<b>1.</b> Once you have two Depots of the same type connected you can start moving products from one to another\n{image, image-tut-logistics-08, 120}\n<b>2.</b> Click on the Trade Routes Icon\n{image, tut-logi-04, 120}\n<b>3.</b> Click on the Add Route button in the upper left corner of the panel\n<b>4.</b> Select the Depot type you wish to work with and Click the Depot you wish to start with from the list\n<b>5.</b> Click on the [+] button to select the product(s) you want to send. They will appear in Green. Depending on the Depot, You will be limited to one product or can select multiple different products\n{image, tutorial-image-20, 120}\n<b>6.</b> Repeat until all of the product Slots are filled (Unless you wish to pick up other products at other Depots)\n<b>7.</b> Click on the Add Stop button in the upper right corner of the panel, Select the same Depot Type as Step 4, and Click on the Depot you wish for the Trade Route to go to first. <i>You should see all of the goods you selected at the in Step 5 but in Red</i>\n{image, image-tut-logistics-13, 120}\n<b>8.</b> Assign the desired number of Fleets you want to the Trade Route\n{image, image-tut-logistics-14, 120}\n<b>9.</b> Click on the Start Arrow next to the route to enable the Trade Route\n{image, image-tut-logistics-15, 120}\n<b>10.</b> Once the Depot has enough of a product that matches the products assigned to the Trade Route it will sent its transport vehicles out to the next Depot on the Trade Route list\n\nYou now have a Trade Route!\nYou can also assign multiple stops to a Trade Route where they will pick up and/or drop off goods at each stop. Simply change the status of each product by clicking the arrow icon on each product to either Drop Off (Red), Leave the product on the transport (Black), Pick up a product (Green) or a new product by Clicking the [+] button\n{image, image-tut-logistics-17, 120}
@@ -1868,7 +1869,7 @@ constructionbarcommand.farmsconbarcommand.commandname	0	Farms	농장건물
 constructionbarcommand.gatherersconbarcommand.commandname	0	Gatherers	자원건물
 constructionbarcommand.logisticsconbarcommand.commandname	0	Logistics	수송건물
 constructionbarcommand.networksconbarcommand.commandname	0	Networks	도로건설
-constructionbarcommand.prototypefacilitiesconbarcommand.commandname	0	Prototype Facilities	대형 공장 건물
+constructionbarcommand.prototypefacilitiesconbarcommand.commandname	0	Prototype Facilities	하이테크 공장 건물
 constructionbarcommand.terraformingconbarcommand.commandname	0	Terraforming	지형툴
 constructionbarcommand.tunnelsconbarcommand.commandname	0	Tunnels	터널건설
 constructionbarcommand.undoconbarcommand.commandname	0	Undo	행동 되돌리기
